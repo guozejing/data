@@ -1,0 +1,174 @@
+{
+    "username": "18600273174",
+    "pwd": "123456",
+    "real_name": "郭晶晶",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1987-06-07",
+    "id_card": "3427**********2400",
+    "social_insurance": {
+        "companies": [
+            "百度222",
+            "搜狗222"
+        ],
+        "area": "北京市朝阳区社会保险基金管理中心22",
+        "payer_category": "外阜城镇职工22",
+        "insurer_category": "在职职工22",
+        "pension_years": "8 年 8 个月22",
+        "medical_years": "8 年 9 个月22",
+        "declare": {
+            "salary": "32000",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "23435"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "23435"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "23435"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "29129"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "29129"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2001-08",
+                "company": "阿里巴巴",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    }
+                ]
+            },
+            {
+                "year_month": "2001-08",
+                "company": "阿里巴巴",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "生育",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23435",
+                        "company_deposit": "222",
+                        "personal_deposit": "2334"
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "公积金账号",
+            "company": "单位名称",
+            "register_number": "单位登记号",
+            "department": "所属部门",
+            "balance": "账户余额",
+            "state": "缴存状态",
+            "current_deposit": "当年缴存余额",
+            "current_withdraw": "当年缴存余额",
+            "last_settlement": "上年结转余额(元)",
+            "company_rate": "单位缴存比例",
+            "personal_rate": "个人缴存比例",
+            "month_company_deposit": "单位月缴存(元)",
+            "month_personal_deposit": "单位月缴存(元)",
+            "base": "个人缴存基数(元)",
+            "month_deposit": "月缴存额(元)"
+        },
+        "bills": [
+            {
+                "year_range": "2019-2020",
+                "amount": "14343.23"
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "14343.23"
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "14343.23"
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "14343.23"
+            },
+            {
+                "year_range": "2015-2016",
+                "amount": "14343.23"
+            }
+        ]
+    }
+}
