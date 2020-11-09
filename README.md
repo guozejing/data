@@ -1,6 +1,6 @@
 # 用户数据文件
 ## 说明
-- data目录下面存放的是用户的北京通数据，数据格式为[JSON](https://baike.baidu.com/item/JSON/2462549?fr=aladdin)格式，文件后缀为**.json**
+- data目录下面存放的是用户的北京通数据，数据格式为[JSON](https://baike.baidu.com/item/JSON/2462549?fr=aladdin)格式，文件后缀为 **.json**
 - 文件名以用户手机号/登录账号命名
 - JSON数据格式校验 https://www.sojson.com/  ，拷贝文件内容到输入框中，点击“校验/格式化”即可，如果是绿色说明格式正确，反之错误需要修改
 
