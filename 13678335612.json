@@ -149,6 +149,35 @@
 			"base": "30000",
 			"month_deposit": "7000"
 		},
+		"details":[
+			{
+				"balance":"8678",
+				"deposit":"6000",
+				"opt_month":"2020-10",
+				"opt_money":"-0",
+				"opt_day":"2020-11-14",
+				"opt_type":"汇缴分配",
+				"opt_company":"百度科技有限公司"
+			},
+			{
+				"balance":"6108",
+				"deposit":"3000",
+				"opt_month":"2020-09",
+				"opt_money":"-0",
+				"opt_day":"2020-10-04",
+				"opt_type":"汇缴分配",
+				"opt_company":"百度科技有限公司"
+			},
+			{
+				"balance":"6678",
+				"deposit":"5000",
+				"opt_month":"2020-08",
+				"opt_money":"-0",
+				"opt_day":"2020-09-24",
+				"opt_type":"汇缴分配",
+				"opt_company":"百度科技有限公司"
+			}
+		],
 		"bills": [
 			{
 				"year_range": "2019-2020",
