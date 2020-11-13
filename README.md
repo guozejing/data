@@ -186,6 +186,42 @@
 			"base":"个人缴存基数(元)",
 			"month_deposit":"月缴存额(元)"
 		},
+		// 公积金缴纳详细信息
+		"details":[
+			{
+				// 余额
+				"balance":"6678",
+				// 存入
+				"deposit":"5000",
+				// 汇缴月份
+				"opt_month":"2020-10",
+				"opt_money":"-0",
+				// 发送业务日期
+				"opt_day":"2020-11-04",
+				// 类型
+				"opt_type":"汇缴分配",
+				// 汇缴单位
+				"opt_company":"百度科技有限公司"
+			},
+			{
+				"balance":"8678",
+				"deposit":"6000",
+				"opt_month":"2020-10",
+				"opt_money":"-0",
+				"opt_day":"2020-11-14",
+				"opt_type":"汇缴分配",
+				"opt_company":"百度科技有限公司"
+			},
+			{
+				"balance":"8678",
+				"deposit":"6000",
+				"opt_month":"2020-10",
+				"opt_money":"-0",
+				"opt_day":"2020-11-14",
+				"opt_type":"汇缴分配",
+				"opt_company":"百度科技有限公司"
+			}
+		],
 		// 对账单
 		"bills":[
 			{
