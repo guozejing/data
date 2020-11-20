@@ -388,6 +388,8 @@
             "month_personal_deposit": "2,000.20",
             "base": "16,666.66",
             "month_deposit": "4,000.40"
-        }
+        },
+        "details":[],
+        "bills": []
     }
 }
