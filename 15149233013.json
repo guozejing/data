@@ -1,47 +1,47 @@
 {
     "username": "15149233013",
     "pwd": "123456",
-    "real_name": "张三四",
+    "real_name": "于庆安",
     "sex": "男",
     "ethnic_group": "汉",
-    "birthday": "1988-06-07",
-    "id_card": "110101198001010010",
+    "birthday": "1969-11-16",
 	"card": "527039982678",
+    "id_card": "152127196911161612",
     "social_insurance": {
         "companies": [
-            "北京中南海"
+            "中国铁路北京局集团有限公司"
         ],
-        "area": "北京市朝阳区社会保险基金管理中心",
+        "area": "北京市海淀区社会保险基金管理中心",
         "payer_category": "外阜城镇职工",
-        "pension_years": "8 年 8 个月",
+        "pension_years": "8 年 9 个月",
         "medical_years": "8 年 9 个月",
         "declare": {
-            "salary": "32000",
+            "salary": "18750",
             "insurances": [
                 {
                     "type": "养老",
                     "state": "正常(缴费)",
-                    "base": "32000"
+                    "base": "18750"
                 },
                 {
                     "type": "失业",
                     "state": "正常(缴费)",
-                    "base": "32000"
+                    "base": "18750"
                 },
                 {
                     "type": "工伤",
                     "state": "正常(缴费)",
-                    "base": "32000"
+                    "base": "18750"
                 },
                 {
                     "type": "生育",
                     "state": "正常(缴费)",
-                    "base": "32000"
+                    "base": "18750"
                 },
                 {
                     "type": "医疗",
                     "state": "正常(缴费)",
-                    "base": "32000"
+                    "base": "18750"
                 }
             ]
         },
@@ -60,219 +60,1769 @@
         },
         "records": [
             {
-                "year_month": "2020-04",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
+                "year_month": "2016-01",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "22464",
-                        "company_deposit": "4492.80 ",
-                        "personal_deposit": "1780.94 "
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
                     },
                     {
                         "type": "失业",
-                        "base": "22464",
-                        "company_deposit": "179.73 ",
-                        "personal_deposit": "44.94 "
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "22464",
-                        "company_deposit": "89.85 ",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "22464",
-                        "company_deposit": "2246.40 ",
-                        "personal_deposit": "456.74 "
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15750",
+                        "company_deposit": "3150.00 ",
+                        "personal_deposit": "1248.65 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15750",
+                        "company_deposit": "126.01 ",
+                        "personal_deposit": "31.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15750",
+                        "company_deposit": "63.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15750",
+                        "company_deposit": "1575.00 ",
+                        "personal_deposit": "320.23 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17250",
+                        "company_deposit": "3450.00 ",
+                        "personal_deposit": "1367.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17250",
+                        "company_deposit": "138.01 ",
+                        "personal_deposit": "34.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17250",
+                        "company_deposit": "69.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17250",
+                        "company_deposit": "1725.00 ",
+                        "personal_deposit": "350.73 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
                     }
                 ]
             },
             {
                 "year_month": "2020-05",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "22464",
-                        "company_deposit": "4492.80 ",
-                        "personal_deposit": "1780.94 "
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
                     },
                     {
                         "type": "失业",
-                        "base": "22464",
-                        "company_deposit": "179.73 ",
-                        "personal_deposit": "44.94 "
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "22464",
-                        "company_deposit": "89.85 ",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "22464",
-                        "company_deposit": "2246.40 ",
-                        "personal_deposit": "456.74 "
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
                     }
                 ]
             },
             {
                 "year_month": "2020-06",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "22464",
-                        "company_deposit": "4492.80 ",
-                        "personal_deposit": "1780.94 "
+                        "base": "18000",
+                        "company_deposit": "3600.00 ",
+                        "personal_deposit": "1427.03 "
                     },
                     {
                         "type": "失业",
-                        "base": "22464",
-                        "company_deposit": "179.73 ",
-                        "personal_deposit": "44.94 "
+                        "base": "18000",
+                        "company_deposit": "144.01 ",
+                        "personal_deposit": "36.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "22464",
-                        "company_deposit": "89.85 ",
+                        "base": "18000",
+                        "company_deposit": "72.00 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "22464",
-                        "company_deposit": "2246.40 ",
-                        "personal_deposit": "456.74 "
+                        "base": "18000",
+                        "company_deposit": "1800.00 ",
+                        "personal_deposit": "365.97 "
                     }
                 ]
             },
             {
                 "year_month": "2020-07",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "23400",
-                        "company_deposit": "4680.00 ",
-                        "personal_deposit": "1855.14 "
+                        "base": "18750",
+                        "company_deposit": "3750.00 ",
+                        "personal_deposit": "1486.49 "
                     },
                     {
                         "type": "失业",
-                        "base": "23400",
-                        "company_deposit": "187.21 ",
-                        "personal_deposit": "46.81 "
+                        "base": "18750",
+                        "company_deposit": "150.01 ",
+                        "personal_deposit": "37.51 "
                     },
                     {
                         "type": "工伤",
-                        "base": "23400",
-                        "company_deposit": "93.59 ",
+                        "base": "18750",
+                        "company_deposit": "75.00 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "23400",
-                        "company_deposit": "2340.00 ",
-                        "personal_deposit": "475.77 "
+                        "base": "18750",
+                        "company_deposit": "1875.00 ",
+                        "personal_deposit": "381.22 "
                     }
                 ]
             },
             {
                 "year_month": "2020-08",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "23400",
-                        "company_deposit": "4680.00 ",
-                        "personal_deposit": "1855.14 "
+                        "base": "18750",
+                        "company_deposit": "3750.00 ",
+                        "personal_deposit": "1486.49 "
                     },
                     {
                         "type": "失业",
-                        "base": "23400",
-                        "company_deposit": "187.21 ",
-                        "personal_deposit": "46.81 "
+                        "base": "18750",
+                        "company_deposit": "150.01 ",
+                        "personal_deposit": "37.51 "
                     },
                     {
                         "type": "工伤",
-                        "base": "23400",
-                        "company_deposit": "93.59 ",
+                        "base": "18750",
+                        "company_deposit": "75.00 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "23400",
-                        "company_deposit": "2340.00 ",
-                        "personal_deposit": "475.77 "
+                        "base": "18750",
+                        "company_deposit": "1875.00 ",
+                        "personal_deposit": "381.22 "
                     }
                 ]
             },
             {
                 "year_month": "2020-09",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
+                "company": "中国铁路北京局集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "23400",
-                        "company_deposit": "4680.00 ",
-                        "personal_deposit": "1855.14 "
+                        "base": "18750",
+                        "company_deposit": "3750.00 ",
+                        "personal_deposit": "1486.49 "
                     },
                     {
                         "type": "失业",
-                        "base": "23400",
-                        "company_deposit": "187.21 ",
-                        "personal_deposit": "46.81 "
+                        "base": "18750",
+                        "company_deposit": "150.01 ",
+                        "personal_deposit": "37.51 "
                     },
                     {
                         "type": "工伤",
-                        "base": "23400",
-                        "company_deposit": "93.59 ",
+                        "base": "18750",
+                        "company_deposit": "75.00 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "23400",
-                        "company_deposit": "2340.00 ",
-                        "personal_deposit": "475.77 "
-                    }
-                ]
-            },
-            {
-                "year_month": "2020-10",
-                "company": "北京中南海",
-                "area": "北京市朝阳区社会保险基金管理中心",
-                "insurances": [
-                    {
-                        "type": "养老",
-                        "base": "23400",
-                        "company_deposit": "4680.00 ",
-                        "personal_deposit": "1855.14 "
-                    },
-                    {
-                        "type": "失业",
-                        "base": "23400",
-                        "company_deposit": "187.21 ",
-                        "personal_deposit": "46.81 "
-                    },
-                    {
-                        "type": "工伤",
-                        "base": "23400",
-                        "company_deposit": "93.59 ",
-                        "personal_deposit": "0.00 "
-                    },
-                    {
-                        "type": "医疗",
-                        "base": "23400",
-                        "company_deposit": "2340.00 ",
-                        "personal_deposit": "475.77"
+                        "base": "18750",
+                        "company_deposit": "1875.00 ",
+                        "personal_deposit": "381.22 "
                     }
                 ]
             }
@@ -280,21 +1830,21 @@
     },
     "accumulation_fund": {
         "general": {
-            "account": "GJJ123456789",
-            "company": "北京中南海",
-            "register_number": "00000123",
-            "department": "西城管理部",
-            "balance": "1,234,567.89",
+            "account": "GJJ073728211",
+            "company": "中国铁路北京局集团有限公司",
+            "register_number": "00003721",
+            "department": "海淀管理部",
+            "balance": "258,373.68",
             "state": "缴存",
-            "current_deposit": "200,000.00",
-            "current_withdraw": "150,000.00",
-            "last_settlement": "500,000.00",
+            "current_deposit": "22,500.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "235,873.68",
             "company_rate": "12%",
             "personal_rate": "12%",
-            "month_company_deposit": "2,000.20",
-            "month_personal_deposit": "2,000.20",
-            "base": "16,666.66",
-            "month_deposit": "4,000.40"
+            "month_company_deposit": "2,250.00",
+            "month_personal_deposit": "2,250.00",
+            "base": "18,750.00",
+            "month_deposit": "4,500.00"
         }
     }
 }
