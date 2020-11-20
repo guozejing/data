@@ -1,452 +1,351 @@
 {
-	
-	"username":"18600273179",
-	
-	"pwd":"123456",
-	
-	"real_name":"锅子",
-	
-	"sex":"女",
-	
-	"ethnic_group":"汉",
-	
-	"birthday":"1988-06-07",
-	
-	"card":"527039982678",
-	
-	"id_card":"3427**********2415",
-	
-	"social_insurance":{
-		
-		"companies":[
-			"百度",
-			"搜狗"
-		],
-		
-		"area":"北京市朝阳区社会保险基金管理中心",
-		"payer_category":"外阜城镇职工",
-		"insurer_category":"在职职工",
-		"pension_years":"8 年 8 个月",
-		"medical_years":"8 年 9 个月",
-		
-		"declare":{
-			"salary":"32000",
-			"insurances":[
-				{
-					"type":"养老",
-					"state":"正常(缴费)",
-					"base":"23435"
-				},
-				{
-					"type":"失业",
-					"state":"正常(缴费)",
-					"base":"23435"
-				},
-				{
-					"type":"工伤",
-					"state":"正常(缴费)",
-					"base":"23435"
-				},
-				{
-					"type":"生育",
-					"state":"正常(缴费)",
-					"base":"29129"
-				},
-				{
-					"type":"医疗",
-					"state":"正常(缴费)",
-					"base":"29129"
-				}
-			]
+	"username": "18600273179",
+	"pwd": "123456",
+	"real_name": "锅子",
+	"sex": "女",
+	"ethnic_group": "汉",
+	"birthday": "1988-06-07",
+	"card": "527039982678",
+	"id_card": "3427**********2415",
+	"social_insurance": {
+		"companies": ["百度", "搜狗"],
+		"area": "北京市朝阳区社会保险基金管理中心",
+		"payer_category": "外阜城镇职工",
+		"insurer_category": "在职职工",
+		"pension_years": "8 年 8 个月",
+		"medical_years": "8 年 9 个月",
+		"declare": {
+			"salary": "32000",
+			"insurances": [{
+				"type": "养老",
+				"state": "正常(缴费)",
+				"base": "23435"
+			}, {
+				"type": "失业",
+				"state": "正常(缴费)",
+				"base": "23435"
+			}, {
+				"type": "工伤",
+				"state": "正常(缴费)",
+				"base": "23435"
+			}, {
+				"type": "生育",
+				"state": "正常(缴费)",
+				"base": "29129"
+			}, {
+				"type": "医疗",
+				"state": "正常(缴费)",
+				"base": "29129"
+			}]
 		},
-		
-		"treatment":"享受实时结算",
-		
-		"count":{
-			"year":"2020",
-			
-			"clinic":{
-				
-				"big":"0",
-				
-				"medical":"0"
+		"treatment": "享受实时结算",
+		"count": {
+			"year": "2020",
+			"clinic": {
+				"big": "0",
+				"medical": "0"
 			},
-			
-			"hospitalized":{
-				
-				"whole":"0",
-				
-				"big":"0",
-				
-				"medical":"0"
+			"hospitalized": {
+				"whole": "0",
+				"big": "0",
+				"medical": "0"
 			}
 		},
-		
-		"records":[
-			{
-				"year_month":"2020-01",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-02",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"生育",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-03",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-04",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-05",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-06",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-07",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			},
-			{
-				"year_month":"2020-08",
-				"company":"阿里巴巴",
-				"area":"北京市朝阳区社会保险基金管理中心",
-				"insurances":[
-					{
-						"type":"养老",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"失业",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"工伤",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					},
-					{
-						"type":"医疗",
-						"base":"23435",
-						"company_deposit":"222",
-						"personal_deposit":"2334"
-					}
-				]
-			}
-		]
+		"records": [{
+			"year_month": "2020-01",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-02",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "生育",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-03",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-04",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-05",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-06",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-07",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}, {
+			"year_month": "2020-08",
+			"company": "阿里巴巴",
+			"area": "北京市朝阳区社会保险基金管理中心",
+			"insurances": [{
+				"type": "养老",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "失业",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "工伤",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}, {
+				"type": "医疗",
+				"base": "23435",
+				"company_deposit": "222",
+				"personal_deposit": "2334"
+			}]
+		}]
 	},
-
-	"accumulation_fund":{
-		
-		"general":{
-			"account":"公积金账号",
-			"company":"单位名称",
-			"register_number":"单位登记号",
-			"department":"所属部门",
-			"balance":"账户余额",
-			"state":"缴存状态",
-			"current_deposit":"当年缴存余额",
-			"current_withdraw":"当年缴存余额",
-			"last_settlement":"上年结转余额(元)",
-			"company_rate":"单位缴存比例",
-			"personal_rate":"个人缴存比例",
-			"month_company_deposit":"单位月缴存(元)",
-			"month_personal_deposit":"单位月缴存(元)",
-			"base":"个人缴存基数(元)",
-			"month_deposit":"月缴存额(元)"
+	"accumulation_fund": {
+		"general": {
+			"account": "公积金账号",
+			"company": "单位名称",
+			"register_number": "单位登记号",
+			"department": "所属部门",
+			"balance": "账户余额",
+			"state": "缴存状态",
+			"current_deposit": "当年缴存余额",
+			"current_withdraw": "当年缴存余额",
+			"last_settlement": "上年结转余额(元)",
+			"company_rate": "单位缴存比例",
+			"personal_rate": "个人缴存比例",
+			"month_company_deposit": "单位月缴存(元)",
+			"month_personal_deposit": "单位月缴存(元)",
+			"base": "个人缴存基数(元)",
+			"month_deposit": "月缴存额(元)"
 		},
-		
-		"details":[
-			{
-				
-				"balance":"6678",
-				
-				"deposit":"5000",
-				
-				"opt_month":"2020-10",
-				"opt_money":"-0",
-				
-				"opt_day":"2020-11-04",
-				
-				"opt_type":"汇缴分配",
-				
-				"opt_company":"百度科技有限公司"
-			},
-			{
-				"balance":"8678",
-				"deposit":"6000",
-				"opt_month":"2020-10",
-				"opt_money":"-0",
-				"opt_day":"2020-11-14",
-				"opt_type":"汇缴分配",
-				"opt_company":"百度科技有限公司"
-			},
-			{
-				"balance":"8678",
-				"deposit":"6000",
-				"opt_month":"2020-10",
-				"opt_money":"-0",
-				"opt_day":"2020-11-14",
-				"opt_type":"汇缴分配",
-				"opt_company":"百度科技有限公司"
+		"details": [{
+			"balance": "6678",
+			"deposit": "5000",
+			"opt_month": "2020-10",
+			"opt_money": "-0",
+			"opt_day": "2020-11-04",
+			"opt_type": "汇缴分配",
+			"opt_company": "百度科技有限公司"
+		}, {
+			"balance": "8678",
+			"deposit": "6000",
+			"opt_month": "2020-10",
+			"opt_money": "-0",
+			"opt_day": "2020-11-14",
+			"opt_type": "汇缴分配",
+			"opt_company": "百度科技有限公司"
+		}, {
+			"balance": "8678",
+			"deposit": "6000",
+			"opt_month": "2020-10",
+			"opt_money": "-0",
+			"opt_day": "2020-11-14",
+			"opt_type": "汇缴分配",
+			"opt_company": "百度科技有限公司"
+		}],
+		"bills": [{
+			"year_range": "2019-2020",
+			"amount": "14343.23",
+			"detail": {
+				"last_settlement": "20000",
+				"current_deposit": "10000",
+				"current_withdraw": "10000",
+				"interest": "50"
 			}
-		],
-		
-		"bills":[
-			{
-				"year_range":"2019-2020",
-				"amount":"14343.23",
-				"detail":{
-					"last_settlement":"20000",
-					"current_deposit":"10000",
-					"current_withdraw":"10000",
-					"interest":"50"
-				}
-			},
-			{
-				"year_range":"2018-2019",
-				"amount":"14343.23",
-				"detail":{
-					"last_settlement":"20000",
-					"current_deposit":"10000",
-					"current_withdraw":"10000",
-					"interest":"50"
-				}
-			},
-			{
-				"year_range":"2017-2018",
-				"amount":"14343.23",
-				"detail":{
-					"last_settlement":"30000",
-					"current_deposit":"10000",
-					"current_withdraw":"6000",
-					"interest":"60"
-				}
-			},
-			{
-				"year_range":"2016-2017",
-				"amount":"14343.23",
-				"detail":{
-					"last_settlement":"50000",
-					"current_deposit":"20000",
-					"current_withdraw":"10000",
-					"interest":"70"
-				}
-			},
-			{
-				"year_range":"2015-2016",
-				"amount":"14343.23",
-				"detail":{
-					"last_settlement":"50000",
-					"current_deposit":"20000",
-					"current_withdraw":"10000",
-					"interest":"70"
-				}
+		}, {
+			"year_range": "2018-2019",
+			"amount": "14343.23",
+			"detail": {
+				"last_settlement": "20000",
+				"current_deposit": "10000",
+				"current_withdraw": "10000",
+				"interest": "50"
 			}
-		]
+		}, {
+			"year_range": "2017-2018",
+			"amount": "14343.23",
+			"detail": {
+				"last_settlement": "30000",
+				"current_deposit": "10000",
+				"current_withdraw": "6000",
+				"interest": "60"
+			}
+		}, {
+			"year_range": "2016-2017",
+			"amount": "14343.23",
+			"detail": {
+				"last_settlement": "50000",
+				"current_deposit": "20000",
+				"current_withdraw": "10000",
+				"interest": "70"
+			}
+		}, {
+			"year_range": "2015-2016",
+			"amount": "14343.23",
+			"detail": {
+				"last_settlement": "50000",
+				"current_deposit": "20000",
+				"current_withdraw": "10000",
+				"interest": "70"
+			}
+		}]
 	}
 }
