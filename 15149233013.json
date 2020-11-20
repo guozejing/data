@@ -5,8 +5,8 @@
     "sex": "男",
     "ethnic_group": "汉",
     "birthday": "1988-06-07",
-	"card": "527039982678",
     "id_card": "110101198001010010",
+	"card": "527039982678",
     "social_insurance": {
         "companies": [
             "北京中南海"
@@ -59,73 +59,68 @@
             }
         },
         "records": [
-{
-				"year_month": "2001-08",
-				"company": "阿里巴巴",
-				"area": "北京市朝阳区社会保险基金管理中心",
-				"insurances": [{
-						"type": "养老",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "失业",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "工伤",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "医疗",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					}
-				]
-			},
-			{
-				"year_month": "2001-08",
-				"company": "阿里巴巴",
-				"area": "北京市朝阳区社会保险基金管理中心",
-				"insurances": [{
-						"type": "养老",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "失业",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "工伤",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "生育",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					},
-					{
-						"type": "医疗",
-						"base": "23435",
-						"company_deposit": "222",
-						"personal_deposit": "2334"
-					}
-				]
-			}
-
+            {
+                "year_month": "2020-09",
+                "company": "北京中南海",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京中南海",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77"
+                    }
+                ]
+            }
         ]
     },
     "accumulation_fund": {
@@ -145,29 +140,6 @@
             "month_personal_deposit": "2,000.20",
             "base": "16,666.66",
             "month_deposit": "4,000.40"
-        },
-        "details":[
-            {
-				"balance": "8678",
-				"deposit": "6000",
-				"opt_month": "2020-10",
-				"opt_money": "-0",
-				"opt_day": "2020-11-14",
-				"opt_type": "汇缴分配",
-				"opt_company": "百度科技有限公司"
-			}
-        ],
-        "bills": [
-            {
-				"year_range": "2019-2020",
-				"amount": "14343.23",
-				"detail": {
-					"last_settlement": "20000",
-					"current_deposit": "10000",
-					"current_withdraw": "10000",
-					"interest": "50"
-                }
-            }
-        ]
+        }
     }
 }
