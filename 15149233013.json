@@ -389,7 +389,28 @@
             "base": "16,666.66",
             "month_deposit": "4,000.40"
         },
-        "details":[],
-        "bills": []
+        "details":[
+            {
+				"balance": "8678",
+				"deposit": "6000",
+				"opt_month": "2020-10",
+				"opt_money": "-0",
+				"opt_day": "2020-11-14",
+				"opt_type": "汇缴分配",
+				"opt_company": "百度科技有限公司"
+			}
+        ],
+        "bills": [
+            {
+				"year_range": "2019-2020",
+				"amount": "14343.23",
+				"detail": {
+					"last_settlement": "20000",
+					"current_deposit": "10000",
+					"current_withdraw": "10000",
+					"interest": "50"
+                }
+            }
+        ]
     }
 }
