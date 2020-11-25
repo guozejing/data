@@ -2340,16 +2340,6 @@
         ],
         "bills": [
             {
-                "year_range": "2020-2021",
-                "amount": "236356.91 ",
-                "detail": {
-                    "last_settlement": "217756.91 ",
-                    "current_deposit": "18600.00 ",
-                    "current_withdraw": "0.00 ",
-                    "interest": "0.00 "
-                }
-            },
-            {
                 "year_range": "2019-2020",
                 "amount": "217756.91 ",
                 "detail": {
