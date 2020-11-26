@@ -38,9 +38,13 @@
 		],
 		// 参保区县
 		"area":"北京市朝阳区社会保险基金管理中心",
+		// 缴费人员类别
 		"payer_category":"外阜城镇职工",
+		// 医疗参保人员类别
 		"insurer_category":"在职职工",
+		// 养老保险实际缴费年限
 		"pension_years":"8 年 8 个月",
+		// 医疗保险实际缴费年限
 		"medical_years":"8 年 9 个月",
 		// 申报工资
 		"declare":{
@@ -177,13 +181,13 @@
 			"department":"所属部门",
 			"balance":"账户余额",
 			"state":"缴存状态",
-			"current_deposit":"当年缴存余额",
-			"current_withdraw":"当年缴存余额",
+			"current_deposit":"当年缴存金额",
+			"current_withdraw":"当年提取余额",
 			"last_settlement":"上年结转余额(元)",
 			"company_rate":"单位缴存比例",
 			"personal_rate":"个人缴存比例",
-			"month_company_deposit":"单位月缴存(元)",
-			"month_personal_deposit":"单位月缴存(元)",
+			"month_company_deposit":"单位月缴存额(元)",
+			"month_personal_deposit":"单位月缴存额(元)",
 			"base":"个人缴存基数(元)",
 			"month_deposit":"月缴存额(元)"
 		},
