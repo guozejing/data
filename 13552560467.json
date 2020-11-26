@@ -13,6 +13,7 @@
         ],
         "area": "北京市海淀区社会保险基金管理中心",
         "payer_category": "外阜城镇职工",
+        "insurer_category":"在职职工",
         "pension_years": "9 年 8 个月",
         "medical_years": "9 年 9 个月",
         "declare": {
