@@ -1,0 +1,1881 @@
+{
+    "username": "13552560467",
+    "pwd": "123456",
+    "real_name": "华正虹",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1970-08-11",
+    "card": "520065383721",
+    "id_card": "230***********2262",
+    "social_insurance": {
+        "companies": [
+            "北京市海淀区妇幼保健院"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "pension_years": "9 年 8 个月",
+        "medical_years": "9 年 9 个月",
+        "declare": {
+            "salary": "19416",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "19416"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "19416"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "19416"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "19416"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "19416"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15532.8",
+                        "company_deposit": "3106.56 ",
+                        "personal_deposit": "1231.43 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15532.8",
+                        "company_deposit": "124.27 ",
+                        "personal_deposit": "31.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15532.8",
+                        "company_deposit": "62.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15532.8",
+                        "company_deposit": "1553.28 ",
+                        "personal_deposit": "315.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15532.8",
+                        "company_deposit": "3106.56 ",
+                        "personal_deposit": "1231.43 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15532.8",
+                        "company_deposit": "124.27 ",
+                        "personal_deposit": "31.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15532.8",
+                        "company_deposit": "62.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15532.8",
+                        "company_deposit": "1553.28 ",
+                        "personal_deposit": "315.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15532.8",
+                        "company_deposit": "3106.56 ",
+                        "personal_deposit": "1231.43 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15532.8",
+                        "company_deposit": "124.27 ",
+                        "personal_deposit": "31.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15532.8",
+                        "company_deposit": "62.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15532.8",
+                        "company_deposit": "1553.28 ",
+                        "personal_deposit": "315.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15532.8",
+                        "company_deposit": "3106.56 ",
+                        "personal_deposit": "1231.43 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15532.8",
+                        "company_deposit": "124.27 ",
+                        "personal_deposit": "31.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15532.8",
+                        "company_deposit": "62.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15532.8",
+                        "company_deposit": "1553.28 ",
+                        "personal_deposit": "315.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15532.8",
+                        "company_deposit": "3106.56 ",
+                        "personal_deposit": "1231.43 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15532.8",
+                        "company_deposit": "124.27 ",
+                        "personal_deposit": "31.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15532.8",
+                        "company_deposit": "62.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15532.8",
+                        "company_deposit": "1553.28 ",
+                        "personal_deposit": "315.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15532.8",
+                        "company_deposit": "3106.56 ",
+                        "personal_deposit": "1231.43 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15532.8",
+                        "company_deposit": "124.27 ",
+                        "personal_deposit": "31.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15532.8",
+                        "company_deposit": "62.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15532.8",
+                        "company_deposit": "1553.28 ",
+                        "personal_deposit": "315.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16309.44",
+                        "company_deposit": "3261.89 ",
+                        "personal_deposit": "1293.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16309.44",
+                        "company_deposit": "130.48 ",
+                        "personal_deposit": "32.63 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16309.44",
+                        "company_deposit": "65.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16309.44",
+                        "company_deposit": "1630.94 ",
+                        "personal_deposit": "331.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17086.08",
+                        "company_deposit": "3417.22 ",
+                        "personal_deposit": "1354.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17086.08",
+                        "company_deposit": "136.70 ",
+                        "personal_deposit": "34.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17086.08",
+                        "company_deposit": "68.34 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17086.08",
+                        "company_deposit": "1708.61 ",
+                        "personal_deposit": "347.39 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17862.72",
+                        "company_deposit": "3572.54 ",
+                        "personal_deposit": "1416.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17862.72",
+                        "company_deposit": "142.91 ",
+                        "personal_deposit": "35.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17862.72",
+                        "company_deposit": "71.45 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17862.72",
+                        "company_deposit": "1786.27 ",
+                        "personal_deposit": "363.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18639.36",
+                        "company_deposit": "3727.87 ",
+                        "personal_deposit": "1477.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18639.36",
+                        "company_deposit": "149.13 ",
+                        "personal_deposit": "37.29 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18639.36",
+                        "company_deposit": "74.55 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18639.36",
+                        "company_deposit": "1863.94 ",
+                        "personal_deposit": "378.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19416",
+                        "company_deposit": "3883.20 ",
+                        "personal_deposit": "1539.29 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19416",
+                        "company_deposit": "155.34 ",
+                        "personal_deposit": "38.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19416",
+                        "company_deposit": "77.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19416",
+                        "company_deposit": "1941.60 ",
+                        "personal_deposit": "394.76 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19416",
+                        "company_deposit": "3883.20 ",
+                        "personal_deposit": "1539.29 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19416",
+                        "company_deposit": "155.34 ",
+                        "personal_deposit": "38.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19416",
+                        "company_deposit": "77.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19416",
+                        "company_deposit": "1941.60 ",
+                        "personal_deposit": "394.76 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19416",
+                        "company_deposit": "3883.20 ",
+                        "personal_deposit": "1539.29 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19416",
+                        "company_deposit": "155.34 ",
+                        "personal_deposit": "38.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19416",
+                        "company_deposit": "77.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19416",
+                        "company_deposit": "1941.60 ",
+                        "personal_deposit": "394.76 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京市海淀区妇幼保健院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19416",
+                        "company_deposit": "3883.20 ",
+                        "personal_deposit": "1539.29 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19416",
+                        "company_deposit": "155.34 ",
+                        "personal_deposit": "38.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19416",
+                        "company_deposit": "77.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19416",
+                        "company_deposit": "1941.60 ",
+                        "personal_deposit": "394.76 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ067583236",
+            "company": "北京市海淀区妇幼保健院",
+            "register_number": "00008392",
+            "department": "海淀管理部",
+            "balance": "200,176.97",
+            "state": "缴存",
+            "current_deposit": "23,300.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "176,876.97",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,330.00",
+            "month_personal_deposit": "2,330.00",
+            "base": "19,416.00",
+            "month_deposit": "4,660.00"
+        }
+    }
+}
