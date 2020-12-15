@@ -2388,16 +2388,6 @@
                     "current_withdraw": "0.00 ",
                     "interest": "242.38 "
                 }
-            },
-            {
-                "year_range": "2016-2017",
-                "amount": "5907.31 ",
-                "detail": {
-                    "last_settlement": "981.33 ",
-                    "current_deposit": "4860.00 ",
-                    "current_withdraw": "0.00 ",
-                    "interest": "65.98 "
-                }
             }
         ]
     }
