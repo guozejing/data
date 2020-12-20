@@ -1859,24 +1859,5 @@
                 ]
             }
         ]
-    },
-    "accumulation_fund": {
-        "general": {
-            "account": "GJJ083928240",
-            "company": "中央民族大学附属中学",
-            "register_number": "00009300",
-            "department": "海淀管理部",
-            "balance": "180,218.40",
-            "state": "缴存",
-            "current_deposit": "25,560.00",
-            "current_withdraw": "0.00",
-            "last_settlement": "154,685.40",
-            "company_rate": "12%",
-            "personal_rate": "12%",
-            "month_company_deposit": "2,130.00",
-            "month_personal_deposit": "2,130.00",
-            "base": "17,750.00",
-            "month_deposit": "4,260.00"
-        }
     }
 }
