@@ -1,0 +1,1944 @@
+{
+    "username": "15247033995",
+    "pwd": "123456",
+    "real_name": "周长利",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1984-02-01",
+    "card": "520083729981",
+    "id_card": "152***********2293",
+    "social_insurance": {
+        "companies": [
+            "中国网络空间研究院"
+        ],
+        "area": "北京市东城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "10 年 3 个月",
+        "medical_years": "10 年 4 个月",
+        "declare": {
+            "salary": "16800",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "16800"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "16800"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "16800"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "16800"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "16800"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13440",
+                        "company_deposit": "2688.00 ",
+                        "personal_deposit": "1065.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13440",
+                        "company_deposit": "107.53 ",
+                        "personal_deposit": "26.89 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13440",
+                        "company_deposit": "53.76 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13440",
+                        "company_deposit": "1344.00 ",
+                        "personal_deposit": "273.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13440",
+                        "company_deposit": "2688.00 ",
+                        "personal_deposit": "1065.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13440",
+                        "company_deposit": "107.53 ",
+                        "personal_deposit": "26.89 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13440",
+                        "company_deposit": "53.76 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13440",
+                        "company_deposit": "1344.00 ",
+                        "personal_deposit": "273.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13440",
+                        "company_deposit": "2688.00 ",
+                        "personal_deposit": "1065.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13440",
+                        "company_deposit": "107.53 ",
+                        "personal_deposit": "26.89 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13440",
+                        "company_deposit": "53.76 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13440",
+                        "company_deposit": "1344.00 ",
+                        "personal_deposit": "273.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13440",
+                        "company_deposit": "2688.00 ",
+                        "personal_deposit": "1065.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13440",
+                        "company_deposit": "107.53 ",
+                        "personal_deposit": "26.89 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13440",
+                        "company_deposit": "53.76 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13440",
+                        "company_deposit": "1344.00 ",
+                        "personal_deposit": "273.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13440",
+                        "company_deposit": "2688.00 ",
+                        "personal_deposit": "1065.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13440",
+                        "company_deposit": "107.53 ",
+                        "personal_deposit": "26.89 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13440",
+                        "company_deposit": "53.76 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13440",
+                        "company_deposit": "1344.00 ",
+                        "personal_deposit": "273.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13440",
+                        "company_deposit": "2688.00 ",
+                        "personal_deposit": "1065.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13440",
+                        "company_deposit": "107.53 ",
+                        "personal_deposit": "26.89 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13440",
+                        "company_deposit": "53.76 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13440",
+                        "company_deposit": "1344.00 ",
+                        "personal_deposit": "273.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14112",
+                        "company_deposit": "2822.40 ",
+                        "personal_deposit": "1118.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14112",
+                        "company_deposit": "112.90 ",
+                        "personal_deposit": "28.23 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14112",
+                        "company_deposit": "56.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14112",
+                        "company_deposit": "1411.20 ",
+                        "personal_deposit": "286.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14784",
+                        "company_deposit": "2956.80 ",
+                        "personal_deposit": "1172.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14784",
+                        "company_deposit": "118.28 ",
+                        "personal_deposit": "29.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14784",
+                        "company_deposit": "59.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14784",
+                        "company_deposit": "1478.40 ",
+                        "personal_deposit": "300.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15456",
+                        "company_deposit": "3091.20 ",
+                        "personal_deposit": "1225.34 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15456",
+                        "company_deposit": "123.66 ",
+                        "personal_deposit": "30.92 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15456",
+                        "company_deposit": "61.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15456",
+                        "company_deposit": "1545.60 ",
+                        "personal_deposit": "314.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16128",
+                        "company_deposit": "3225.60 ",
+                        "personal_deposit": "1278.62 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16128",
+                        "company_deposit": "129.03 ",
+                        "personal_deposit": "32.26 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16128",
+                        "company_deposit": "64.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16128",
+                        "company_deposit": "1612.80 ",
+                        "personal_deposit": "327.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16800",
+                        "company_deposit": "3360.00 ",
+                        "personal_deposit": "1331.90 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16800",
+                        "company_deposit": "134.41 ",
+                        "personal_deposit": "33.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16800",
+                        "company_deposit": "67.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16800",
+                        "company_deposit": "1680.00 ",
+                        "personal_deposit": "341.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16800",
+                        "company_deposit": "3360.00 ",
+                        "personal_deposit": "1331.90 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16800",
+                        "company_deposit": "134.41 ",
+                        "personal_deposit": "33.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16800",
+                        "company_deposit": "67.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16800",
+                        "company_deposit": "1680.00 ",
+                        "personal_deposit": "341.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16800",
+                        "company_deposit": "3360.00 ",
+                        "personal_deposit": "1331.90 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16800",
+                        "company_deposit": "134.41 ",
+                        "personal_deposit": "33.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16800",
+                        "company_deposit": "67.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16800",
+                        "company_deposit": "1680.00 ",
+                        "personal_deposit": "341.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16800",
+                        "company_deposit": "3360.00 ",
+                        "personal_deposit": "1331.90 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16800",
+                        "company_deposit": "134.41 ",
+                        "personal_deposit": "33.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16800",
+                        "company_deposit": "67.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16800",
+                        "company_deposit": "1680.00 ",
+                        "personal_deposit": "341.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16800",
+                        "company_deposit": "3360.00 ",
+                        "personal_deposit": "1331.90 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16800",
+                        "company_deposit": "134.41 ",
+                        "personal_deposit": "33.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16800",
+                        "company_deposit": "67.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16800",
+                        "company_deposit": "1680.00 ",
+                        "personal_deposit": "341.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "中国网络空间研究院",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16800",
+                        "company_deposit": "3360.00 ",
+                        "personal_deposit": "1331.90 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16800",
+                        "company_deposit": "134.41 ",
+                        "personal_deposit": "33.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16800",
+                        "company_deposit": "67.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16800",
+                        "company_deposit": "1680.00 ",
+                        "personal_deposit": "341.58 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073827288",
+            "company": "中国网络空间研究院",
+            "register_number": "00003829",
+            "department": "东城管理部",
+            "balance": "186,791.49",
+            "state": "缴存",
+            "current_deposit": "28,224.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "158,567.49",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,016.00",
+            "month_personal_deposit": "2,016.00",
+            "base": "16,800.00",
+            "month_deposit": "4,032.00"
+        }
+    }
+}
