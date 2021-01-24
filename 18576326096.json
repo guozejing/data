@@ -1,0 +1,1944 @@
+{
+    "username": "18576326096",
+    "pwd": "123456",
+    "real_name": "何选芳",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1986-01-12",
+    "card": "520083728918",
+    "id_card": "431***********1643",
+    "social_insurance": {
+        "companies": [
+            "北京市西城区红莲小学"
+        ],
+        "area": "北京市西城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "8 年 8 个月",
+        "medical_years": "8 年 9 个月",
+        "declare": {
+            "salary": "14600",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "14600"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "14600"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "14600"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "14600"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "14600"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11680",
+                        "company_deposit": "2336.00 ",
+                        "personal_deposit": "925.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11680",
+                        "company_deposit": "93.45 ",
+                        "personal_deposit": "23.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11680",
+                        "company_deposit": "46.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11680",
+                        "company_deposit": "1168.00 ",
+                        "personal_deposit": "237.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11680",
+                        "company_deposit": "2336.00 ",
+                        "personal_deposit": "925.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11680",
+                        "company_deposit": "93.45 ",
+                        "personal_deposit": "23.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11680",
+                        "company_deposit": "46.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11680",
+                        "company_deposit": "1168.00 ",
+                        "personal_deposit": "237.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11680",
+                        "company_deposit": "2336.00 ",
+                        "personal_deposit": "925.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11680",
+                        "company_deposit": "93.45 ",
+                        "personal_deposit": "23.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11680",
+                        "company_deposit": "46.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11680",
+                        "company_deposit": "1168.00 ",
+                        "personal_deposit": "237.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11680",
+                        "company_deposit": "2336.00 ",
+                        "personal_deposit": "925.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11680",
+                        "company_deposit": "93.45 ",
+                        "personal_deposit": "23.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11680",
+                        "company_deposit": "46.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11680",
+                        "company_deposit": "1168.00 ",
+                        "personal_deposit": "237.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11680",
+                        "company_deposit": "2336.00 ",
+                        "personal_deposit": "925.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11680",
+                        "company_deposit": "93.45 ",
+                        "personal_deposit": "23.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11680",
+                        "company_deposit": "46.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11680",
+                        "company_deposit": "1168.00 ",
+                        "personal_deposit": "237.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11680",
+                        "company_deposit": "2336.00 ",
+                        "personal_deposit": "925.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11680",
+                        "company_deposit": "93.45 ",
+                        "personal_deposit": "23.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11680",
+                        "company_deposit": "46.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11680",
+                        "company_deposit": "1168.00 ",
+                        "personal_deposit": "237.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12264",
+                        "company_deposit": "2452.80 ",
+                        "personal_deposit": "972.28 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12264",
+                        "company_deposit": "98.12 ",
+                        "personal_deposit": "24.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12264",
+                        "company_deposit": "49.05 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12264",
+                        "company_deposit": "1226.40 ",
+                        "personal_deposit": "249.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12848",
+                        "company_deposit": "2569.60 ",
+                        "personal_deposit": "1018.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12848",
+                        "company_deposit": "102.79 ",
+                        "personal_deposit": "25.70 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12848",
+                        "company_deposit": "51.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12848",
+                        "company_deposit": "1284.80 ",
+                        "personal_deposit": "261.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13432",
+                        "company_deposit": "2686.40 ",
+                        "personal_deposit": "1064.88 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13432",
+                        "company_deposit": "107.46 ",
+                        "personal_deposit": "26.87 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13432",
+                        "company_deposit": "53.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13432",
+                        "company_deposit": "1343.20 ",
+                        "personal_deposit": "273.10 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14016",
+                        "company_deposit": "2803.20 ",
+                        "personal_deposit": "1111.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14016",
+                        "company_deposit": "112.14 ",
+                        "personal_deposit": "28.04 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14016",
+                        "company_deposit": "56.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14016",
+                        "company_deposit": "1401.60 ",
+                        "personal_deposit": "284.97 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14600",
+                        "company_deposit": "2920.00 ",
+                        "personal_deposit": "1157.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14600",
+                        "company_deposit": "116.81 ",
+                        "personal_deposit": "29.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14600",
+                        "company_deposit": "58.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14600",
+                        "company_deposit": "1460.00 ",
+                        "personal_deposit": "296.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14600",
+                        "company_deposit": "2920.00 ",
+                        "personal_deposit": "1157.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14600",
+                        "company_deposit": "116.81 ",
+                        "personal_deposit": "29.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14600",
+                        "company_deposit": "58.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14600",
+                        "company_deposit": "1460.00 ",
+                        "personal_deposit": "296.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14600",
+                        "company_deposit": "2920.00 ",
+                        "personal_deposit": "1157.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14600",
+                        "company_deposit": "116.81 ",
+                        "personal_deposit": "29.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14600",
+                        "company_deposit": "58.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14600",
+                        "company_deposit": "1460.00 ",
+                        "personal_deposit": "296.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14600",
+                        "company_deposit": "2920.00 ",
+                        "personal_deposit": "1157.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14600",
+                        "company_deposit": "116.81 ",
+                        "personal_deposit": "29.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14600",
+                        "company_deposit": "58.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14600",
+                        "company_deposit": "1460.00 ",
+                        "personal_deposit": "296.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14600",
+                        "company_deposit": "2920.00 ",
+                        "personal_deposit": "1157.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14600",
+                        "company_deposit": "116.81 ",
+                        "personal_deposit": "29.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14600",
+                        "company_deposit": "58.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14600",
+                        "company_deposit": "1460.00 ",
+                        "personal_deposit": "296.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京市西城区红莲小学",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14600",
+                        "company_deposit": "2920.00 ",
+                        "personal_deposit": "1157.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14600",
+                        "company_deposit": "116.81 ",
+                        "personal_deposit": "29.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14600",
+                        "company_deposit": "58.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14600",
+                        "company_deposit": "1460.00 ",
+                        "personal_deposit": "296.85 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ082288102",
+            "company": "北京市西城区红莲小学",
+            "register_number": "00010939",
+            "department": "西城管理部",
+            "balance": "163,726.24",
+            "state": "缴存",
+            "current_deposit": "24,528.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "139,198.24",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "1,752.00",
+            "month_personal_deposit": "1,752.00",
+            "base": "14,600.00",
+            "month_deposit": "3,504.00"
+        }
+    }
+}
