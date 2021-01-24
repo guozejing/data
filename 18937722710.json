@@ -1,0 +1,1944 @@
+{
+    "username": "18937722710",
+    "pwd": "123456",
+    "real_name": "张霞",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1991-08-11",
+    "card": "520073212092",
+    "id_card": "522***********642X",
+    "social_insurance": {
+        "companies": [
+            "首都医科大学附属北京朝阳医院"
+        ],
+        "area": "北京市朝阳区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "3 年 6 个月",
+        "medical_years": "3 年 7 个月",
+        "declare": {
+            "salary": "15000",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "15000"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "15000"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "15000"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "15000"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "15000"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12000",
+                        "company_deposit": "2400.00 ",
+                        "personal_deposit": "951.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12000",
+                        "company_deposit": "96.01 ",
+                        "personal_deposit": "24.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12000",
+                        "company_deposit": "48.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12000",
+                        "company_deposit": "1200.00 ",
+                        "personal_deposit": "243.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12000",
+                        "company_deposit": "2400.00 ",
+                        "personal_deposit": "951.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12000",
+                        "company_deposit": "96.01 ",
+                        "personal_deposit": "24.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12000",
+                        "company_deposit": "48.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12000",
+                        "company_deposit": "1200.00 ",
+                        "personal_deposit": "243.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12000",
+                        "company_deposit": "2400.00 ",
+                        "personal_deposit": "951.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12000",
+                        "company_deposit": "96.01 ",
+                        "personal_deposit": "24.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12000",
+                        "company_deposit": "48.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12000",
+                        "company_deposit": "1200.00 ",
+                        "personal_deposit": "243.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12000",
+                        "company_deposit": "2400.00 ",
+                        "personal_deposit": "951.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12000",
+                        "company_deposit": "96.01 ",
+                        "personal_deposit": "24.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12000",
+                        "company_deposit": "48.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12000",
+                        "company_deposit": "1200.00 ",
+                        "personal_deposit": "243.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12000",
+                        "company_deposit": "2400.00 ",
+                        "personal_deposit": "951.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12000",
+                        "company_deposit": "96.01 ",
+                        "personal_deposit": "24.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12000",
+                        "company_deposit": "48.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12000",
+                        "company_deposit": "1200.00 ",
+                        "personal_deposit": "243.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12000",
+                        "company_deposit": "2400.00 ",
+                        "personal_deposit": "951.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12000",
+                        "company_deposit": "96.01 ",
+                        "personal_deposit": "24.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12000",
+                        "company_deposit": "48.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12000",
+                        "company_deposit": "1200.00 ",
+                        "personal_deposit": "243.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12600",
+                        "company_deposit": "2520.00 ",
+                        "personal_deposit": "998.92 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12600",
+                        "company_deposit": "100.81 ",
+                        "personal_deposit": "25.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12600",
+                        "company_deposit": "50.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12600",
+                        "company_deposit": "1260.00 ",
+                        "personal_deposit": "256.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13800",
+                        "company_deposit": "2760.00 ",
+                        "personal_deposit": "1094.06 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13800",
+                        "company_deposit": "110.41 ",
+                        "personal_deposit": "27.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13800",
+                        "company_deposit": "55.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13800",
+                        "company_deposit": "1380.00 ",
+                        "personal_deposit": "280.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14400",
+                        "company_deposit": "2880.00 ",
+                        "personal_deposit": "1141.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14400",
+                        "company_deposit": "115.21 ",
+                        "personal_deposit": "28.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14400",
+                        "company_deposit": "57.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14400",
+                        "company_deposit": "1440.00 ",
+                        "personal_deposit": "292.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "首都医科大学附属北京朝阳医院",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15000",
+                        "company_deposit": "3000.00 ",
+                        "personal_deposit": "1189.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15000",
+                        "company_deposit": "120.01 ",
+                        "personal_deposit": "30.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15000",
+                        "company_deposit": "60.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15000",
+                        "company_deposit": "1500.00 ",
+                        "personal_deposit": "304.98 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073828019",
+            "company": "首都医科大学附属北京朝阳医院",
+            "register_number": "00008372",
+            "department": "朝阳管理部",
+            "balance": "134,567.89",
+            "state": "缴存",
+            "current_deposit": "200,00.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "100,329.89",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,000.20",
+            "month_personal_deposit": "2,000.20",
+            "base": "16,666.66",
+            "month_deposit": "4,000.40"
+        }
+    }
+}
