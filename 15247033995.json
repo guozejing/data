@@ -17,32 +17,32 @@
         "pension_years": "10 年 3 个月",
         "medical_years": "10 年 4 个月",
         "declare": {
-            "salary": "16800",
+            "salary": "13100",
             "insurances": [
                 {
                     "type": "养老",
                     "state": "正常(缴费)",
-                    "base": "16800"
+                    "base": "13100"
                 },
                 {
                     "type": "失业",
                     "state": "正常(缴费)",
-                    "base": "16800"
+                    "base": "13100"
                 },
                 {
                     "type": "工伤",
                     "state": "正常(缴费)",
-                    "base": "16800"
+                    "base": "13100"
                 },
                 {
                     "type": "生育",
                     "state": "正常(缴费)",
-                    "base": "16800"
+                    "base": "13100"
                 },
                 {
                     "type": "医疗",
                     "state": "正常(缴费)",
-                    "base": "16800"
+                    "base": "13100"
                 }
             ]
         },
@@ -67,27 +67,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "13440",
-                        "company_deposit": "2688.00 ",
-                        "personal_deposit": "1065.52 "
+                        "base": "10480",
+                        "company_deposit": "2096.00 ",
+                        "personal_deposit": "830.85 "
                     },
                     {
                         "type": "失业",
-                        "base": "13440",
-                        "company_deposit": "107.53 ",
-                        "personal_deposit": "26.89 "
+                        "base": "10480",
+                        "company_deposit": "83.85 ",
+                        "personal_deposit": "20.96 "
                     },
                     {
                         "type": "工伤",
-                        "base": "13440",
-                        "company_deposit": "53.76 ",
+                        "base": "10480",
+                        "company_deposit": "41.92 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "13440",
-                        "company_deposit": "1344.00 ",
-                        "personal_deposit": "273.26 "
+                        "base": "10480",
+                        "company_deposit": "1048.00 ",
+                        "personal_deposit": "213.08 "
                     }
                 ]
             },
@@ -98,27 +98,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "13440",
-                        "company_deposit": "2688.00 ",
-                        "personal_deposit": "1065.52 "
+                        "base": "10480",
+                        "company_deposit": "2096.00 ",
+                        "personal_deposit": "830.85 "
                     },
                     {
                         "type": "失业",
-                        "base": "13440",
-                        "company_deposit": "107.53 ",
-                        "personal_deposit": "26.89 "
+                        "base": "10480",
+                        "company_deposit": "83.85 ",
+                        "personal_deposit": "20.96 "
                     },
                     {
                         "type": "工伤",
-                        "base": "13440",
-                        "company_deposit": "53.76 ",
+                        "base": "10480",
+                        "company_deposit": "41.92 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "13440",
-                        "company_deposit": "1344.00 ",
-                        "personal_deposit": "273.26 "
+                        "base": "10480",
+                        "company_deposit": "1048.00 ",
+                        "personal_deposit": "213.08 "
                     }
                 ]
             },
@@ -129,27 +129,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "13440",
-                        "company_deposit": "2688.00 ",
-                        "personal_deposit": "1065.52 "
+                        "base": "10480",
+                        "company_deposit": "2096.00 ",
+                        "personal_deposit": "830.85 "
                     },
                     {
                         "type": "失业",
-                        "base": "13440",
-                        "company_deposit": "107.53 ",
-                        "personal_deposit": "26.89 "
+                        "base": "10480",
+                        "company_deposit": "83.85 ",
+                        "personal_deposit": "20.96 "
                     },
                     {
                         "type": "工伤",
-                        "base": "13440",
-                        "company_deposit": "53.76 ",
+                        "base": "10480",
+                        "company_deposit": "41.92 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "13440",
-                        "company_deposit": "1344.00 ",
-                        "personal_deposit": "273.26 "
+                        "base": "10480",
+                        "company_deposit": "1048.00 ",
+                        "personal_deposit": "213.08 "
                     }
                 ]
             },
@@ -160,27 +160,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "13440",
-                        "company_deposit": "2688.00 ",
-                        "personal_deposit": "1065.52 "
+                        "base": "10480",
+                        "company_deposit": "2096.00 ",
+                        "personal_deposit": "830.85 "
                     },
                     {
                         "type": "失业",
-                        "base": "13440",
-                        "company_deposit": "107.53 ",
-                        "personal_deposit": "26.89 "
+                        "base": "10480",
+                        "company_deposit": "83.85 ",
+                        "personal_deposit": "20.96 "
                     },
                     {
                         "type": "工伤",
-                        "base": "13440",
-                        "company_deposit": "53.76 ",
+                        "base": "10480",
+                        "company_deposit": "41.92 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "13440",
-                        "company_deposit": "1344.00 ",
-                        "personal_deposit": "273.26 "
+                        "base": "10480",
+                        "company_deposit": "1048.00 ",
+                        "personal_deposit": "213.08 "
                     }
                 ]
             },
@@ -191,27 +191,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "13440",
-                        "company_deposit": "2688.00 ",
-                        "personal_deposit": "1065.52 "
+                        "base": "10480",
+                        "company_deposit": "2096.00 ",
+                        "personal_deposit": "830.85 "
                     },
                     {
                         "type": "失业",
-                        "base": "13440",
-                        "company_deposit": "107.53 ",
-                        "personal_deposit": "26.89 "
+                        "base": "10480",
+                        "company_deposit": "83.85 ",
+                        "personal_deposit": "20.96 "
                     },
                     {
                         "type": "工伤",
-                        "base": "13440",
-                        "company_deposit": "53.76 ",
+                        "base": "10480",
+                        "company_deposit": "41.92 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "13440",
-                        "company_deposit": "1344.00 ",
-                        "personal_deposit": "273.26 "
+                        "base": "10480",
+                        "company_deposit": "1048.00 ",
+                        "personal_deposit": "213.08 "
                     }
                 ]
             },
@@ -222,27 +222,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "13440",
-                        "company_deposit": "2688.00 ",
-                        "personal_deposit": "1065.52 "
+                        "base": "10480",
+                        "company_deposit": "2096.00 ",
+                        "personal_deposit": "830.85 "
                     },
                     {
                         "type": "失业",
-                        "base": "13440",
-                        "company_deposit": "107.53 ",
-                        "personal_deposit": "26.89 "
+                        "base": "10480",
+                        "company_deposit": "83.85 ",
+                        "personal_deposit": "20.96 "
                     },
                     {
                         "type": "工伤",
-                        "base": "13440",
-                        "company_deposit": "53.76 ",
+                        "base": "10480",
+                        "company_deposit": "41.92 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "13440",
-                        "company_deposit": "1344.00 ",
-                        "personal_deposit": "273.26 "
+                        "base": "10480",
+                        "company_deposit": "1048.00 ",
+                        "personal_deposit": "213.08 "
                     }
                 ]
             },
@@ -253,27 +253,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -284,27 +284,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -315,27 +315,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -346,27 +346,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -377,27 +377,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -408,27 +408,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -439,27 +439,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -470,27 +470,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -501,27 +501,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -532,27 +532,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -563,27 +563,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -594,27 +594,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14112",
-                        "company_deposit": "2822.40 ",
-                        "personal_deposit": "1118.79 "
+                        "base": "11004",
+                        "company_deposit": "2200.80 ",
+                        "personal_deposit": "872.39 "
                     },
                     {
                         "type": "失业",
-                        "base": "14112",
-                        "company_deposit": "112.90 ",
-                        "personal_deposit": "28.23 "
+                        "base": "11004",
+                        "company_deposit": "88.04 ",
+                        "personal_deposit": "22.01 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14112",
-                        "company_deposit": "56.44 ",
+                        "base": "11004",
+                        "company_deposit": "44.01 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14112",
-                        "company_deposit": "1411.20 ",
-                        "personal_deposit": "286.92 "
+                        "base": "11004",
+                        "company_deposit": "1100.40 ",
+                        "personal_deposit": "223.73 "
                     }
                 ]
             },
@@ -625,27 +625,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -656,27 +656,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -687,27 +687,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -718,27 +718,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -749,27 +749,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -780,27 +780,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -811,27 +811,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -842,27 +842,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -873,27 +873,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -904,27 +904,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -935,27 +935,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -966,27 +966,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "14784",
-                        "company_deposit": "2956.80 ",
-                        "personal_deposit": "1172.07 "
+                        "base": "11528",
+                        "company_deposit": "2305.60 ",
+                        "personal_deposit": "913.93 "
                     },
                     {
                         "type": "失业",
-                        "base": "14784",
-                        "company_deposit": "118.28 ",
-                        "personal_deposit": "29.57 "
+                        "base": "11528",
+                        "company_deposit": "92.23 ",
+                        "personal_deposit": "23.06 "
                     },
                     {
                         "type": "工伤",
-                        "base": "14784",
-                        "company_deposit": "59.13 ",
+                        "base": "11528",
+                        "company_deposit": "46.11 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "14784",
-                        "company_deposit": "1478.40 ",
-                        "personal_deposit": "300.59 "
+                        "base": "11528",
+                        "company_deposit": "1152.80 ",
+                        "personal_deposit": "234.39 "
                     }
                 ]
             },
@@ -997,27 +997,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1028,27 +1028,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1059,27 +1059,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1090,27 +1090,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1121,27 +1121,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1152,27 +1152,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1183,27 +1183,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1214,27 +1214,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1245,27 +1245,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1276,27 +1276,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1307,27 +1307,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1338,27 +1338,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "15456",
-                        "company_deposit": "3091.20 ",
-                        "personal_deposit": "1225.34 "
+                        "base": "12052",
+                        "company_deposit": "2410.40 ",
+                        "personal_deposit": "955.48 "
                     },
                     {
                         "type": "失业",
-                        "base": "15456",
-                        "company_deposit": "123.66 ",
-                        "personal_deposit": "30.92 "
+                        "base": "12052",
+                        "company_deposit": "96.42 ",
+                        "personal_deposit": "24.11 "
                     },
                     {
                         "type": "工伤",
-                        "base": "15456",
-                        "company_deposit": "61.82 ",
+                        "base": "12052",
+                        "company_deposit": "48.21 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "15456",
-                        "company_deposit": "1545.60 ",
-                        "personal_deposit": "314.25 "
+                        "base": "12052",
+                        "company_deposit": "1205.20 ",
+                        "personal_deposit": "245.04 "
                     }
                 ]
             },
@@ -1369,27 +1369,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1400,27 +1400,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1431,27 +1431,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1462,27 +1462,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1493,27 +1493,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1524,27 +1524,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1555,27 +1555,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1586,27 +1586,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1617,27 +1617,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1648,27 +1648,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1679,27 +1679,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1710,27 +1710,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16128",
-                        "company_deposit": "3225.60 ",
-                        "personal_deposit": "1278.62 "
+                        "base": "12576",
+                        "company_deposit": "2515.20 ",
+                        "personal_deposit": "997.02 "
                     },
                     {
                         "type": "失业",
-                        "base": "16128",
-                        "company_deposit": "129.03 ",
-                        "personal_deposit": "32.26 "
+                        "base": "12576",
+                        "company_deposit": "100.62 ",
+                        "personal_deposit": "25.16 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16128",
-                        "company_deposit": "64.51 ",
+                        "base": "12576",
+                        "company_deposit": "50.30 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16128",
-                        "company_deposit": "1612.80 ",
-                        "personal_deposit": "327.91 "
+                        "base": "12576",
+                        "company_deposit": "1257.60 ",
+                        "personal_deposit": "255.69 "
                     }
                 ]
             },
@@ -1741,27 +1741,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16800",
-                        "company_deposit": "3360.00 ",
-                        "personal_deposit": "1331.90 "
+                        "base": "13100",
+                        "company_deposit": "2620.00 ",
+                        "personal_deposit": "1038.56 "
                     },
                     {
                         "type": "失业",
-                        "base": "16800",
-                        "company_deposit": "134.41 ",
-                        "personal_deposit": "33.61 "
+                        "base": "13100",
+                        "company_deposit": "104.81 ",
+                        "personal_deposit": "26.21 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16800",
-                        "company_deposit": "67.20 ",
+                        "base": "13100",
+                        "company_deposit": "52.40 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16800",
-                        "company_deposit": "1680.00 ",
-                        "personal_deposit": "341.58 "
+                        "base": "13100",
+                        "company_deposit": "1310.00 ",
+                        "personal_deposit": "266.35 "
                     }
                 ]
             },
@@ -1772,27 +1772,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16800",
-                        "company_deposit": "3360.00 ",
-                        "personal_deposit": "1331.90 "
+                        "base": "13100",
+                        "company_deposit": "2620.00 ",
+                        "personal_deposit": "1038.56 "
                     },
                     {
                         "type": "失业",
-                        "base": "16800",
-                        "company_deposit": "134.41 ",
-                        "personal_deposit": "33.61 "
+                        "base": "13100",
+                        "company_deposit": "104.81 ",
+                        "personal_deposit": "26.21 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16800",
-                        "company_deposit": "67.20 ",
+                        "base": "13100",
+                        "company_deposit": "52.40 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16800",
-                        "company_deposit": "1680.00 ",
-                        "personal_deposit": "341.58 "
+                        "base": "13100",
+                        "company_deposit": "1310.00 ",
+                        "personal_deposit": "266.35 "
                     }
                 ]
             },
@@ -1803,27 +1803,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16800",
-                        "company_deposit": "3360.00 ",
-                        "personal_deposit": "1331.90 "
+                        "base": "13100",
+                        "company_deposit": "2620.00 ",
+                        "personal_deposit": "1038.56 "
                     },
                     {
                         "type": "失业",
-                        "base": "16800",
-                        "company_deposit": "134.41 ",
-                        "personal_deposit": "33.61 "
+                        "base": "13100",
+                        "company_deposit": "104.81 ",
+                        "personal_deposit": "26.21 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16800",
-                        "company_deposit": "67.20 ",
+                        "base": "13100",
+                        "company_deposit": "52.40 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16800",
-                        "company_deposit": "1680.00 ",
-                        "personal_deposit": "341.58 "
+                        "base": "13100",
+                        "company_deposit": "1310.00 ",
+                        "personal_deposit": "266.35 "
                     }
                 ]
             },
@@ -1834,27 +1834,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16800",
-                        "company_deposit": "3360.00 ",
-                        "personal_deposit": "1331.90 "
+                        "base": "13100",
+                        "company_deposit": "2620.00 ",
+                        "personal_deposit": "1038.56 "
                     },
                     {
                         "type": "失业",
-                        "base": "16800",
-                        "company_deposit": "134.41 ",
-                        "personal_deposit": "33.61 "
+                        "base": "13100",
+                        "company_deposit": "104.81 ",
+                        "personal_deposit": "26.21 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16800",
-                        "company_deposit": "67.20 ",
+                        "base": "13100",
+                        "company_deposit": "52.40 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16800",
-                        "company_deposit": "1680.00 ",
-                        "personal_deposit": "341.58 "
+                        "base": "13100",
+                        "company_deposit": "1310.00 ",
+                        "personal_deposit": "266.35 "
                     }
                 ]
             },
@@ -1865,27 +1865,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16800",
-                        "company_deposit": "3360.00 ",
-                        "personal_deposit": "1331.90 "
+                        "base": "13100",
+                        "company_deposit": "2620.00 ",
+                        "personal_deposit": "1038.56 "
                     },
                     {
                         "type": "失业",
-                        "base": "16800",
-                        "company_deposit": "134.41 ",
-                        "personal_deposit": "33.61 "
+                        "base": "13100",
+                        "company_deposit": "104.81 ",
+                        "personal_deposit": "26.21 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16800",
-                        "company_deposit": "67.20 ",
+                        "base": "13100",
+                        "company_deposit": "52.40 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16800",
-                        "company_deposit": "1680.00 ",
-                        "personal_deposit": "341.58 "
+                        "base": "13100",
+                        "company_deposit": "1310.00 ",
+                        "personal_deposit": "266.35 "
                     }
                 ]
             },
@@ -1896,27 +1896,27 @@
                 "insurances": [
                     {
                         "type": "养老",
-                        "base": "16800",
-                        "company_deposit": "3360.00 ",
-                        "personal_deposit": "1331.90 "
+                        "base": "13100",
+                        "company_deposit": "2620.00 ",
+                        "personal_deposit": "1038.56 "
                     },
                     {
                         "type": "失业",
-                        "base": "16800",
-                        "company_deposit": "134.41 ",
-                        "personal_deposit": "33.61 "
+                        "base": "13100",
+                        "company_deposit": "104.81 ",
+                        "personal_deposit": "26.21 "
                     },
                     {
                         "type": "工伤",
-                        "base": "16800",
-                        "company_deposit": "67.20 ",
+                        "base": "13100",
+                        "company_deposit": "52.40 ",
                         "personal_deposit": "0.00 "
                     },
                     {
                         "type": "医疗",
-                        "base": "16800",
-                        "company_deposit": "1680.00 ",
-                        "personal_deposit": "341.58 "
+                        "base": "13100",
+                        "company_deposit": "1310.00 ",
+                        "personal_deposit": "266.35 "
                     }
                 ]
             }
