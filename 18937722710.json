@@ -17,32 +17,32 @@
         "pension_years": "3 年 6 个月",
         "medical_years": "3 年 7 个月",
         "declare": {
-            "salary": "15000",
+            "salary": "12400",
             "insurances": [
                 {
                     "type": "养老",
                     "state": "正常(缴费)",
-                    "base": "15000"
+                    "base": "12400"
                 },
                 {
                     "type": "失业",
                     "state": "正常(缴费)",
-                    "base": "15000"
+                    "base": "12400"
                 },
                 {
                     "type": "工伤",
                     "state": "正常(缴费)",
-                    "base": "15000"
+                    "base": "12400"
                 },
                 {
                     "type": "生育",
                     "state": "正常(缴费)",
-                    "base": "15000"
+                    "base": "12400"
                 },
                 {
                     "type": "医疗",
                     "state": "正常(缴费)",
-                    "base": "15000"
+                    "base": "12400"
                 }
             ]
         },
