@@ -1939,6 +1939,1017 @@
             "month_personal_deposit": "2,016.00",
             "base": "16,800.00",
             "month_deposit": "4,032.00"
-        }
+        },
+        "details": [
+            {
+                "balance": "89229.15",
+                "deposit": "1100.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "88129.15",
+                "deposit": "1100.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "87029.15",
+                "deposit": "1100.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "85929.15",
+                "deposit": "1100.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "84829.15",
+                "deposit": "1100.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "83729.15",
+                "deposit": "1100.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "82629.15",
+                "deposit": "1100.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "81529.15",
+                "deposit": "910.57",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "80618.58",
+                "deposit": "990.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "79628.58",
+                "deposit": "990.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "78638.58",
+                "deposit": "990.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "77648.58",
+                "deposit": "990.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "76658.58",
+                "deposit": "990.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "75668.58",
+                "deposit": "990.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "74678.58",
+                "deposit": "990.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "73688.58",
+                "deposit": "990.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "72698.58",
+                "deposit": "990.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "71708.58",
+                "deposit": "990.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "70718.58",
+                "deposit": "990.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "69728.58",
+                "deposit": "990.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-19",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "68738.58",
+                "deposit": "767.72",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "67970.86",
+                "deposit": "935.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "67035.86",
+                "deposit": "935.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "66100.86",
+                "deposit": "935.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-19",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "65165.86",
+                "deposit": "935.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "64230.86",
+                "deposit": "935.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "63295.86",
+                "deposit": "935.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "62360.86",
+                "deposit": "935.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "61425.86",
+                "deposit": "935.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "60490.86",
+                "deposit": "935.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "59555.86",
+                "deposit": "935.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "58620.86",
+                "deposit": "935.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "57685.86",
+                "deposit": "935.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "56750.86",
+                "deposit": "633.83",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "56117.03",
+                "deposit": "880.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "55237.03",
+                "deposit": "880.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "54357.03",
+                "deposit": "880.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "53477.03",
+                "deposit": "880.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "52597.03",
+                "deposit": "880.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "51717.03",
+                "deposit": "880.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-19",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "50837.03",
+                "deposit": "880.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "49957.03",
+                "deposit": "880.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "49077.03",
+                "deposit": "880.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "48197.03",
+                "deposit": "880.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "47317.03",
+                "deposit": "880.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "46437.03",
+                "deposit": "880.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "45557.03",
+                "deposit": "508.81",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "45048.22",
+                "deposit": "825.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "44223.22",
+                "deposit": "825.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "43398.22",
+                "deposit": "825.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "42573.22",
+                "deposit": "825.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "41748.22",
+                "deposit": "825.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            },
+            {
+                "balance": "40923.22",
+                "deposit": "825.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国网络空间研究院"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2017",
+                "amount": "01-20",
+                "detail": {
+                    "last_settlement": "825.00",
+                    "current_deposit": "40,923.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "02-20",
+                "detail": {
+                    "last_settlement": "825.00",
+                    "current_deposit": "41,748.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "03-20",
+                "detail": {
+                    "last_settlement": "825.00",
+                    "current_deposit": "42,573.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "04-20",
+                "detail": {
+                    "last_settlement": "825.00",
+                    "current_deposit": "43,398.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "05-22",
+                "detail": {
+                    "last_settlement": "825.00",
+                    "current_deposit": "44,223.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "06-20",
+                "detail": {
+                    "last_settlement": "825.00",
+                    "current_deposit": "45,048.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "508.81",
+                    "current_deposit": "45,557.03",
+                    "current_withdraw": "x",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "07-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "46,437.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "08-21",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "47,317.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "09-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "48,197.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "10-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "49,077.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "11-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "49,957.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "12-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "50,837.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "01-19",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "51,717.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "02-22",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "52,597.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "03-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "53,477.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "04-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "54,357.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "05-22",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "55,237.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "06-20",
+                "detail": {
+                    "last_settlement": "880.00",
+                    "current_deposit": "56,117.03",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "633.83",
+                    "current_deposit": "56,750.86",
+                    "current_withdraw": "x",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "07-20",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "57,685.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "08-22",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "58,620.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "09-20",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "59,555.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "10-22",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "60,490.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "11-20",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "61,425.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "12-20",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "62,360.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "01-21",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "63,295.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "02-21",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "64,230.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "03-20",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "65,165.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "04-19",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "66,100.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "05-22",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "67,035.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "06-20",
+                "detail": {
+                    "last_settlement": "935.00",
+                    "current_deposit": "67,970.86",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "767.72",
+                    "current_deposit": "68,738.58",
+                    "current_withdraw": "x",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "07-19",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "69,728.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "08-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "70,718.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "09-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "71,708.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "10-21",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "72,698.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "11-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "73,688.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "12-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "74,678.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "01-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "75,668.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "02-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "76,658.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "03-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "77,648.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "04-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "78,638.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "05-20",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "79,628.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "06-22",
+                "detail": {
+                    "last_settlement": "990.00",
+                    "current_deposit": "80,618.58",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "910.57",
+                    "current_deposit": "81,529.15",
+                    "current_withdraw": "x",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "07-20",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "82,629.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "08-20",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "83,729.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "09-21",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "84,829.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "10-20",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "85,929.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "11-20",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "87,029.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "12-21",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "88,129.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2021",
+                "amount": "01-20",
+                "detail": {
+                    "last_settlement": "1,100.00",
+                    "current_deposit": "89,229.15",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            }
+        ]
     }
 }
