@@ -1928,17 +1928,17 @@
             "company": "中国网络空间研究院",
             "register_number": "00003829",
             "department": "东城管理部",
-            "balance": "186,791.49",
+            "balance": "89,229.15",
             "state": "缴存",
-            "current_deposit": "28,224.00",
+            "current_deposit": "7,700.00",
             "current_withdraw": "0.00",
-            "last_settlement": "158,567.49",
+            "last_settlement": "81,529.15",
             "company_rate": "12%",
             "personal_rate": "12%",
-            "month_company_deposit": "2,016.00",
-            "month_personal_deposit": "2,016.00",
-            "base": "16,800.00",
-            "month_deposit": "4,032.00"
+            "month_company_deposit": "550.00",
+            "month_personal_deposit": "550.00",
+            "base": "4,583.00",
+            "month_deposit": "1,110.00"
         },
         "details": [
             {
