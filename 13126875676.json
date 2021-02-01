@@ -1,0 +1,2955 @@
+{
+    "username": "13126875676",
+    "pwd": "123456",
+    "real_name": "李凤祥",
+    "sex": "男",
+    "ethnic_group": "蒙古",
+    "birthday": "1989-04-10",
+    "card": "GJJ087288714",
+    "id_card": "150***********3114",
+    "social_insurance": {
+        "companies": [
+            "中国林业科学研究院"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "5 年 8 个月",
+        "medical_years": "5 年 9 个月",
+        "declare": {
+            "salary": "18850",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "18850"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "18850"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "18850"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "18850"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "18850"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15080",
+                        "company_deposit": "3016.00 ",
+                        "personal_deposit": "1195.54 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15080",
+                        "company_deposit": "120.65 ",
+                        "personal_deposit": "30.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15080",
+                        "company_deposit": "60.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15080",
+                        "company_deposit": "1508.00 ",
+                        "personal_deposit": "306.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15080",
+                        "company_deposit": "3016.00 ",
+                        "personal_deposit": "1195.54 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15080",
+                        "company_deposit": "120.65 ",
+                        "personal_deposit": "30.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15080",
+                        "company_deposit": "60.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15080",
+                        "company_deposit": "1508.00 ",
+                        "personal_deposit": "306.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15080",
+                        "company_deposit": "3016.00 ",
+                        "personal_deposit": "1195.54 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15080",
+                        "company_deposit": "120.65 ",
+                        "personal_deposit": "30.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15080",
+                        "company_deposit": "60.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15080",
+                        "company_deposit": "1508.00 ",
+                        "personal_deposit": "306.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15080",
+                        "company_deposit": "3016.00 ",
+                        "personal_deposit": "1195.54 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15080",
+                        "company_deposit": "120.65 ",
+                        "personal_deposit": "30.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15080",
+                        "company_deposit": "60.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15080",
+                        "company_deposit": "1508.00 ",
+                        "personal_deposit": "306.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15080",
+                        "company_deposit": "3016.00 ",
+                        "personal_deposit": "1195.54 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15080",
+                        "company_deposit": "120.65 ",
+                        "personal_deposit": "30.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15080",
+                        "company_deposit": "60.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15080",
+                        "company_deposit": "1508.00 ",
+                        "personal_deposit": "306.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15080",
+                        "company_deposit": "3016.00 ",
+                        "personal_deposit": "1195.54 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15080",
+                        "company_deposit": "120.65 ",
+                        "personal_deposit": "30.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15080",
+                        "company_deposit": "60.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15080",
+                        "company_deposit": "1508.00 ",
+                        "personal_deposit": "306.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15834",
+                        "company_deposit": "3166.80 ",
+                        "personal_deposit": "1255.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15834",
+                        "company_deposit": "126.68 ",
+                        "personal_deposit": "31.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15834",
+                        "company_deposit": "63.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15834",
+                        "company_deposit": "1583.40 ",
+                        "personal_deposit": "321.94 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16588",
+                        "company_deposit": "3317.60 ",
+                        "personal_deposit": "1315.09 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16588",
+                        "company_deposit": "132.71 ",
+                        "personal_deposit": "33.18 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16588",
+                        "company_deposit": "66.35 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16588",
+                        "company_deposit": "1658.80 ",
+                        "personal_deposit": "337.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17342",
+                        "company_deposit": "3468.40 ",
+                        "personal_deposit": "1374.87 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17342",
+                        "company_deposit": "138.75 ",
+                        "personal_deposit": "34.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17342",
+                        "company_deposit": "69.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17342",
+                        "company_deposit": "1734.20 ",
+                        "personal_deposit": "352.60 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18096",
+                        "company_deposit": "3619.20 ",
+                        "personal_deposit": "1434.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18096",
+                        "company_deposit": "144.78 ",
+                        "personal_deposit": "36.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18096",
+                        "company_deposit": "72.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18096",
+                        "company_deposit": "1809.60 ",
+                        "personal_deposit": "367.93 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18850",
+                        "company_deposit": "3770.00 ",
+                        "personal_deposit": "1494.42 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18850",
+                        "company_deposit": "150.81 ",
+                        "personal_deposit": "37.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18850",
+                        "company_deposit": "75.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18850",
+                        "company_deposit": "1885.00 ",
+                        "personal_deposit": "383.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18850",
+                        "company_deposit": "3770.00 ",
+                        "personal_deposit": "1494.42 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18850",
+                        "company_deposit": "150.81 ",
+                        "personal_deposit": "37.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18850",
+                        "company_deposit": "75.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18850",
+                        "company_deposit": "1885.00 ",
+                        "personal_deposit": "383.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18850",
+                        "company_deposit": "3770.00 ",
+                        "personal_deposit": "1494.42 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18850",
+                        "company_deposit": "150.81 ",
+                        "personal_deposit": "37.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18850",
+                        "company_deposit": "75.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18850",
+                        "company_deposit": "1885.00 ",
+                        "personal_deposit": "383.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18850",
+                        "company_deposit": "3770.00 ",
+                        "personal_deposit": "1494.42 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18850",
+                        "company_deposit": "150.81 ",
+                        "personal_deposit": "37.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18850",
+                        "company_deposit": "75.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18850",
+                        "company_deposit": "1885.00 ",
+                        "personal_deposit": "383.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18850",
+                        "company_deposit": "3770.00 ",
+                        "personal_deposit": "1494.42 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18850",
+                        "company_deposit": "150.81 ",
+                        "personal_deposit": "37.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18850",
+                        "company_deposit": "75.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18850",
+                        "company_deposit": "1885.00 ",
+                        "personal_deposit": "383.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "中国林业科学研究院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18850",
+                        "company_deposit": "3770.00 ",
+                        "personal_deposit": "1494.42 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18850",
+                        "company_deposit": "150.81 ",
+                        "personal_deposit": "37.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18850",
+                        "company_deposit": "75.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18850",
+                        "company_deposit": "1885.00 ",
+                        "personal_deposit": "383.26 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ087288714",
+            "company": "中国林业科学研究院",
+            "register_number": "00008728",
+            "department": "海淀管理部",
+            "balance": "183,453.41",
+            "state": "缴存",
+            "current_deposit": "31,668.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "151,785.41",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,262.00",
+            "month_personal_deposit": "2,262.00",
+            "base": "18,850.00",
+            "month_deposit": "4,524.00"
+        },
+        "details": [
+            {
+                "balance": "183453.41",
+                "deposit": "4524.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "178929.41",
+                "deposit": "4524.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "174405.41",
+                "deposit": "4524.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "169881.41",
+                "deposit": "4524.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "165357.41",
+                "deposit": "4524.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "160833.41",
+                "deposit": "4524.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "156309.41",
+                "deposit": "4524.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "151785.41",
+                "deposit": "1695.24",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "150090.17",
+                "deposit": "3710.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "146380.17",
+                "deposit": "3710.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "142670.17",
+                "deposit": "3710.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "138960.17",
+                "deposit": "3710.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "135250.17",
+                "deposit": "3710.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "131540.17",
+                "deposit": "3710.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "127830.17",
+                "deposit": "3710.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "124120.17",
+                "deposit": "3710.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "120410.17",
+                "deposit": "3710.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "116700.17",
+                "deposit": "3710.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "112990.17",
+                "deposit": "3710.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "109280.17",
+                "deposit": "3710.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "105570.17",
+                "deposit": "1179.07",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "104391.10",
+                "deposit": "3167.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "101224.10",
+                "deposit": "3167.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "98057.10",
+                "deposit": "3167.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "94890.10",
+                "deposit": "3167.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "91723.10",
+                "deposit": "3167.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "88556.10",
+                "deposit": "3167.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "85389.10",
+                "deposit": "3167.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "82222.10",
+                "deposit": "3167.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "79055.10",
+                "deposit": "3167.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "75888.10",
+                "deposit": "3167.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "72721.10",
+                "deposit": "3167.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "69554.10",
+                "deposit": "3167.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "66387.10",
+                "deposit": "741.45",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "65645.65",
+                "deposit": "2714.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "62931.65",
+                "deposit": "2714.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "60217.65",
+                "deposit": "2714.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "57503.65",
+                "deposit": "2714.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "54789.65",
+                "deposit": "2714.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "52075.65",
+                "deposit": "2714.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "49361.65",
+                "deposit": "2714.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "46647.65",
+                "deposit": "2714.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "43933.65",
+                "deposit": "2714.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "41219.65",
+                "deposit": "2714.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "38505.65",
+                "deposit": "2714.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "35791.65",
+                "deposit": "2714.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "33077.65",
+                "deposit": "369.43",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "32708.22",
+                "deposit": "2357.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "30351.22",
+                "deposit": "2357.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "27994.22",
+                "deposit": "2357.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "25637.22",
+                "deposit": "2357.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "23280.22",
+                "deposit": "2357.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "2357.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国林业科学研究院"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2017",
+                "amount": "01-10",
+                "detail": {
+                    "last_settlement": "2,357.00",
+                    "current_deposit": "20,923.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "02-08",
+                "detail": {
+                    "last_settlement": "2,357.00",
+                    "current_deposit": "23,280.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "03-10",
+                "detail": {
+                    "last_settlement": "2,357.00",
+                    "current_deposit": "25,637.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "04-11",
+                "detail": {
+                    "last_settlement": "2,357.00",
+                    "current_deposit": "27,994.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "05-09",
+                "detail": {
+                    "last_settlement": "2,357.00",
+                    "current_deposit": "30,351.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "06-09",
+                "detail": {
+                    "last_settlement": "2,357.00",
+                    "current_deposit": "32,708.22",
+                    "current_withdraw": "i",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "369.43",
+                    "current_deposit": "33,077.65",
+                    "current_withdraw": "x",
+                    "interest": "2016-2017"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "07-11",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "35,791.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "08-10",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "38,505.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "09-11",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "41,219.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "10-10",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "43,933.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "11-10",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "46,647.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2017",
+                "amount": "12-11",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "49,361.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "01-11",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "52,075.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "02-09",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "54,789.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "03-09",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "57,503.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "04-10",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "60,217.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "05-09",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "62,931.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "06-11",
+                "detail": {
+                    "last_settlement": "2,714.00",
+                    "current_deposit": "65,645.65",
+                    "current_withdraw": "i",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "741.45",
+                    "current_deposit": "66,387.10",
+                    "current_withdraw": "x",
+                    "interest": "2017-2018"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "07-11",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "69,554.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "08-10",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "72,721.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "09-11",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "75,888.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "10-10",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "79,055.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "11-09",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "82,222.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2018",
+                "amount": "12-11",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "85,389.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "01-10",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "88,556.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "02-11",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "91,723.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "03-11",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "94,890.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "04-10",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "98,057.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "05-10",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "101,224.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "06-10",
+                "detail": {
+                    "last_settlement": "3,167.00",
+                    "current_deposit": "104,391.10",
+                    "current_withdraw": "i",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "1,179.07",
+                    "current_deposit": "105,570.17",
+                    "current_withdraw": "x",
+                    "interest": "2018-2019"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "07-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "109,280.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "08-09",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "112,990.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "09-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "116,700.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "10-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "120,410.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "11-11",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "124,120.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2019",
+                "amount": "12-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "127,830.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "01-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "131,540.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "02-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "135,250.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "03-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "138,960.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "04-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "142,670.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "05-11",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "146,380.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "06-10",
+                "detail": {
+                    "last_settlement": "3,710.00",
+                    "current_deposit": "150,090.17",
+                    "current_withdraw": "i",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "06-30",
+                "detail": {
+                    "last_settlement": "1,695.24",
+                    "current_deposit": "151,785.41",
+                    "current_withdraw": "x",
+                    "interest": "2019-2020"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "07-10",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "156,309.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "08-10",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "160,833.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "09-09",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "165,357.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "10-12",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "169,881.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "11-10",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "174,405.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2020",
+                "amount": "12-10",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "178,929.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            },
+            {
+                "year_range": "2021",
+                "amount": "01-11",
+                "detail": {
+                    "last_settlement": "4,524.00",
+                    "current_deposit": "183,453.41",
+                    "current_withdraw": "i",
+                    "interest": "2020-2021"
+                }
+            }
+        ]
+    }
+}
