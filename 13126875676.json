@@ -2421,535 +2421,56 @@
         ],
         "bills": [
             {
-                "year_range": "2017",
-                "amount": "01-10",
+                "year_range": "2020-2021",
+                "amount": "183453.41 ",
                 "detail": {
-                    "last_settlement": "2,357.00",
-                    "current_deposit": "20,923.22",
-                    "current_withdraw": "i",
-                    "interest": "2016-2017"
+                    "last_settlement": "151785.41 ",
+                    "current_deposit": "31668.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
                 }
             },
             {
-                "year_range": "2017",
-                "amount": "02-08",
+                "year_range": "2019-2020",
+                "amount": "151785.41 ",
                 "detail": {
-                    "last_settlement": "2,357.00",
-                    "current_deposit": "23,280.22",
-                    "current_withdraw": "i",
-                    "interest": "2016-2017"
+                    "last_settlement": "105570.17 ",
+                    "current_deposit": "44520.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1695.24 "
                 }
             },
             {
-                "year_range": "2017",
-                "amount": "03-10",
+                "year_range": "2018-2019",
+                "amount": "105570.17 ",
                 "detail": {
-                    "last_settlement": "2,357.00",
-                    "current_deposit": "25,637.22",
-                    "current_withdraw": "i",
-                    "interest": "2016-2017"
+                    "last_settlement": "66387.10 ",
+                    "current_deposit": "38004.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1179.07 "
                 }
             },
             {
-                "year_range": "2017",
-                "amount": "04-11",
+                "year_range": "2017-2018",
+                "amount": "66387.10 ",
                 "detail": {
-                    "last_settlement": "2,357.00",
-                    "current_deposit": "27,994.22",
-                    "current_withdraw": "i",
-                    "interest": "2016-2017"
+                    "last_settlement": "33077.65 ",
+                    "current_deposit": "32568.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "741.45 "
                 }
             },
             {
-                "year_range": "2017",
-                "amount": "05-09",
+                "year_range": "2016-2017",
+                "amount": "33077.65 ",
                 "detail": {
-                    "last_settlement": "2,357.00",
-                    "current_deposit": "30,351.22",
-                    "current_withdraw": "i",
-                    "interest": "2016-2017"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "06-09",
-                "detail": {
-                    "last_settlement": "2,357.00",
-                    "current_deposit": "32,708.22",
-                    "current_withdraw": "i",
-                    "interest": "2016-2017"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "06-30",
-                "detail": {
-                    "last_settlement": "369.43",
-                    "current_deposit": "33,077.65",
-                    "current_withdraw": "x",
-                    "interest": "2016-2017"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "07-11",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "35,791.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "08-10",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "38,505.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "09-11",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "41,219.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "10-10",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "43,933.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "11-10",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "46,647.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2017",
-                "amount": "12-11",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "49,361.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "01-11",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "52,075.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "02-09",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "54,789.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "03-09",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "57,503.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "04-10",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "60,217.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "05-09",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "62,931.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "06-11",
-                "detail": {
-                    "last_settlement": "2,714.00",
-                    "current_deposit": "65,645.65",
-                    "current_withdraw": "i",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "06-30",
-                "detail": {
-                    "last_settlement": "741.45",
-                    "current_deposit": "66,387.10",
-                    "current_withdraw": "x",
-                    "interest": "2017-2018"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "07-11",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "69,554.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "08-10",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "72,721.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "09-11",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "75,888.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "10-10",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "79,055.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "11-09",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "82,222.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2018",
-                "amount": "12-11",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "85,389.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "01-10",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "88,556.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "02-11",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "91,723.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "03-11",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "94,890.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "04-10",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "98,057.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "05-10",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "101,224.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "06-10",
-                "detail": {
-                    "last_settlement": "3,167.00",
-                    "current_deposit": "104,391.10",
-                    "current_withdraw": "i",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "06-30",
-                "detail": {
-                    "last_settlement": "1,179.07",
-                    "current_deposit": "105,570.17",
-                    "current_withdraw": "x",
-                    "interest": "2018-2019"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "07-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "109,280.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "08-09",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "112,990.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "09-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "116,700.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "10-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "120,410.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "11-11",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "124,120.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2019",
-                "amount": "12-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "127,830.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "01-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "131,540.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "02-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "135,250.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "03-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "138,960.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "04-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "142,670.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "05-11",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "146,380.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "06-10",
-                "detail": {
-                    "last_settlement": "3,710.00",
-                    "current_deposit": "150,090.17",
-                    "current_withdraw": "i",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "06-30",
-                "detail": {
-                    "last_settlement": "1,695.24",
-                    "current_deposit": "151,785.41",
-                    "current_withdraw": "x",
-                    "interest": "2019-2020"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "07-10",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "156,309.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "08-10",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "160,833.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "09-09",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "165,357.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "10-12",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "169,881.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "11-10",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "174,405.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
-                }
-            },
-            {
-                "year_range": "2020",
-                "amount": "12-10",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "178,929.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
-                }
-            },
-            {
-                "year_range": "2021",
-                "amount": "01-11",
-                "detail": {
-                    "last_settlement": "4,524.00",
-                    "current_deposit": "183,453.41",
-                    "current_withdraw": "i",
-                    "interest": "2020-2021"
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "11785.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "369.43 "
                 }
             }
         ]
+
     }
 }
