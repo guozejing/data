@@ -1,0 +1,2400 @@
+{
+    "username": "13436507761",
+    "pwd": "123456",
+    "real_name": "钱丽娟",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1978-01-28",
+    "card": "520073821822",
+    "id_card": "232***********002X",
+    "social_insurance": {
+        "companies": [
+            "中国大唐集团新能源股份有限公司"
+        ],
+        "area": "北京市西城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "8 年 8 个月",
+        "medical_years": "8 年 9 个月",
+        "declare": {
+            "salary": "25640",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "25640"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "25640"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "25640"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "25640"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "25640"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "中国大唐集团新能源股份有限公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77"
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073827714",
+            "company": "中国大唐集团新能源股份有限公司",
+            "register_number": "00007214",
+            "department": "西城管理部",
+            "balance": "251,037.00",
+            "state": "缴存",
+            "current_deposit": "55,386.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "195,651.00",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "3,077.00",
+            "month_personal_deposit": "3,077.00",
+            "base": "25,640.00",
+            "month_deposit": "6,154.00"
+        },
+        "details": [
+            {
+                "balance": "1855.14 ",
+                "deposit": "4680.00 ",
+                "opt_month": "2020-10-23400",
+                "opt_money": "-0",
+                "opt_day": "2020-10-23400",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1855.14 ",
+                "deposit": "4680.00 ",
+                "opt_month": "2020-09-23400",
+                "opt_money": "-0",
+                "opt_day": "2020-09-23400",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1855.14 ",
+                "deposit": "4680.00 ",
+                "opt_month": "2020-08-23400",
+                "opt_money": "-0",
+                "opt_day": "2020-08-23400",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1855.14 ",
+                "deposit": "4680.00 ",
+                "opt_month": "2020-07-23400",
+                "opt_money": "-0",
+                "opt_day": "2020-07-23400",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2020-06-22464",
+                "opt_money": "-0",
+                "opt_day": "2020-06-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2020-05-22464",
+                "opt_money": "-0",
+                "opt_day": "2020-05-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2020-04-22464",
+                "opt_money": "-0",
+                "opt_day": "2020-04-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2020-03-22464",
+                "opt_money": "-0",
+                "opt_day": "2020-03-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2020-02-22464",
+                "opt_money": "-0",
+                "opt_day": "2020-02-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2020-01-22464",
+                "opt_money": "-0",
+                "opt_day": "2020-01-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2019-12-22464",
+                "opt_money": "-0",
+                "opt_day": "2019-12-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2019-11-22464",
+                "opt_money": "-0",
+                "opt_day": "2019-11-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2019-10-22464",
+                "opt_money": "-0",
+                "opt_day": "2019-10-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2019-09-22464",
+                "opt_money": "-0",
+                "opt_day": "2019-09-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2019-08-22464",
+                "opt_money": "-0",
+                "opt_day": "2019-08-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1780.94 ",
+                "deposit": "4492.80 ",
+                "opt_month": "2019-07-22464",
+                "opt_money": "-0",
+                "opt_day": "2019-07-22464",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2019-06-21528",
+                "opt_money": "-0",
+                "opt_day": "2019-06-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2019-05-21528",
+                "opt_money": "-0",
+                "opt_day": "2019-05-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2019-04-21528",
+                "opt_money": "-0",
+                "opt_day": "2019-04-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2019-03-21528",
+                "opt_money": "-0",
+                "opt_day": "2019-03-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2019-02-21528",
+                "opt_money": "-0",
+                "opt_day": "2019-02-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2019-01-21528",
+                "opt_money": "-0",
+                "opt_day": "2019-01-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2018-12-21528",
+                "opt_money": "-0",
+                "opt_day": "2018-12-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2018-11-21528",
+                "opt_money": "-0",
+                "opt_day": "2018-11-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2018-10-21528",
+                "opt_money": "-0",
+                "opt_day": "2018-10-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2018-09-21528",
+                "opt_money": "-0",
+                "opt_day": "2018-09-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2018-08-21528",
+                "opt_money": "-0",
+                "opt_day": "2018-08-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1706.73 ",
+                "deposit": "4305.60 ",
+                "opt_month": "2018-07-21528",
+                "opt_money": "-0",
+                "opt_day": "2018-07-21528",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2018-06-20592",
+                "opt_money": "-0",
+                "opt_day": "2018-06-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2018-05-20592",
+                "opt_money": "-0",
+                "opt_day": "2018-05-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2018-04-20592",
+                "opt_money": "-0",
+                "opt_day": "2018-04-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2018-03-20592",
+                "opt_money": "-0",
+                "opt_day": "2018-03-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2018-02-20592",
+                "opt_money": "-0",
+                "opt_day": "2018-02-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2018-01-20592",
+                "opt_money": "-0",
+                "opt_day": "2018-01-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2017-12-20592",
+                "opt_money": "-0",
+                "opt_day": "2017-12-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2017-11-20592",
+                "opt_money": "-0",
+                "opt_day": "2017-11-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2017-10-20592",
+                "opt_money": "-0",
+                "opt_day": "2017-10-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2017-09-20592",
+                "opt_money": "-0",
+                "opt_day": "2017-09-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2017-08-20592",
+                "opt_money": "-0",
+                "opt_day": "2017-08-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1632.52 ",
+                "deposit": "4118.40 ",
+                "opt_month": "2017-07-20592",
+                "opt_money": "-0",
+                "opt_day": "2017-07-20592",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2017-06-19656",
+                "opt_money": "-0",
+                "opt_day": "2017-06-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2017-05-19656",
+                "opt_money": "-0",
+                "opt_day": "2017-05-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2017-04-19656",
+                "opt_money": "-0",
+                "opt_day": "2017-04-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2017-03-19656",
+                "opt_money": "-0",
+                "opt_day": "2017-03-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2017-02-19656",
+                "opt_money": "-0",
+                "opt_day": "2017-02-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2017-01-19656",
+                "opt_money": "-0",
+                "opt_day": "2017-01-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2016-12-19656",
+                "opt_money": "-0",
+                "opt_day": "2016-12-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2016-11-19656",
+                "opt_money": "-0",
+                "opt_day": "2016-11-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2016-10-19656",
+                "opt_money": "-0",
+                "opt_day": "2016-10-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2016-09-19656",
+                "opt_money": "-0",
+                "opt_day": "2016-09-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2016-08-19656",
+                "opt_money": "-0",
+                "opt_day": "2016-08-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1558.32 ",
+                "deposit": "3931.20 ",
+                "opt_month": "2016-07-19656",
+                "opt_money": "-0",
+                "opt_day": "2016-07-19656",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1484.11 ",
+                "deposit": "3744.00 ",
+                "opt_month": "2016-06-18720",
+                "opt_money": "-0",
+                "opt_day": "2016-06-18720",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1484.11 ",
+                "deposit": "3744.00 ",
+                "opt_month": "2016-05-18720",
+                "opt_money": "-0",
+                "opt_day": "2016-05-18720",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1484.11 ",
+                "deposit": "3744.00 ",
+                "opt_month": "2016-04-18720",
+                "opt_money": "-0",
+                "opt_day": "2016-04-18720",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1484.11 ",
+                "deposit": "3744.00 ",
+                "opt_month": "2016-03-18720",
+                "opt_money": "-0",
+                "opt_day": "2016-03-18720",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1484.11 ",
+                "deposit": "3744.00 ",
+                "opt_month": "2016-02-18720",
+                "opt_money": "-0",
+                "opt_day": "2016-02-18720",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            },
+            {
+                "balance": "1484.11 ",
+                "deposit": "3744.00 ",
+                "opt_month": "2016-01-18720",
+                "opt_money": "-0",
+                "opt_day": "2016-01-18720",
+                "opt_company": "中国大唐集团新能源股份有限公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "251037.00 ",
+                "detail": {
+                    "last_settlement": "195651.00 ",
+                    "current_deposit": "55386.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "195651.00 ",
+                "detail": {
+                    "last_settlement": "128473.85 ",
+                    "current_deposit": "64992.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2185.15 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "128473.85 ",
+                "detail": {
+                    "last_settlement": "75342.97 ",
+                    "current_deposit": "51696.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1434.88 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "75342.97 ",
+                "detail": {
+                    "last_settlement": "36781.49 ",
+                    "current_deposit": "42869.48 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "841.48 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "36781.49 ",
+                "detail": {
+                    "last_settlement": "29237.49 ",
+                    "current_deposit": "16392.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "326.54 "
+                }
+            }
+        ]
+    }
+}
