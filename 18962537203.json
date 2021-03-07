@@ -1,0 +1,2546 @@
+{
+    "username": "18962537203",
+    "pwd": "123456",
+    "real_name": "田会会",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1989-02-16",
+    "card": "520071138277",
+    "id_card": "371***********3120",
+    "social_insurance": {
+        "companies": [
+            "北京德利威尔商贸有限公司"
+        ],
+        "area": "北京市朝阳区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "8 年 8 个月",
+        "medical_years": "8 年 9 个月",
+        "declare": {
+            "salary": "28200",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "28200"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "28200"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "28200"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "28200"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "28200"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22560",
+                        "company_deposit": "4512.00 ",
+                        "personal_deposit": "1788.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22560",
+                        "company_deposit": "180.49 ",
+                        "personal_deposit": "45.13 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22560",
+                        "company_deposit": "90.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22560",
+                        "company_deposit": "2256.00 ",
+                        "personal_deposit": "458.69 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22560",
+                        "company_deposit": "4512.00 ",
+                        "personal_deposit": "1788.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22560",
+                        "company_deposit": "180.49 ",
+                        "personal_deposit": "45.13 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22560",
+                        "company_deposit": "90.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22560",
+                        "company_deposit": "2256.00 ",
+                        "personal_deposit": "458.69 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22560",
+                        "company_deposit": "4512.00 ",
+                        "personal_deposit": "1788.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22560",
+                        "company_deposit": "180.49 ",
+                        "personal_deposit": "45.13 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22560",
+                        "company_deposit": "90.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22560",
+                        "company_deposit": "2256.00 ",
+                        "personal_deposit": "458.69 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22560",
+                        "company_deposit": "4512.00 ",
+                        "personal_deposit": "1788.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22560",
+                        "company_deposit": "180.49 ",
+                        "personal_deposit": "45.13 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22560",
+                        "company_deposit": "90.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22560",
+                        "company_deposit": "2256.00 ",
+                        "personal_deposit": "458.69 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22560",
+                        "company_deposit": "4512.00 ",
+                        "personal_deposit": "1788.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22560",
+                        "company_deposit": "180.49 ",
+                        "personal_deposit": "45.13 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22560",
+                        "company_deposit": "90.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22560",
+                        "company_deposit": "2256.00 ",
+                        "personal_deposit": "458.69 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22560",
+                        "company_deposit": "4512.00 ",
+                        "personal_deposit": "1788.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22560",
+                        "company_deposit": "180.49 ",
+                        "personal_deposit": "45.13 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22560",
+                        "company_deposit": "90.23 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22560",
+                        "company_deposit": "2256.00 ",
+                        "personal_deposit": "458.69 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23688",
+                        "company_deposit": "4737.60 ",
+                        "personal_deposit": "1877.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23688",
+                        "company_deposit": "189.52 ",
+                        "personal_deposit": "47.39 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23688",
+                        "company_deposit": "94.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23688",
+                        "company_deposit": "2368.80 ",
+                        "personal_deposit": "481.62 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24816",
+                        "company_deposit": "4963.20 ",
+                        "personal_deposit": "1967.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24816",
+                        "company_deposit": "198.54 ",
+                        "personal_deposit": "49.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24816",
+                        "company_deposit": "99.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24816",
+                        "company_deposit": "2481.60 ",
+                        "personal_deposit": "504.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25944",
+                        "company_deposit": "5188.80 ",
+                        "personal_deposit": "2056.83 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25944",
+                        "company_deposit": "207.57 ",
+                        "personal_deposit": "51.90 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25944",
+                        "company_deposit": "103.77 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25944",
+                        "company_deposit": "2594.40 ",
+                        "personal_deposit": "527.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27072",
+                        "company_deposit": "5414.40 ",
+                        "personal_deposit": "2146.26 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27072",
+                        "company_deposit": "216.59 ",
+                        "personal_deposit": "54.16 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27072",
+                        "company_deposit": "108.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27072",
+                        "company_deposit": "2707.20 ",
+                        "personal_deposit": "550.43 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-02",
+                "company": "北京德利威尔商贸有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "28200",
+                        "company_deposit": "5640.00 ",
+                        "personal_deposit": "2235.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "28200",
+                        "company_deposit": "225.62 ",
+                        "personal_deposit": "56.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "28200",
+                        "company_deposit": "112.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "28200",
+                        "company_deposit": "2820.00 ",
+                        "personal_deposit": "573.36 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073827184",
+            "company": "北京德利威尔商贸有限公司",
+            "register_number": "00020191",
+            "department": "朝阳管理部",
+            "balance": "270,370.56",
+            "state": "缴存",
+            "current_deposit": "54,144.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "216,226.56",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "3,384.00",
+            "month_personal_deposit": "3,384.00",
+            "base": "28,200.00",
+            "month_deposit": "6,768.00"
+        },
+        "details": [
+            {
+                "balance": "270370.56",
+                "deposit": "6768.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "263602.56",
+                "deposit": "6768.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "256834.56",
+                "deposit": "6768.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "250066.56",
+                "deposit": "6768.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "243298.56",
+                "deposit": "6768.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "236530.56",
+                "deposit": "6768.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "229762.56",
+                "deposit": "6768.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "222994.56",
+                "deposit": "6768.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "216226.56",
+                "deposit": "2414.95",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "213811.61",
+                "deposit": "5550.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "208261.61",
+                "deposit": "5550.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "202711.61",
+                "deposit": "5550.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "197161.61",
+                "deposit": "5550.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "191611.61",
+                "deposit": "5550.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "186061.61",
+                "deposit": "5550.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "180511.61",
+                "deposit": "5550.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "174961.61",
+                "deposit": "5550.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "169411.61",
+                "deposit": "5550.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "163861.61",
+                "deposit": "5550.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "158311.61",
+                "deposit": "5550.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "152761.61",
+                "deposit": "5550.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "147211.61",
+                "deposit": "1644.15",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "145567.46",
+                "deposit": "4738.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "140829.46",
+                "deposit": "4738.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "136091.46",
+                "deposit": "4738.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "131353.46",
+                "deposit": "4738.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "126615.46",
+                "deposit": "4738.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "121877.46",
+                "deposit": "4738.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "117139.46",
+                "deposit": "4738.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "112401.46",
+                "deposit": "4738.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "107663.46",
+                "deposit": "4738.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "102925.46",
+                "deposit": "4738.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "98187.46",
+                "deposit": "4738.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "93449.46",
+                "deposit": "4738.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "88711.46",
+                "deposit": "990.79",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "87720.67",
+                "deposit": "4061.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "83659.67",
+                "deposit": "4061.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "79598.67",
+                "deposit": "4061.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "75537.67",
+                "deposit": "4061.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "71476.67",
+                "deposit": "4061.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "67415.67",
+                "deposit": "4061.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "63354.67",
+                "deposit": "4061.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "59293.67",
+                "deposit": "4061.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "55232.67",
+                "deposit": "4061.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "51171.67",
+                "deposit": "4061.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "47110.67",
+                "deposit": "4061.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "43049.67",
+                "deposit": "4061.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "38988.67",
+                "deposit": "435.45",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "38553.22",
+                "deposit": "3526.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "35027.22",
+                "deposit": "3526.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "31501.22",
+                "deposit": "3526.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "27975.22",
+                "deposit": "3526.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "24449.22",
+                "deposit": "3526.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "3526.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京德利威尔商贸有限公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "270370.56 ",
+                "detail": {
+                    "last_settlement": "216226.56 ",
+                    "current_deposit": "54144.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "216226.56 ",
+                "detail": {
+                    "last_settlement": "147211.61 ",
+                    "current_deposit": "66600.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2414.95 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "147211.61 ",
+                "detail": {
+                    "last_settlement": "88711.46 ",
+                    "current_deposit": "56856.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1644.15 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "88711.46 ",
+                "detail": {
+                    "last_settlement": "38988.67 ",
+                    "current_deposit": "48732.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "990.79 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "38988.67 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "21156.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "435.45 "
+                }
+            }
+        ]
+    }
+}
