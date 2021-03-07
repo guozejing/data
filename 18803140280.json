@@ -1,0 +1,2555 @@
+{
+    "username": "18803140280",
+    "pwd": "123456",
+    "real_name": "谢海娇",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1994-08-12",
+    "card": "520068271192",
+    "id_card": "130***********4520",
+    "social_insurance": {
+        "companies": [
+            "北京拉夏乐微服饰有限公司"
+        ],
+        "area": "北京市大兴区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "4 年 8 个月",
+        "medical_years": "4 年 9 个月",
+        "declare": {
+            "salary": "20120",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "20120"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "20120"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "20120"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "20120"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "20120"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16096",
+                        "company_deposit": "3219.20 ",
+                        "personal_deposit": "1276.08 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16096",
+                        "company_deposit": "128.78 ",
+                        "personal_deposit": "32.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16096",
+                        "company_deposit": "64.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16096",
+                        "company_deposit": "1609.60 ",
+                        "personal_deposit": "327.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16096",
+                        "company_deposit": "3219.20 ",
+                        "personal_deposit": "1276.08 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16096",
+                        "company_deposit": "128.78 ",
+                        "personal_deposit": "32.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16096",
+                        "company_deposit": "64.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16096",
+                        "company_deposit": "1609.60 ",
+                        "personal_deposit": "327.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16096",
+                        "company_deposit": "3219.20 ",
+                        "personal_deposit": "1276.08 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16096",
+                        "company_deposit": "128.78 ",
+                        "personal_deposit": "32.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16096",
+                        "company_deposit": "64.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16096",
+                        "company_deposit": "1609.60 ",
+                        "personal_deposit": "327.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16096",
+                        "company_deposit": "3219.20 ",
+                        "personal_deposit": "1276.08 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16096",
+                        "company_deposit": "128.78 ",
+                        "personal_deposit": "32.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16096",
+                        "company_deposit": "64.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16096",
+                        "company_deposit": "1609.60 ",
+                        "personal_deposit": "327.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16096",
+                        "company_deposit": "3219.20 ",
+                        "personal_deposit": "1276.08 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16096",
+                        "company_deposit": "128.78 ",
+                        "personal_deposit": "32.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16096",
+                        "company_deposit": "64.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16096",
+                        "company_deposit": "1609.60 ",
+                        "personal_deposit": "327.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16096",
+                        "company_deposit": "3219.20 ",
+                        "personal_deposit": "1276.08 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16096",
+                        "company_deposit": "128.78 ",
+                        "personal_deposit": "32.20 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16096",
+                        "company_deposit": "64.38 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16096",
+                        "company_deposit": "1609.60 ",
+                        "personal_deposit": "327.26 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16900.8",
+                        "company_deposit": "3380.16 ",
+                        "personal_deposit": "1339.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16900.8",
+                        "company_deposit": "135.22 ",
+                        "personal_deposit": "33.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16900.8",
+                        "company_deposit": "67.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16900.8",
+                        "company_deposit": "1690.08 ",
+                        "personal_deposit": "343.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17705.6",
+                        "company_deposit": "3541.12 ",
+                        "personal_deposit": "1403.69 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17705.6",
+                        "company_deposit": "141.66 ",
+                        "personal_deposit": "35.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17705.6",
+                        "company_deposit": "70.82 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17705.6",
+                        "company_deposit": "1770.56 ",
+                        "personal_deposit": "359.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18510.4",
+                        "company_deposit": "3702.08 ",
+                        "personal_deposit": "1467.50 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18510.4",
+                        "company_deposit": "148.09 ",
+                        "personal_deposit": "37.03 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18510.4",
+                        "company_deposit": "74.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18510.4",
+                        "company_deposit": "1851.04 ",
+                        "personal_deposit": "376.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19315.2",
+                        "company_deposit": "3863.04 ",
+                        "personal_deposit": "1531.30 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19315.2",
+                        "company_deposit": "154.53 ",
+                        "personal_deposit": "38.64 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19315.2",
+                        "company_deposit": "77.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19315.2",
+                        "company_deposit": "1931.52 ",
+                        "personal_deposit": "392.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-02",
+                "company": "北京拉夏乐微服饰有限公司",
+                "area": "北京市大兴区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20120",
+                        "company_deposit": "4024.00 ",
+                        "personal_deposit": "1595.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20120",
+                        "company_deposit": "160.97 ",
+                        "personal_deposit": "40.25 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20120",
+                        "company_deposit": "80.48 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20120",
+                        "company_deposit": "2012.00 ",
+                        "personal_deposit": "409.08 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073920014",
+            "company": "北京拉夏乐微服饰有限公司",
+            "register_number": "00020198",
+            "department": "大兴管理部",
+            "balance": "221,317.86",
+            "state": "缴存",
+            "current_deposit": "43,452.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "177,865.86",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,414.00",
+            "month_personal_deposit": "2,414.00",
+            "base": "20,120.00",
+            "month_deposit": "4,828.00"
+        },
+        "details": [
+            {
+                "balance": "221317.86",
+                "deposit": "4828.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "216489.86",
+                "deposit": "4828.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "211661.86",
+                "deposit": "4828.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "206833.86",
+                "deposit": "4828.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "202005.86",
+                "deposit": "4828.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "197177.86",
+                "deposit": "4828.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "192349.86",
+                "deposit": "4828.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "187521.86",
+                "deposit": "4828.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "182693.86",
+                "deposit": "4828.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "177865.86",
+                "deposit": "1986.52",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "175879.34",
+                "deposit": "4249.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "171630.34",
+                "deposit": "4249.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "167381.34",
+                "deposit": "4249.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "163132.34",
+                "deposit": "4249.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "158883.34",
+                "deposit": "4249.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "154634.34",
+                "deposit": "4249.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "150385.34",
+                "deposit": "4249.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "146136.34",
+                "deposit": "4249.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "141887.34",
+                "deposit": "4249.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "137638.34",
+                "deposit": "4249.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "133389.34",
+                "deposit": "4249.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "129140.34",
+                "deposit": "4249.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "124891.34",
+                "deposit": "1394.87",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "123496.47",
+                "deposit": "3380.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "120116.47",
+                "deposit": "3380.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "116736.47",
+                "deposit": "3380.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "113356.47",
+                "deposit": "3380.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "109976.47",
+                "deposit": "3380.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "106596.47",
+                "deposit": "3380.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "103216.47",
+                "deposit": "3380.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "99836.47",
+                "deposit": "3380.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "96456.47",
+                "deposit": "3380.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "93076.47",
+                "deposit": "3380.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "89696.47",
+                "deposit": "3380.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "86316.47",
+                "deposit": "3380.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "82936.47",
+                "deposit": "926.29",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "82010.18",
+                "deposit": "2960.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "79050.18",
+                "deposit": "2960.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "76090.18",
+                "deposit": "2960.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "73130.18",
+                "deposit": "2960.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "70170.18",
+                "deposit": "2960.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "67210.18",
+                "deposit": "2960.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "64250.18",
+                "deposit": "2960.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "61290.18",
+                "deposit": "2960.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "58330.18",
+                "deposit": "2960.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "55370.18",
+                "deposit": "2960.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "52410.18",
+                "deposit": "2960.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "49450.18",
+                "deposit": "2960.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "46490.18",
+                "deposit": "519.23",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "45970.95",
+                "deposit": "2144.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "43826.95",
+                "deposit": "2144.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "41682.95",
+                "deposit": "2144.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "39538.95",
+                "deposit": "2144.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "37394.95",
+                "deposit": "2144.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            },
+            {
+                "balance": "35250.95",
+                "deposit": "2144.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京拉夏乐微服饰有限公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "221317.86 ",
+                "detail": {
+                    "last_settlement": "177865.86 ",
+                    "current_deposit": "43452.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "182693.86 ",
+                "detail": {
+                    "last_settlement": "124891.34 ",
+                    "current_deposit": "50988.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1986.52 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "129140.34 ",
+                "detail": {
+                    "last_settlement": "82936.47 ",
+                    "current_deposit": "40560.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1394.87 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "86316.47 ",
+                "detail": {
+                    "last_settlement": "46490.18 ",
+                    "current_deposit": "35520.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "926.29 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "49450.18 ",
+                "detail": {
+                    "last_settlement": "35250.95 ",
+                    "current_deposit": "12864.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "519.23 "
+                }
+            }
+        ]
+    }
+}
