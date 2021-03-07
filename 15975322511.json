@@ -1,0 +1,2546 @@
+{
+    "username": "15975322511",
+    "pwd": "123456",
+    "real_name": "戴秋桂",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1976-09-06",
+    "card": "520064152600",
+    "id_card": "432***********582X",
+    "social_insurance": {
+        "companies": [
+            "北京盛圆医药科技有限公司"
+        ],
+        "area": "北京市朝阳区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "15 年 4 个月",
+        "medical_years": "15 年 5 个月",
+        "declare": {
+            "salary": "27200",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "27200"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "27200"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "27200"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "27200"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "27200"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21760",
+                        "company_deposit": "4352.00 ",
+                        "personal_deposit": "1725.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21760",
+                        "company_deposit": "174.09 ",
+                        "personal_deposit": "43.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21760",
+                        "company_deposit": "87.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21760",
+                        "company_deposit": "2176.00 ",
+                        "personal_deposit": "442.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21760",
+                        "company_deposit": "4352.00 ",
+                        "personal_deposit": "1725.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21760",
+                        "company_deposit": "174.09 ",
+                        "personal_deposit": "43.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21760",
+                        "company_deposit": "87.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21760",
+                        "company_deposit": "2176.00 ",
+                        "personal_deposit": "442.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21760",
+                        "company_deposit": "4352.00 ",
+                        "personal_deposit": "1725.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21760",
+                        "company_deposit": "174.09 ",
+                        "personal_deposit": "43.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21760",
+                        "company_deposit": "87.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21760",
+                        "company_deposit": "2176.00 ",
+                        "personal_deposit": "442.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21760",
+                        "company_deposit": "4352.00 ",
+                        "personal_deposit": "1725.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21760",
+                        "company_deposit": "174.09 ",
+                        "personal_deposit": "43.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21760",
+                        "company_deposit": "87.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21760",
+                        "company_deposit": "2176.00 ",
+                        "personal_deposit": "442.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21760",
+                        "company_deposit": "4352.00 ",
+                        "personal_deposit": "1725.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21760",
+                        "company_deposit": "174.09 ",
+                        "personal_deposit": "43.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21760",
+                        "company_deposit": "87.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21760",
+                        "company_deposit": "2176.00 ",
+                        "personal_deposit": "442.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21760",
+                        "company_deposit": "4352.00 ",
+                        "personal_deposit": "1725.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21760",
+                        "company_deposit": "174.09 ",
+                        "personal_deposit": "43.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21760",
+                        "company_deposit": "87.04 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21760",
+                        "company_deposit": "2176.00 ",
+                        "personal_deposit": "442.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22848",
+                        "company_deposit": "4569.60 ",
+                        "personal_deposit": "1811.38 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22848",
+                        "company_deposit": "182.80 ",
+                        "personal_deposit": "45.71 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22848",
+                        "company_deposit": "91.39 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22848",
+                        "company_deposit": "2284.80 ",
+                        "personal_deposit": "464.54 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23936",
+                        "company_deposit": "4787.20 ",
+                        "personal_deposit": "1897.63 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23936",
+                        "company_deposit": "191.50 ",
+                        "personal_deposit": "47.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23936",
+                        "company_deposit": "95.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23936",
+                        "company_deposit": "2393.60 ",
+                        "personal_deposit": "486.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25024",
+                        "company_deposit": "5004.80 ",
+                        "personal_deposit": "1983.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25024",
+                        "company_deposit": "200.21 ",
+                        "personal_deposit": "50.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25024",
+                        "company_deposit": "100.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25024",
+                        "company_deposit": "2502.40 ",
+                        "personal_deposit": "508.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26112",
+                        "company_deposit": "5222.40 ",
+                        "personal_deposit": "2070.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26112",
+                        "company_deposit": "208.91 ",
+                        "personal_deposit": "52.24 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26112",
+                        "company_deposit": "104.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26112",
+                        "company_deposit": "2611.20 ",
+                        "personal_deposit": "530.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-02",
+                "company": "北京盛圆医药科技有限公司",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27200",
+                        "company_deposit": "5440.00 ",
+                        "personal_deposit": "2156.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27200",
+                        "company_deposit": "217.62 ",
+                        "personal_deposit": "54.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27200",
+                        "company_deposit": "108.79 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27200",
+                        "company_deposit": "2720.00 ",
+                        "personal_deposit": "553.03 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ067573625",
+            "company": "北京盛圆医药科技有限公司",
+            "register_number": "00020114",
+            "department": "朝阳管理部",
+            "balance": "267,423.55",
+            "state": "缴存",
+            "current_deposit": "52,224.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "215,199.55",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "3,264.00",
+            "month_personal_deposit": "3,264.00",
+            "base": "27,200.00",
+            "month_deposit": "6,528.00"
+        }
+    },
+    "details": [
+        {
+            "balance": "267423.55",
+            "deposit": "6528.00",
+            "opt_month": "2021-02",
+            "opt_money": "-0",
+            "opt_day": "2021-02-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "260895.55",
+            "deposit": "6528.00",
+            "opt_month": "2021-01",
+            "opt_money": "-0",
+            "opt_day": "2021-01-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "254367.55",
+            "deposit": "6528.00",
+            "opt_month": "2020-12",
+            "opt_money": "-0",
+            "opt_day": "2020-12-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "247839.55",
+            "deposit": "6528.00",
+            "opt_month": "2020-11",
+            "opt_money": "-0",
+            "opt_day": "2020-11-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "241311.55",
+            "deposit": "6528.00",
+            "opt_month": "2020-10",
+            "opt_money": "-0",
+            "opt_day": "2020-10-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "234783.55",
+            "deposit": "6528.00",
+            "opt_month": "2020-09",
+            "opt_money": "-0",
+            "opt_day": "2020-09-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "228255.55",
+            "deposit": "6528.00",
+            "opt_month": "2020-08",
+            "opt_money": "-0",
+            "opt_day": "2020-08-17",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "221727.55",
+            "deposit": "6528.00",
+            "opt_month": "2020-07",
+            "opt_money": "-0",
+            "opt_day": "2020-07-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "215199.55",
+            "deposit": "2403.48",
+            "opt_month": "2020-06",
+            "opt_money": "-0",
+            "opt_day": "2020-06-30",
+            "opt_type": "年度结息",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "212796.07",
+            "deposit": "5418.00",
+            "opt_month": "2020-06",
+            "opt_money": "-0",
+            "opt_day": "2020-06-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "207378.07",
+            "deposit": "5418.00",
+            "opt_month": "2020-05",
+            "opt_money": "-0",
+            "opt_day": "2020-05-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "201960.07",
+            "deposit": "5418.00",
+            "opt_month": "2020-04",
+            "opt_money": "-0",
+            "opt_day": "2020-04-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "196542.07",
+            "deposit": "5418.00",
+            "opt_month": "2020-03",
+            "opt_money": "-0",
+            "opt_day": "2020-03-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "191124.07",
+            "deposit": "5418.00",
+            "opt_month": "2020-02",
+            "opt_money": "-0",
+            "opt_day": "2020-02-17",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "185706.07",
+            "deposit": "5418.00",
+            "opt_month": "2020-01",
+            "opt_money": "-0",
+            "opt_day": "2020-01-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "180288.07",
+            "deposit": "5418.00",
+            "opt_month": "2019-12",
+            "opt_money": "-0",
+            "opt_day": "2019-12-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "174870.07",
+            "deposit": "5418.00",
+            "opt_month": "2019-11",
+            "opt_money": "-0",
+            "opt_day": "2019-11-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "169452.07",
+            "deposit": "5418.00",
+            "opt_month": "2019-10",
+            "opt_money": "-0",
+            "opt_day": "2019-10-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "164034.07",
+            "deposit": "5418.00",
+            "opt_month": "2019-09",
+            "opt_money": "-0",
+            "opt_day": "2019-09-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "158616.07",
+            "deposit": "5418.00",
+            "opt_month": "2019-08",
+            "opt_money": "-0",
+            "opt_day": "2019-08-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "153198.07",
+            "deposit": "5418.00",
+            "opt_month": "2019-07",
+            "opt_money": "-0",
+            "opt_day": "2019-07-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "147780.07",
+            "deposit": "1650.50",
+            "opt_month": "2019-06",
+            "opt_money": "-0",
+            "opt_day": "2019-06-30",
+            "opt_type": "年度结息",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "146129.57",
+            "deposit": "4589.00",
+            "opt_month": "2019-06",
+            "opt_money": "-0",
+            "opt_day": "2019-06-17",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "141540.57",
+            "deposit": "4589.00",
+            "opt_month": "2019-05",
+            "opt_money": "-0",
+            "opt_day": "2019-05-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "136951.57",
+            "deposit": "4589.00",
+            "opt_month": "2019-04",
+            "opt_money": "-0",
+            "opt_day": "2019-04-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "132362.57",
+            "deposit": "4589.00",
+            "opt_month": "2019-03",
+            "opt_money": "-0",
+            "opt_day": "2019-03-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "127773.57",
+            "deposit": "4589.00",
+            "opt_month": "2019-02",
+            "opt_money": "-0",
+            "opt_day": "2019-02-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "123184.57",
+            "deposit": "4589.00",
+            "opt_month": "2019-01",
+            "opt_money": "-0",
+            "opt_day": "2019-01-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "118595.57",
+            "deposit": "4589.00",
+            "opt_month": "2018-12",
+            "opt_money": "-0",
+            "opt_day": "2018-12-17",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "114006.57",
+            "deposit": "4589.00",
+            "opt_month": "2018-11",
+            "opt_money": "-0",
+            "opt_day": "2018-11-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "109417.57",
+            "deposit": "4589.00",
+            "opt_month": "2018-10",
+            "opt_money": "-0",
+            "opt_day": "2018-10-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "104828.57",
+            "deposit": "4589.00",
+            "opt_month": "2018-09",
+            "opt_money": "-0",
+            "opt_day": "2018-09-17",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "100239.57",
+            "deposit": "4589.00",
+            "opt_month": "2018-08",
+            "opt_money": "-0",
+            "opt_day": "2018-08-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "95650.57",
+            "deposit": "4589.00",
+            "opt_month": "2018-07",
+            "opt_money": "-0",
+            "opt_day": "2018-07-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "91061.57",
+            "deposit": "1017.03",
+            "opt_month": "2018-06",
+            "opt_money": "-0",
+            "opt_day": "2018-06-30",
+            "opt_type": "年度结息",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "90044.54",
+            "deposit": "2748.00",
+            "opt_month": "2018-06",
+            "opt_money": "-0",
+            "opt_day": "2018-06-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "87296.54",
+            "deposit": "2748.00",
+            "opt_month": "2018-05",
+            "opt_money": "-0",
+            "opt_day": "2018-05-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "84548.54",
+            "deposit": "2748.00",
+            "opt_month": "2018-04",
+            "opt_money": "-0",
+            "opt_day": "2018-04-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "81800.54",
+            "deposit": "2748.00",
+            "opt_month": "2018-03",
+            "opt_money": "-0",
+            "opt_day": "2018-03-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "79052.54",
+            "deposit": "2748.00",
+            "opt_month": "2018-02",
+            "opt_money": "-0",
+            "opt_day": "2018-02-14",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "76304.54",
+            "deposit": "2748.00",
+            "opt_month": "2018-01",
+            "opt_money": "-0",
+            "opt_day": "2018-01-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "73556.54",
+            "deposit": "2748.00",
+            "opt_month": "2017-12",
+            "opt_money": "-0",
+            "opt_day": "2017-12-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "70808.54",
+            "deposit": "2748.00",
+            "opt_month": "2017-11",
+            "opt_money": "-0",
+            "opt_day": "2017-11-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "68060.54",
+            "deposit": "2748.00",
+            "opt_month": "2017-10",
+            "opt_money": "-0",
+            "opt_day": "2017-10-16",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "65312.54",
+            "deposit": "2748.00",
+            "opt_month": "2017-09",
+            "opt_money": "-0",
+            "opt_day": "2017-09-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "62564.54",
+            "deposit": "2748.00",
+            "opt_month": "2017-08",
+            "opt_money": "-0",
+            "opt_day": "2017-08-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "59816.54",
+            "deposit": "2748.00",
+            "opt_month": "2017-07",
+            "opt_money": "-0",
+            "opt_day": "2017-07-14",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "57068.54",
+            "deposit": "637.38",
+            "opt_month": "2017-06",
+            "opt_money": "-0",
+            "opt_day": "2017-06-30",
+            "opt_type": "年度结息",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "56431.16",
+            "deposit": "2690.00",
+            "opt_month": "2017-06",
+            "opt_money": "-0",
+            "opt_day": "2017-06-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "53741.16",
+            "deposit": "2690.00",
+            "opt_month": "2017-05",
+            "opt_money": "-0",
+            "opt_day": "2017-05-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "51051.16",
+            "deposit": "2690.00",
+            "opt_month": "2017-04",
+            "opt_money": "-0",
+            "opt_day": "2017-04-14",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "48361.16",
+            "deposit": "2690.00",
+            "opt_month": "2017-03",
+            "opt_money": "-0",
+            "opt_day": "2017-03-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "45671.16",
+            "deposit": "2690.00",
+            "opt_month": "2017-02",
+            "opt_money": "-0",
+            "opt_day": "2017-02-13",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        },
+        {
+            "balance": "42981.16",
+            "deposit": "2690.00",
+            "opt_month": "2017-01",
+            "opt_money": "-0",
+            "opt_day": "2017-01-15",
+            "opt_type": "汇缴分配",
+            "opt_company": "北京盛圆医药科技有限公司"
+        }
+    ],
+    "bills": [
+        {
+            "year_range": "2020-2021",
+            "amount": "267423.55 ",
+            "detail": {
+                "last_settlement": "215199.55 ",
+                "current_deposit": "52224.00 ",
+                "current_withdraw": "0.00 ",
+                "interest": "0.00 "
+            }
+        },
+        {
+            "year_range": "2019-2020",
+            "amount": "215199.55 ",
+            "detail": {
+                "last_settlement": "147780.07 ",
+                "current_deposit": "65016.00 ",
+                "current_withdraw": "0.00 ",
+                "interest": "2403.48 "
+            }
+        },
+        {
+            "year_range": "2018-2019",
+            "amount": "147780.07 ",
+            "detail": {
+                "last_settlement": "91061.57 ",
+                "current_deposit": "55068.00 ",
+                "current_withdraw": "0.00 ",
+                "interest": "1650.50 "
+            }
+        },
+        {
+            "year_range": "2017-2018",
+            "amount": "91061.57 ",
+            "detail": {
+                "last_settlement": "57068.54 ",
+                "current_deposit": "32976.00 ",
+                "current_withdraw": "0.00 ",
+                "interest": "1017.03 "
+            }
+        },
+        {
+            "year_range": "2016-2017",
+            "amount": "57068.54 ",
+            "detail": {
+                "last_settlement": "42981.16 ",
+                "current_deposit": "16140.00 ",
+                "current_withdraw": "0.00 ",
+                "interest": "637.38 "
+            }
+        }
+    ]
+}
