@@ -1,0 +1,2082 @@
+{
+    "username": "13371755081",
+    "pwd": "123456",
+    "real_name": "乔彦君",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1974-10-27",
+    "card": "520073821776",
+    "id_card": "232***********4437",
+    "social_insurance": {
+        "companies": [
+            "中煤资源发展集团有限公司"
+        ],
+        "area": "北京市东城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "8 年 8 个月",
+        "medical_years": "8 年 9 个月",
+        "declare": {
+            "salary": "21000",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "21000"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "21000"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "21000"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "21000"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "21000"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "01-10",
+                        "company_deposit": "2,626.00",
+                        "personal_deposit": "20,923.22"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "01-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "01-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "01-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "02-08",
+                        "company_deposit": "2,626.00",
+                        "personal_deposit": "23,549.22"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "02-08",
+                        "company_deposit": "i",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "02-08"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "02-08"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "03-10",
+                        "company_deposit": "2,626.00",
+                        "personal_deposit": "26,175.22"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "03-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "03-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "03-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "04-11",
+                        "company_deposit": "2,626.00",
+                        "personal_deposit": "28,801.22"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "04-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "04-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "04-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "05-09",
+                        "company_deposit": "2,626.00",
+                        "personal_deposit": "31,427.22"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "05-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "05-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "05-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-09",
+                        "company_deposit": "2,626.00",
+                        "personal_deposit": "34,053.22"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-30",
+                        "company_deposit": "384.62",
+                        "personal_deposit": "34,437.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-30",
+                        "company_deposit": "x",
+                        "personal_deposit": "2016-2017"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-30"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-30"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "07-11",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "37,461.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "07-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "07-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "07-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "08-10",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "40,485.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "08-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "08-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "08-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "09-11",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "43,509.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "09-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "09-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "09-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10-10",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "46,533.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11-10",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "49,557.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2017",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12-11",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "52,581.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "01-11",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "55,605.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "01-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "01-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "01-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "02-09",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "58,629.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "02-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "02-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "02-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "03-09",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "61,653.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "03-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "03-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "03-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "04-10",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "64,677.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "04-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "04-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "04-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "05-09",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "67,701.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "05-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "05-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "05-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-11",
+                        "company_deposit": "3,024.00",
+                        "personal_deposit": "70,725.84"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-30",
+                        "company_deposit": "798.83",
+                        "personal_deposit": "71,524.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-30",
+                        "company_deposit": "x",
+                        "personal_deposit": "2017-2018"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-30"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-30"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "07-11",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "75,052.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "07-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "07-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "07-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "08-10",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "78,580.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "08-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "08-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "08-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "09-11",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "82,108.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "09-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "09-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "09-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10-10",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "85,636.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11-09",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "89,164.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2018",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12-11",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "92,692.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "01-10",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "96,220.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "01-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "01-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "01-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "02-11",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "99,748.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "02-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "02-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "02-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "03-11",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "103,276.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "03-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "03-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "03-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "04-10",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "106,804.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "04-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "04-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "04-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "05-10",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "110,332.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "05-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "05-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "05-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-10",
+                        "company_deposit": "3,528.00",
+                        "personal_deposit": "113,860.67"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-30",
+                        "company_deposit": "1,286.03",
+                        "personal_deposit": "115,146.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-30",
+                        "company_deposit": "x",
+                        "personal_deposit": "2018-2019"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-30"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-30"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "07-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "119,279.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "07-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "07-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "07-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "08-09",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "123,412.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "08-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "08-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "08-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "09-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "127,545.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "09-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "09-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "09-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "131,678.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11-11",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "135,811.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2019",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "139,944.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "01-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "144,077.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "01-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "01-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "01-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "02-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "148,210.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "02-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "02-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "02-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "03-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "152,343.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "03-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "03-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "03-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "04-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "156,476.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "04-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "04-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "04-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "05-11",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "160,609.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "05-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "05-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "05-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-10",
+                        "company_deposit": "4,133.00",
+                        "personal_deposit": "164,742.70"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "06-30",
+                        "company_deposit": "1,860.73",
+                        "personal_deposit": "166,603.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "06-30",
+                        "company_deposit": "x",
+                        "personal_deposit": "2019-2020"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "06-30"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "06-30"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "07-10",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "171,643.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "07-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "07-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "07-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "08-10",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "176,683.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "08-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "08-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "08-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "09-09",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "181,723.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "09-09",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "09-09"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "09-09"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10-12",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "186,763.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10-12",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10-12"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10-12"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11-10",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "191,803.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2020",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12-10",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "196,843.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12-10"
+                    }
+                ]
+            },
+            {
+                "year_month": "2021",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "01-11",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "201,883.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "01-11",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "01-11"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "01-11"
+                    }
+                ]
+            },
+            {
+                "year_month": "2021",
+                "company": "中煤资源发展集团有限公司",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "02-10",
+                        "company_deposit": "5,040.00",
+                        "personal_deposit": "206,923.43"
+                    },
+                    {
+                        "type": "失业",
+                        "base": "02-10",
+                        "company_deposit": "i",
+                        "personal_deposit": "2020-2021"
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "02-10"
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "02-10"
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073827621",
+            "company": "中煤资源发展集团有限公司",
+            "register_number": "00006114",
+            "department": "东城管理部",
+            "balance": "206,923.43",
+            "state": "缴存",
+            "current_deposit": "40,320.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "166,603.43",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,520.00",
+            "month_personal_deposit": "2,520.00",
+            "base": "21,000.00",
+            "month_deposit": "5,040.00"
+        },
+"details": [
+    {
+        "balance": "206923.43",
+        "deposit": "5040.00",
+        "opt_month": "2021-02",
+        "opt_money": "-0",
+        "opt_day": "2021-02-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "201883.43",
+        "deposit": "5040.00",
+        "opt_month": "2021-01",
+        "opt_money": "-0",
+        "opt_day": "2021-01-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "196843.43",
+        "deposit": "5040.00",
+        "opt_month": "2020-12",
+        "opt_money": "-0",
+        "opt_day": "2020-12-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "191803.43",
+        "deposit": "5040.00",
+        "opt_month": "2020-11",
+        "opt_money": "-0",
+        "opt_day": "2020-11-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "186763.43",
+        "deposit": "5040.00",
+        "opt_month": "2020-10",
+        "opt_money": "-0",
+        "opt_day": "2020-10-12",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "181723.43",
+        "deposit": "5040.00",
+        "opt_month": "2020-09",
+        "opt_money": "-0",
+        "opt_day": "2020-09-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "176683.43",
+        "deposit": "5040.00",
+        "opt_month": "2020-08",
+        "opt_money": "-0",
+        "opt_day": "2020-08-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "171643.43",
+        "deposit": "5040.00",
+        "opt_month": "2020-07",
+        "opt_money": "-0",
+        "opt_day": "2020-07-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "166603.43",
+        "deposit": "1860.73",
+        "opt_month": "2020-06",
+        "opt_money": "-0",
+        "opt_day": "2020-06-30",
+        "opt_type": "年度结息",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "164742.70",
+        "deposit": "4133.00",
+        "opt_month": "2020-06",
+        "opt_money": "-0",
+        "opt_day": "2020-06-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "160609.70",
+        "deposit": "4133.00",
+        "opt_month": "2020-05",
+        "opt_money": "-0",
+        "opt_day": "2020-05-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "156476.70",
+        "deposit": "4133.00",
+        "opt_month": "2020-04",
+        "opt_money": "-0",
+        "opt_day": "2020-04-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "152343.70",
+        "deposit": "4133.00",
+        "opt_month": "2020-03",
+        "opt_money": "-0",
+        "opt_day": "2020-03-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "148210.70",
+        "deposit": "4133.00",
+        "opt_month": "2020-02",
+        "opt_money": "-0",
+        "opt_day": "2020-02-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "144077.70",
+        "deposit": "4133.00",
+        "opt_month": "2020-01",
+        "opt_money": "-0",
+        "opt_day": "2020-01-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "139944.70",
+        "deposit": "4133.00",
+        "opt_month": "2019-12",
+        "opt_money": "-0",
+        "opt_day": "2019-12-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "135811.70",
+        "deposit": "4133.00",
+        "opt_month": "2019-11",
+        "opt_money": "-0",
+        "opt_day": "2019-11-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "131678.70",
+        "deposit": "4133.00",
+        "opt_month": "2019-10",
+        "opt_money": "-0",
+        "opt_day": "2019-10-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "127545.70",
+        "deposit": "4133.00",
+        "opt_month": "2019-09",
+        "opt_money": "-0",
+        "opt_day": "2019-09-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "123412.70",
+        "deposit": "4133.00",
+        "opt_month": "2019-08",
+        "opt_money": "-0",
+        "opt_day": "2019-08-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "119279.70",
+        "deposit": "4133.00",
+        "opt_month": "2019-07",
+        "opt_money": "-0",
+        "opt_day": "2019-07-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "115146.70",
+        "deposit": "1286.03",
+        "opt_month": "2019-06",
+        "opt_money": "-0",
+        "opt_day": "2019-06-30",
+        "opt_type": "年度结息",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "113860.67",
+        "deposit": "3528.00",
+        "opt_month": "2019-06",
+        "opt_money": "-0",
+        "opt_day": "2019-06-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "110332.67",
+        "deposit": "3528.00",
+        "opt_month": "2019-05",
+        "opt_money": "-0",
+        "opt_day": "2019-05-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "106804.67",
+        "deposit": "3528.00",
+        "opt_month": "2019-04",
+        "opt_money": "-0",
+        "opt_day": "2019-04-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "103276.67",
+        "deposit": "3528.00",
+        "opt_month": "2019-03",
+        "opt_money": "-0",
+        "opt_day": "2019-03-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "99748.67",
+        "deposit": "3528.00",
+        "opt_month": "2019-02",
+        "opt_money": "-0",
+        "opt_day": "2019-02-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "96220.67",
+        "deposit": "3528.00",
+        "opt_month": "2019-01",
+        "opt_money": "-0",
+        "opt_day": "2019-01-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "92692.67",
+        "deposit": "3528.00",
+        "opt_month": "2018-12",
+        "opt_money": "-0",
+        "opt_day": "2018-12-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "89164.67",
+        "deposit": "3528.00",
+        "opt_month": "2018-11",
+        "opt_money": "-0",
+        "opt_day": "2018-11-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "85636.67",
+        "deposit": "3528.00",
+        "opt_month": "2018-10",
+        "opt_money": "-0",
+        "opt_day": "2018-10-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "82108.67",
+        "deposit": "3528.00",
+        "opt_month": "2018-09",
+        "opt_money": "-0",
+        "opt_day": "2018-09-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "78580.67",
+        "deposit": "3528.00",
+        "opt_month": "2018-08",
+        "opt_money": "-0",
+        "opt_day": "2018-08-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "75052.67",
+        "deposit": "3528.00",
+        "opt_month": "2018-07",
+        "opt_money": "-0",
+        "opt_day": "2018-07-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "71524.67",
+        "deposit": "798.83",
+        "opt_month": "2018-06",
+        "opt_money": "-0",
+        "opt_day": "2018-06-30",
+        "opt_type": "年度结息",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "70725.84",
+        "deposit": "3024.00",
+        "opt_month": "2018-06",
+        "opt_money": "-0",
+        "opt_day": "2018-06-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "67701.84",
+        "deposit": "3024.00",
+        "opt_month": "2018-05",
+        "opt_money": "-0",
+        "opt_day": "2018-05-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "64677.84",
+        "deposit": "3024.00",
+        "opt_month": "2018-04",
+        "opt_money": "-0",
+        "opt_day": "2018-04-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "61653.84",
+        "deposit": "3024.00",
+        "opt_month": "2018-03",
+        "opt_money": "-0",
+        "opt_day": "2018-03-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "58629.84",
+        "deposit": "3024.00",
+        "opt_month": "2018-02",
+        "opt_money": "-0",
+        "opt_day": "2018-02-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "55605.84",
+        "deposit": "3024.00",
+        "opt_month": "2018-01",
+        "opt_money": "-0",
+        "opt_day": "2018-01-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "52581.84",
+        "deposit": "3024.00",
+        "opt_month": "2017-12",
+        "opt_money": "-0",
+        "opt_day": "2017-12-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "49557.84",
+        "deposit": "3024.00",
+        "opt_month": "2017-11",
+        "opt_money": "-0",
+        "opt_day": "2017-11-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "46533.84",
+        "deposit": "3024.00",
+        "opt_month": "2017-10",
+        "opt_money": "-0",
+        "opt_day": "2017-10-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "43509.84",
+        "deposit": "3024.00",
+        "opt_month": "2017-09",
+        "opt_money": "-0",
+        "opt_day": "2017-09-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "40485.84",
+        "deposit": "3024.00",
+        "opt_month": "2017-08",
+        "opt_money": "-0",
+        "opt_day": "2017-08-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "37461.84",
+        "deposit": "3024.00",
+        "opt_month": "2017-07",
+        "opt_money": "-0",
+        "opt_day": "2017-07-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "34437.84",
+        "deposit": "384.62",
+        "opt_month": "2017-06",
+        "opt_money": "-0",
+        "opt_day": "2017-06-30",
+        "opt_type": "年度结息",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "34053.22",
+        "deposit": "2626.00",
+        "opt_month": "2017-06",
+        "opt_money": "-0",
+        "opt_day": "2017-06-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "31427.22",
+        "deposit": "2626.00",
+        "opt_month": "2017-05",
+        "opt_money": "-0",
+        "opt_day": "2017-05-09",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "28801.22",
+        "deposit": "2626.00",
+        "opt_month": "2017-04",
+        "opt_money": "-0",
+        "opt_day": "2017-04-11",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "26175.22",
+        "deposit": "2626.00",
+        "opt_month": "2017-03",
+        "opt_money": "-0",
+        "opt_day": "2017-03-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "23549.22",
+        "deposit": "2626.00",
+        "opt_month": "2017-02",
+        "opt_money": "-0",
+        "opt_day": "2017-02-08",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    },
+    {
+        "balance": "20923.22",
+        "deposit": "2626.00",
+        "opt_month": "2017-01",
+        "opt_money": "-0",
+        "opt_day": "2017-01-10",
+        "opt_type": "汇缴分配",
+        "opt_company": "中煤资源发展集团有限公司"
+    }
+],
+"bills": [
+    {
+        "year_range": "2020-2021",
+        "amount": "206923.43 ",
+        "detail": {
+            "last_settlement": "166603.43 ",
+            "current_deposit": "40320.00 ",
+            "current_withdraw": "0.00 ",
+            "interest": "0.00 "
+        }
+    },
+    {
+        "year_range": "2019-2020",
+        "amount": "166603.43 ",
+        "detail": {
+            "last_settlement": "115146.70 ",
+            "current_deposit": "49596.00 ",
+            "current_withdraw": "0.00 ",
+            "interest": "1860.73 "
+        }
+    },
+    {
+        "year_range": "2018-2019",
+        "amount": "115146.70 ",
+        "detail": {
+            "last_settlement": "71524.67 ",
+            "current_deposit": "42336.00 ",
+            "current_withdraw": "0.00 ",
+            "interest": "1286.03 "
+        }
+    },
+    {
+        "year_range": "2017-2018",
+        "amount": "71524.67 ",
+        "detail": {
+            "last_settlement": "34437.84 ",
+            "current_deposit": "36288.00 ",
+            "current_withdraw": "0.00 ",
+            "interest": "798.83 "
+        }
+    },
+    {
+        "year_range": "2016-2017",
+        "amount": "34437.84 ",
+        "detail": {
+            "last_settlement": "20923.22 ",
+            "current_deposit": "15756.00 ",
+            "current_withdraw": "0.00 ",
+            "interest": "384.62 "
+        }
+    }
+]
+    }
+}
