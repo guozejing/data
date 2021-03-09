@@ -1,0 +1,2422 @@
+{
+    "username": "18556477833",
+    "pwd": "123456",
+    "real_name": "张立国",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1971-01-25",
+    "card": "520048392100",
+    "id_card": "230***********2412",
+    "social_insurance": {
+        "companies": [
+            "北京市公园管理中心"
+        ],
+        "area": "北京市西城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "13 年 3 个月",
+        "medical_years": "13 年 4 个月",
+        "declare": {
+            "salary": "19200",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "19200"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "19200"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "19200"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "19200"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "19200"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18720",
+                        "company_deposit": "3744.00 ",
+                        "personal_deposit": "1484.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18720",
+                        "company_deposit": "149.77 ",
+                        "personal_deposit": "37.45 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18720",
+                        "company_deposit": "74.88 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18720",
+                        "company_deposit": "1872.00 ",
+                        "personal_deposit": "380.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19656",
+                        "company_deposit": "3931.20 ",
+                        "personal_deposit": "1558.32 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19656",
+                        "company_deposit": "157.26 ",
+                        "personal_deposit": "39.32 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19656",
+                        "company_deposit": "78.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19656",
+                        "company_deposit": "1965.60 ",
+                        "personal_deposit": "399.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20592",
+                        "company_deposit": "4118.40 ",
+                        "personal_deposit": "1632.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20592",
+                        "company_deposit": "164.75 ",
+                        "personal_deposit": "41.19 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20592",
+                        "company_deposit": "82.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20592",
+                        "company_deposit": "2059.20 ",
+                        "personal_deposit": "418.67 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21528",
+                        "company_deposit": "4305.60 ",
+                        "personal_deposit": "1706.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21528",
+                        "company_deposit": "172.24 ",
+                        "personal_deposit": "43.07 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21528",
+                        "company_deposit": "86.11 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21528",
+                        "company_deposit": "2152.80 ",
+                        "personal_deposit": "437.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22464",
+                        "company_deposit": "4492.80 ",
+                        "personal_deposit": "1780.94 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22464",
+                        "company_deposit": "179.73 ",
+                        "personal_deposit": "44.94 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22464",
+                        "company_deposit": "89.85 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22464",
+                        "company_deposit": "2246.40 ",
+                        "personal_deposit": "456.74 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京市公园管理中心",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23400",
+                        "company_deposit": "4680.00 ",
+                        "personal_deposit": "1855.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23400",
+                        "company_deposit": "187.21 ",
+                        "personal_deposit": "46.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23400",
+                        "company_deposit": "93.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23400",
+                        "company_deposit": "2340.00 ",
+                        "personal_deposit": "475.77"
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ047362714",
+            "company": "北京市公园管理中心",
+            "register_number": "00009020",
+            "department": "西城管理部",
+            "balance": "193,208.60",
+            "state": "缴存",
+            "current_deposit": "36,864.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "156,344.60",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,304.00",
+            "month_personal_deposit": "2,304.00",
+            "base": "19,200.00",
+            "month_deposit": "4,608.00"
+        },
+        "details": [
+            {
+                "balance": "193208.60",
+                "deposit": "4608.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "188600.60",
+                "deposit": "4608.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "183992.60",
+                "deposit": "4608.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "179384.60",
+                "deposit": "4608.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "174776.60",
+                "deposit": "4608.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "170168.60",
+                "deposit": "4608.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "165560.60",
+                "deposit": "4608.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "160952.60",
+                "deposit": "4608.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "156344.60",
+                "deposit": "1746.16",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "154598.44",
+                "deposit": "3963.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "150635.44",
+                "deposit": "3963.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "146672.44",
+                "deposit": "3963.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "142709.44",
+                "deposit": "3963.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "138746.44",
+                "deposit": "3963.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "134783.44",
+                "deposit": "3963.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "130820.44",
+                "deposit": "3963.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "126857.44",
+                "deposit": "3963.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "122894.44",
+                "deposit": "3963.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "118931.44",
+                "deposit": "3963.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "114968.44",
+                "deposit": "3963.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "111005.44",
+                "deposit": "3963.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "107042.44",
+                "deposit": "1195.52",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "105846.92",
+                "deposit": "3239.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "102607.92",
+                "deposit": "3239.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "99368.92",
+                "deposit": "3239.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "96129.92",
+                "deposit": "3239.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "92890.92",
+                "deposit": "3239.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "89651.92",
+                "deposit": "3239.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "86412.92",
+                "deposit": "3239.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "83173.92",
+                "deposit": "3239.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "79934.92",
+                "deposit": "3239.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "76695.92",
+                "deposit": "3239.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "73456.92",
+                "deposit": "3239.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "70217.92",
+                "deposit": "3239.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "66978.92",
+                "deposit": "748.06",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "66230.86",
+                "deposit": "1940.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "64290.86",
+                "deposit": "1940.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "62350.86",
+                "deposit": "1940.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "60410.86",
+                "deposit": "1940.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "58470.86",
+                "deposit": "1940.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-14",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "56530.86",
+                "deposit": "1940.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "54590.86",
+                "deposit": "1940.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "52650.86",
+                "deposit": "1940.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "50710.86",
+                "deposit": "1940.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "48770.86",
+                "deposit": "1940.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "46830.86",
+                "deposit": "1940.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "44890.86",
+                "deposit": "1940.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-14",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "42950.86",
+                "deposit": "479.70",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "42471.16",
+                "deposit": "1898.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "40573.16",
+                "deposit": "1898.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "38675.16",
+                "deposit": "1898.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-14",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "36777.16",
+                "deposit": "1898.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "34879.16",
+                "deposit": "1898.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-13",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            },
+            {
+                "balance": "32981.16",
+                "deposit": "1898.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市公园管理中心"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "193208.60 ",
+                "detail": {
+                    "last_settlement": "156344.60 ",
+                    "current_deposit": "36864.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "156344.60 ",
+                "detail": {
+                    "last_settlement": "107042.44 ",
+                    "current_deposit": "47556.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1746.16 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "107042.44 ",
+                "detail": {
+                    "last_settlement": "66978.92 ",
+                    "current_deposit": "38868.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1195.52 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "66978.92 ",
+                "detail": {
+                    "last_settlement": "42950.86 ",
+                    "current_deposit": "23280.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "748.06 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "42950.86 ",
+                "detail": {
+                    "last_settlement": "32981.16 ",
+                    "current_deposit": "11388.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "479.70 "
+                }
+            }
+        ]
+    }
+}
