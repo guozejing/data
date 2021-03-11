@@ -1,0 +1,2524 @@
+{
+    "username": "15245923541",
+    "pwd": "123456",
+    "real_name": "王淑梅",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1979-10-09",
+    "card": "520063847130",
+    "id_card": "2****************X",
+    "social_insurance": {
+        "companies": [
+            "国家电网有限公司交流建设分公司"
+        ],
+        "area": "北京市西城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "14 年 9 个月",
+        "medical_years": "14 年 10 个月",
+        "declare": {
+            "salary": "27866",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "27866"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "27866"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "27866"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "27866"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "27866"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22292.8",
+                        "company_deposit": "4458.56 ",
+                        "personal_deposit": "1767.36 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22292.8",
+                        "company_deposit": "178.36 ",
+                        "personal_deposit": "44.60 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22292.8",
+                        "company_deposit": "89.17 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22292.8",
+                        "company_deposit": "2229.28 ",
+                        "personal_deposit": "453.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22292.8",
+                        "company_deposit": "4458.56 ",
+                        "personal_deposit": "1767.36 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22292.8",
+                        "company_deposit": "178.36 ",
+                        "personal_deposit": "44.60 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22292.8",
+                        "company_deposit": "89.17 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22292.8",
+                        "company_deposit": "2229.28 ",
+                        "personal_deposit": "453.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22292.8",
+                        "company_deposit": "4458.56 ",
+                        "personal_deposit": "1767.36 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22292.8",
+                        "company_deposit": "178.36 ",
+                        "personal_deposit": "44.60 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22292.8",
+                        "company_deposit": "89.17 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22292.8",
+                        "company_deposit": "2229.28 ",
+                        "personal_deposit": "453.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22292.8",
+                        "company_deposit": "4458.56 ",
+                        "personal_deposit": "1767.36 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22292.8",
+                        "company_deposit": "178.36 ",
+                        "personal_deposit": "44.60 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22292.8",
+                        "company_deposit": "89.17 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22292.8",
+                        "company_deposit": "2229.28 ",
+                        "personal_deposit": "453.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22292.8",
+                        "company_deposit": "4458.56 ",
+                        "personal_deposit": "1767.36 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22292.8",
+                        "company_deposit": "178.36 ",
+                        "personal_deposit": "44.60 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22292.8",
+                        "company_deposit": "89.17 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22292.8",
+                        "company_deposit": "2229.28 ",
+                        "personal_deposit": "453.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22292.8",
+                        "company_deposit": "4458.56 ",
+                        "personal_deposit": "1767.36 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22292.8",
+                        "company_deposit": "178.36 ",
+                        "personal_deposit": "44.60 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22292.8",
+                        "company_deposit": "89.17 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22292.8",
+                        "company_deposit": "2229.28 ",
+                        "personal_deposit": "453.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23407.44",
+                        "company_deposit": "4681.49 ",
+                        "personal_deposit": "1855.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23407.44",
+                        "company_deposit": "187.27 ",
+                        "personal_deposit": "46.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23407.44",
+                        "company_deposit": "93.62 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23407.44",
+                        "company_deposit": "2340.74 ",
+                        "personal_deposit": "475.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24522.08",
+                        "company_deposit": "4904.42 ",
+                        "personal_deposit": "1944.10 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24522.08",
+                        "company_deposit": "196.19 ",
+                        "personal_deposit": "49.06 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24522.08",
+                        "company_deposit": "98.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24522.08",
+                        "company_deposit": "2452.21 ",
+                        "personal_deposit": "498.58 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25636.72",
+                        "company_deposit": "5127.34 ",
+                        "personal_deposit": "2032.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25636.72",
+                        "company_deposit": "205.11 ",
+                        "personal_deposit": "51.28 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25636.72",
+                        "company_deposit": "102.54 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25636.72",
+                        "company_deposit": "2563.67 ",
+                        "personal_deposit": "521.24 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "26751.36",
+                        "company_deposit": "5350.27 ",
+                        "personal_deposit": "2120.84 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "26751.36",
+                        "company_deposit": "214.03 ",
+                        "personal_deposit": "53.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "26751.36",
+                        "company_deposit": "107.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "26751.36",
+                        "company_deposit": "2675.14 ",
+                        "personal_deposit": "543.91 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "国家电网有限公司交流建设分公司",
+                "area": "北京市西城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "27866",
+                        "company_deposit": "5573.20 ",
+                        "personal_deposit": "2209.20 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "27866",
+                        "company_deposit": "222.94 ",
+                        "personal_deposit": "55.74 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "27866",
+                        "company_deposit": "111.46 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "27866",
+                        "company_deposit": "2786.60 ",
+                        "personal_deposit": "566.57 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ062737211",
+            "company": "国家电网有限公司交流建设分公司",
+            "register_number": "00013928",
+            "department": "西城管理部",
+            "balance": "274,114.97",
+            "state": "缴存",
+            "current_deposit": "60,192.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "213,922.97",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "3,344.00",
+            "month_personal_deposit": "3,344.00",
+            "base": "27,866.00",
+            "month_deposit": "6,688.00"
+        },
+        "details": [
+            {
+                "balance": "274114.97",
+                "deposit": "6688.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "267426.97",
+                "deposit": "6688.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "260738.97",
+                "deposit": "6688.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "254050.97",
+                "deposit": "6688.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "247362.97",
+                "deposit": "6688.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "240674.97",
+                "deposit": "6688.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "233986.97",
+                "deposit": "6688.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "227298.97",
+                "deposit": "6688.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "220610.97",
+                "deposit": "6688.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "213922.97",
+                "deposit": "2389.23",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "211533.74",
+                "deposit": "5484.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "206049.74",
+                "deposit": "5484.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "200565.74",
+                "deposit": "5484.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "195081.74",
+                "deposit": "5484.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "189597.74",
+                "deposit": "5484.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "184113.74",
+                "deposit": "5484.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "178629.74",
+                "deposit": "5484.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "173145.74",
+                "deposit": "5484.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "167661.74",
+                "deposit": "5484.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "162177.74",
+                "deposit": "5484.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "156693.74",
+                "deposit": "5484.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "151209.74",
+                "deposit": "5484.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "145725.74",
+                "deposit": "1627.56",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "144098.18",
+                "deposit": "4682.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "139416.18",
+                "deposit": "4682.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "134734.18",
+                "deposit": "4682.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "130052.18",
+                "deposit": "4682.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "125370.18",
+                "deposit": "4682.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "120688.18",
+                "deposit": "4682.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "116006.18",
+                "deposit": "4682.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "111324.18",
+                "deposit": "4682.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "106642.18",
+                "deposit": "4682.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "101960.18",
+                "deposit": "4682.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "97278.18",
+                "deposit": "4682.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "92596.18",
+                "deposit": "4682.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "87914.18",
+                "deposit": "981.88",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "86932.30",
+                "deposit": "4013.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "82919.30",
+                "deposit": "4013.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "78906.30",
+                "deposit": "4013.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "74893.30",
+                "deposit": "4013.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "70880.30",
+                "deposit": "4013.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "66867.30",
+                "deposit": "4013.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "62854.30",
+                "deposit": "4013.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "58841.30",
+                "deposit": "4013.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "54828.30",
+                "deposit": "4013.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "50815.30",
+                "deposit": "4013.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "46802.30",
+                "deposit": "4013.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "42789.30",
+                "deposit": "4013.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "38776.30",
+                "deposit": "433.08",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "38343.22",
+                "deposit": "3484.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "34859.22",
+                "deposit": "3484.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "31375.22",
+                "deposit": "3484.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "27891.22",
+                "deposit": "3484.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "24407.22",
+                "deposit": "3484.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "3484.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "国家电网有限公司交流建设分公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "274114.97 ",
+                "detail": {
+                    "last_settlement": "213922.97 ",
+                    "current_deposit": "60192.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "213922.97 ",
+                "detail": {
+                    "last_settlement": "145725.74 ",
+                    "current_deposit": "65808.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2389.23 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "145725.74 ",
+                "detail": {
+                    "last_settlement": "87914.18 ",
+                    "current_deposit": "56184.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1627.56 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "87914.18 ",
+                "detail": {
+                    "last_settlement": "38776.30 ",
+                    "current_deposit": "48156.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "981.88 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "38776.30 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "20904.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "433.08 "
+                }
+            }
+        ]
+    }
+}
