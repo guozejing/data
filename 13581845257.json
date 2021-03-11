@@ -1,0 +1,2524 @@
+{
+    "username": "13581845257",
+    "pwd": "123456",
+    "real_name": "韩英美",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1986-10-31",
+    "card": "520073820091",
+    "id_card": "2****************0",
+    "social_insurance": {
+        "companies": [
+            "中国铁道科学研究院集团有限公司"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "10 年 7 个月",
+        "medical_years": "10 年 8 个月",
+        "declare": {
+            "salary": "25933",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "25933"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "25933"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "25933"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "25933"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "25933"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20746.4",
+                        "company_deposit": "4149.28 ",
+                        "personal_deposit": "1644.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20746.4",
+                        "company_deposit": "165.98 ",
+                        "personal_deposit": "41.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20746.4",
+                        "company_deposit": "82.98 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20746.4",
+                        "company_deposit": "2074.64 ",
+                        "personal_deposit": "421.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20746.4",
+                        "company_deposit": "4149.28 ",
+                        "personal_deposit": "1644.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20746.4",
+                        "company_deposit": "165.98 ",
+                        "personal_deposit": "41.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20746.4",
+                        "company_deposit": "82.98 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20746.4",
+                        "company_deposit": "2074.64 ",
+                        "personal_deposit": "421.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20746.4",
+                        "company_deposit": "4149.28 ",
+                        "personal_deposit": "1644.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20746.4",
+                        "company_deposit": "165.98 ",
+                        "personal_deposit": "41.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20746.4",
+                        "company_deposit": "82.98 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20746.4",
+                        "company_deposit": "2074.64 ",
+                        "personal_deposit": "421.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20746.4",
+                        "company_deposit": "4149.28 ",
+                        "personal_deposit": "1644.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20746.4",
+                        "company_deposit": "165.98 ",
+                        "personal_deposit": "41.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20746.4",
+                        "company_deposit": "82.98 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20746.4",
+                        "company_deposit": "2074.64 ",
+                        "personal_deposit": "421.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20746.4",
+                        "company_deposit": "4149.28 ",
+                        "personal_deposit": "1644.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20746.4",
+                        "company_deposit": "165.98 ",
+                        "personal_deposit": "41.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20746.4",
+                        "company_deposit": "82.98 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20746.4",
+                        "company_deposit": "2074.64 ",
+                        "personal_deposit": "421.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20746.4",
+                        "company_deposit": "4149.28 ",
+                        "personal_deposit": "1644.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20746.4",
+                        "company_deposit": "165.98 ",
+                        "personal_deposit": "41.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20746.4",
+                        "company_deposit": "82.98 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20746.4",
+                        "company_deposit": "2074.64 ",
+                        "personal_deposit": "421.81 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21783.72",
+                        "company_deposit": "4356.74 ",
+                        "personal_deposit": "1727.00 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21783.72",
+                        "company_deposit": "174.28 ",
+                        "personal_deposit": "43.58 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21783.72",
+                        "company_deposit": "87.13 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21783.72",
+                        "company_deposit": "2178.37 ",
+                        "personal_deposit": "442.90 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22821.04",
+                        "company_deposit": "4564.21 ",
+                        "personal_deposit": "1809.24 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22821.04",
+                        "company_deposit": "182.58 ",
+                        "personal_deposit": "45.65 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22821.04",
+                        "company_deposit": "91.28 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22821.04",
+                        "company_deposit": "2282.10 ",
+                        "personal_deposit": "463.99 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23858.36",
+                        "company_deposit": "4771.67 ",
+                        "personal_deposit": "1891.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23858.36",
+                        "company_deposit": "190.88 ",
+                        "personal_deposit": "47.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23858.36",
+                        "company_deposit": "95.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23858.36",
+                        "company_deposit": "2385.84 ",
+                        "personal_deposit": "485.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24895.68",
+                        "company_deposit": "4979.14 ",
+                        "personal_deposit": "1973.72 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24895.68",
+                        "company_deposit": "199.18 ",
+                        "personal_deposit": "49.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24895.68",
+                        "company_deposit": "99.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24895.68",
+                        "company_deposit": "2489.57 ",
+                        "personal_deposit": "506.18 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "中国铁道科学研究院集团有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "25933",
+                        "company_deposit": "5186.60 ",
+                        "personal_deposit": "2055.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "25933",
+                        "company_deposit": "207.48 ",
+                        "personal_deposit": "51.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "25933",
+                        "company_deposit": "103.73 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "25933",
+                        "company_deposit": "2593.30 ",
+                        "personal_deposit": "527.27 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ073827124",
+            "company": "中国铁道科学研究院集团有限公司",
+            "register_number": "00010932",
+            "department": "海淀管理部",
+            "balance": "253,704.43",
+            "state": "缴存",
+            "current_deposit": "56,016.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "197,688.43",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "3,112.00",
+            "month_personal_deposit": "3,112.00",
+            "base": "25,933.00",
+            "month_deposit": "6,224.00"
+        },
+        "details": [
+            {
+                "balance": "253704.43",
+                "deposit": "6224.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "247480.43",
+                "deposit": "6224.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "241256.43",
+                "deposit": "6224.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "235032.43",
+                "deposit": "6224.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "228808.43",
+                "deposit": "6224.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "222584.43",
+                "deposit": "6224.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "216360.43",
+                "deposit": "6224.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "210136.43",
+                "deposit": "6224.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "203912.43",
+                "deposit": "6224.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "197688.43",
+                "deposit": "2207.91",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "195480.52",
+                "deposit": "5477.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "190003.52",
+                "deposit": "5477.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "184526.52",
+                "deposit": "5477.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "179049.52",
+                "deposit": "5477.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "173572.52",
+                "deposit": "5477.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "168095.52",
+                "deposit": "5477.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "162618.52",
+                "deposit": "5477.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "157141.52",
+                "deposit": "5477.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "151664.52",
+                "deposit": "5477.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "146187.52",
+                "deposit": "5477.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "140710.52",
+                "deposit": "5477.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "135233.52",
+                "deposit": "5477.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "129756.52",
+                "deposit": "1449.20",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "128307.32",
+                "deposit": "4357.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "123950.32",
+                "deposit": "4357.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "119593.32",
+                "deposit": "4357.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "115236.32",
+                "deposit": "4357.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "110879.32",
+                "deposit": "4357.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "106522.32",
+                "deposit": "4357.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "102165.32",
+                "deposit": "4357.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "97808.32",
+                "deposit": "4357.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "93451.32",
+                "deposit": "4357.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "89094.32",
+                "deposit": "4357.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "84737.32",
+                "deposit": "4357.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "80380.32",
+                "deposit": "4357.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "76023.32",
+                "deposit": "849.08",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "75174.24",
+                "deposit": "3815.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "71359.24",
+                "deposit": "3815.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "67544.24",
+                "deposit": "3815.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "63729.24",
+                "deposit": "3815.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "59914.24",
+                "deposit": "3815.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "56099.24",
+                "deposit": "3815.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "52284.24",
+                "deposit": "3815.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "48469.24",
+                "deposit": "3815.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "44654.24",
+                "deposit": "3815.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "40839.24",
+                "deposit": "3815.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "37024.24",
+                "deposit": "3815.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "33209.24",
+                "deposit": "3815.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "29394.24",
+                "deposit": "328.29",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "29065.95",
+                "deposit": "2763.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "26302.95",
+                "deposit": "2763.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "23539.95",
+                "deposit": "2763.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "20776.95",
+                "deposit": "2763.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "18013.95",
+                "deposit": "2763.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            },
+            {
+                "balance": "15250.95",
+                "deposit": "2763.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "中国铁道科学研究院集团有限公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "253704.43 ",
+                "detail": {
+                    "last_settlement": "197688.43 ",
+                    "current_deposit": "56016.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "197688.43 ",
+                "detail": {
+                    "last_settlement": "129756.52 ",
+                    "current_deposit": "65724.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2207.91 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "129756.52 ",
+                "detail": {
+                    "last_settlement": "76023.32 ",
+                    "current_deposit": "52284.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1449.20 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "76023.32 ",
+                "detail": {
+                    "last_settlement": "29394.24 ",
+                    "current_deposit": "45780.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "849.08 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "29394.24 ",
+                "detail": {
+                    "last_settlement": "15250.95 ",
+                    "current_deposit": "16578.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "328.29 "
+                }
+            }
+        ]
+    }
+}
