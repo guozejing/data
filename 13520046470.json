@@ -1959,9 +1959,9 @@
             "company": "北京市和平里医院",
             "register_number": "00020738",
             "department": "东城管理部",
-            "balance": "173,485.46",
+            "balance": "169,465.46",
             "state": "缴存",
-            "current_deposit": "36,180.00",
+            "current_deposit": "32,160.00",
             "current_withdraw": "0.00",
             "last_settlement": "137,305.46",
             "company_rate": "12%",
@@ -1972,15 +1972,6 @@
             "month_deposit": "4,020.00"
         },
         "details": [
-            {
-                "balance": "173485.46",
-                "deposit": "4020.00",
-                "opt_month": "2021-03",
-                "opt_money": "-0",
-                "opt_day": "2021-03-22",
-                "opt_type": "汇缴分配",
-                "opt_company": "北京市和平里医院"
-            },
             {
                 "balance": "169465.46",
                 "deposit": "4020.00",
@@ -2471,10 +2462,10 @@
         "bills": [
             {
                 "year_range": "2020-2021",
-                "amount": "173485.46 ",
+                "amount": "169465.46 ",
                 "detail": {
                     "last_settlement": "137305.46 ",
-                    "current_deposit": "36180.00 ",
+                    "current_deposit": "32160.00 ",
                     "current_withdraw": "0.00 ",
                     "interest": "0.00 "
                 }
