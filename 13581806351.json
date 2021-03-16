@@ -1,0 +1,1975 @@
+{
+    "username": "13581806351",
+    "pwd": "123456",
+    "real_name": "于淑香",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1973-06-30",
+    "card": "520076281093",
+    "id_card": "230***********5425",
+    "social_insurance": {
+        "companies": [
+            "中国铁路北京局集团有限公司北京通信段"
+        ],
+        "area": "北京市东城区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "15 年 2 个月",
+        "medical_years": "15 年 3 个月",
+        "declare": {
+            "salary": "14608",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "14608"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "14608"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "14608"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "14608"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "14608"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11686.4",
+                        "company_deposit": "2337.28 ",
+                        "personal_deposit": "926.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11686.4",
+                        "company_deposit": "93.50 ",
+                        "personal_deposit": "23.38 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11686.4",
+                        "company_deposit": "46.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11686.4",
+                        "company_deposit": "1168.64 ",
+                        "personal_deposit": "237.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11686.4",
+                        "company_deposit": "2337.28 ",
+                        "personal_deposit": "926.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11686.4",
+                        "company_deposit": "93.50 ",
+                        "personal_deposit": "23.38 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11686.4",
+                        "company_deposit": "46.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11686.4",
+                        "company_deposit": "1168.64 ",
+                        "personal_deposit": "237.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11686.4",
+                        "company_deposit": "2337.28 ",
+                        "personal_deposit": "926.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11686.4",
+                        "company_deposit": "93.50 ",
+                        "personal_deposit": "23.38 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11686.4",
+                        "company_deposit": "46.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11686.4",
+                        "company_deposit": "1168.64 ",
+                        "personal_deposit": "237.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11686.4",
+                        "company_deposit": "2337.28 ",
+                        "personal_deposit": "926.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11686.4",
+                        "company_deposit": "93.50 ",
+                        "personal_deposit": "23.38 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11686.4",
+                        "company_deposit": "46.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11686.4",
+                        "company_deposit": "1168.64 ",
+                        "personal_deposit": "237.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11686.4",
+                        "company_deposit": "2337.28 ",
+                        "personal_deposit": "926.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11686.4",
+                        "company_deposit": "93.50 ",
+                        "personal_deposit": "23.38 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11686.4",
+                        "company_deposit": "46.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11686.4",
+                        "company_deposit": "1168.64 ",
+                        "personal_deposit": "237.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11686.4",
+                        "company_deposit": "2337.28 ",
+                        "personal_deposit": "926.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11686.4",
+                        "company_deposit": "93.50 ",
+                        "personal_deposit": "23.38 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11686.4",
+                        "company_deposit": "46.74 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11686.4",
+                        "company_deposit": "1168.64 ",
+                        "personal_deposit": "237.61 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12270.72",
+                        "company_deposit": "2454.14 ",
+                        "personal_deposit": "972.82 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12270.72",
+                        "company_deposit": "98.17 ",
+                        "personal_deposit": "24.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12270.72",
+                        "company_deposit": "49.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12270.72",
+                        "company_deposit": "1227.07 ",
+                        "personal_deposit": "249.49 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12855.04",
+                        "company_deposit": "2571.01 ",
+                        "personal_deposit": "1019.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12855.04",
+                        "company_deposit": "102.85 ",
+                        "personal_deposit": "25.72 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12855.04",
+                        "company_deposit": "51.42 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12855.04",
+                        "company_deposit": "1285.50 ",
+                        "personal_deposit": "261.37 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13439.36",
+                        "company_deposit": "2687.87 ",
+                        "personal_deposit": "1065.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13439.36",
+                        "company_deposit": "107.52 ",
+                        "personal_deposit": "26.88 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13439.36",
+                        "company_deposit": "53.75 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13439.36",
+                        "company_deposit": "1343.94 ",
+                        "personal_deposit": "273.25 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14023.68",
+                        "company_deposit": "2804.74 ",
+                        "personal_deposit": "1111.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14023.68",
+                        "company_deposit": "112.20 ",
+                        "personal_deposit": "28.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14023.68",
+                        "company_deposit": "56.09 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14023.68",
+                        "company_deposit": "1402.37 ",
+                        "personal_deposit": "285.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "中国铁路北京局集团有限公司北京通信段",
+                "area": "北京市东城区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14608",
+                        "company_deposit": "2921.60 ",
+                        "personal_deposit": "1158.12 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14608",
+                        "company_deposit": "116.87 ",
+                        "personal_deposit": "29.22 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14608",
+                        "company_deposit": "58.43 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14608",
+                        "company_deposit": "1460.80 ",
+                        "personal_deposit": "297.01 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ076726114",
+            "company": "中国铁路北京局集团有限公司北京通信段",
+            "register_number": "00020738",
+            "department": "东城管理部",
+            "balance": "148,302.50",
+            "state": "缴存",
+            "current_deposit": "31,554.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "116,748.50",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "1,753.00",
+            "month_personal_deposit": "1,753.00",
+            "base": "14,608.00",
+            "month_deposit": "3,506.00"
+        }
+    }
+}
