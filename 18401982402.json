@@ -1,0 +1,2524 @@
+{
+    "username": "18401982402",
+    "pwd": "123456",
+    "real_name": "冯庆春",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1982-07-23",
+    "card": "520064921344",
+    "id_card": "130***********2613",
+    "social_insurance": {
+        "companies": [
+            "航天中心医院"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "12 年 2 个月",
+        "medical_years": "12 年 3 个月",
+        "declare": {
+            "salary": "24891",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "24891"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "24891"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "24891"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "24891"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "24891"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19912.8",
+                        "company_deposit": "3982.56 ",
+                        "personal_deposit": "1578.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19912.8",
+                        "company_deposit": "159.31 ",
+                        "personal_deposit": "39.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19912.8",
+                        "company_deposit": "79.65 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19912.8",
+                        "company_deposit": "1991.28 ",
+                        "personal_deposit": "404.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19912.8",
+                        "company_deposit": "3982.56 ",
+                        "personal_deposit": "1578.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19912.8",
+                        "company_deposit": "159.31 ",
+                        "personal_deposit": "39.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19912.8",
+                        "company_deposit": "79.65 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19912.8",
+                        "company_deposit": "1991.28 ",
+                        "personal_deposit": "404.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19912.8",
+                        "company_deposit": "3982.56 ",
+                        "personal_deposit": "1578.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19912.8",
+                        "company_deposit": "159.31 ",
+                        "personal_deposit": "39.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19912.8",
+                        "company_deposit": "79.65 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19912.8",
+                        "company_deposit": "1991.28 ",
+                        "personal_deposit": "404.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19912.8",
+                        "company_deposit": "3982.56 ",
+                        "personal_deposit": "1578.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19912.8",
+                        "company_deposit": "159.31 ",
+                        "personal_deposit": "39.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19912.8",
+                        "company_deposit": "79.65 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19912.8",
+                        "company_deposit": "1991.28 ",
+                        "personal_deposit": "404.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19912.8",
+                        "company_deposit": "3982.56 ",
+                        "personal_deposit": "1578.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19912.8",
+                        "company_deposit": "159.31 ",
+                        "personal_deposit": "39.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19912.8",
+                        "company_deposit": "79.65 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19912.8",
+                        "company_deposit": "1991.28 ",
+                        "personal_deposit": "404.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19912.8",
+                        "company_deposit": "3982.56 ",
+                        "personal_deposit": "1578.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19912.8",
+                        "company_deposit": "159.31 ",
+                        "personal_deposit": "39.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19912.8",
+                        "company_deposit": "79.65 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19912.8",
+                        "company_deposit": "1991.28 ",
+                        "personal_deposit": "404.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20908.44",
+                        "company_deposit": "4181.69 ",
+                        "personal_deposit": "1657.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20908.44",
+                        "company_deposit": "167.28 ",
+                        "personal_deposit": "41.83 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20908.44",
+                        "company_deposit": "83.63 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20908.44",
+                        "company_deposit": "2090.84 ",
+                        "personal_deposit": "425.11 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21904.08",
+                        "company_deposit": "4380.82 ",
+                        "personal_deposit": "1736.55 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21904.08",
+                        "company_deposit": "175.25 ",
+                        "personal_deposit": "43.82 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21904.08",
+                        "company_deposit": "87.61 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21904.08",
+                        "company_deposit": "2190.41 ",
+                        "personal_deposit": "445.35 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22899.72",
+                        "company_deposit": "4579.94 ",
+                        "personal_deposit": "1815.48 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22899.72",
+                        "company_deposit": "183.21 ",
+                        "personal_deposit": "45.81 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22899.72",
+                        "company_deposit": "91.59 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22899.72",
+                        "company_deposit": "2289.97 ",
+                        "personal_deposit": "465.59 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23895.36",
+                        "company_deposit": "4779.07 ",
+                        "personal_deposit": "1894.41 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23895.36",
+                        "company_deposit": "191.18 ",
+                        "personal_deposit": "47.80 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23895.36",
+                        "company_deposit": "95.58 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23895.36",
+                        "company_deposit": "2389.54 ",
+                        "personal_deposit": "485.84 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "航天中心医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24891",
+                        "company_deposit": "4978.20 ",
+                        "personal_deposit": "1973.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24891",
+                        "company_deposit": "199.14 ",
+                        "personal_deposit": "49.79 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24891",
+                        "company_deposit": "99.56 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24891",
+                        "company_deposit": "2489.10 ",
+                        "personal_deposit": "506.08 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ067388341",
+            "company": "航天中心医院",
+            "register_number": "00020871",
+            "department": "海淀管理部",
+            "balance": "244,157.48",
+            "state": "缴存",
+            "current_deposit": "53,766.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "190,391.48",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,987.00",
+            "month_personal_deposit": "2,987.00",
+            "base": "24,891.00",
+            "month_deposit": "5,974.00"
+        },
+        "details": [
+            {
+                "balance": "244157.48",
+                "deposit": "5974.00",
+                "opt_month": "2021-03/05",
+                "opt_money": "-0",
+                "opt_day": "2021-03/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "238183.48",
+                "deposit": "5974.00",
+                "opt_month": "2021-02/05",
+                "opt_money": "-0",
+                "opt_day": "2021-02/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "232209.48",
+                "deposit": "5974.00",
+                "opt_month": "2021-01/05",
+                "opt_money": "-0",
+                "opt_day": "2021-01/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "226235.48",
+                "deposit": "5974.00",
+                "opt_month": "2020-12/07",
+                "opt_money": "-0",
+                "opt_day": "2020-12/07",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "220261.48",
+                "deposit": "5974.00",
+                "opt_month": "2020-11/05",
+                "opt_money": "-0",
+                "opt_day": "2020-11/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "214287.48",
+                "deposit": "5974.00",
+                "opt_month": "2020-10/09",
+                "opt_money": "-0",
+                "opt_day": "2020-10/09",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "208313.48",
+                "deposit": "5974.00",
+                "opt_month": "2020-09/07",
+                "opt_money": "-0",
+                "opt_day": "2020-09/07",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "202339.48",
+                "deposit": "5974.00",
+                "opt_month": "2020-08/05",
+                "opt_money": "-0",
+                "opt_day": "2020-08/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "196365.48",
+                "deposit": "5974.00",
+                "opt_month": "2020-07/06",
+                "opt_money": "-0",
+                "opt_day": "2020-07/06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "190391.48",
+                "deposit": "2126.41",
+                "opt_month": "2020-06/30",
+                "opt_money": "-0",
+                "opt_day": "2020-06/30",
+                "opt_type": "年度结息",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "188265.07",
+                "deposit": "5257.00",
+                "opt_month": "2020-06/05",
+                "opt_money": "-0",
+                "opt_day": "2020-06/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "183008.07",
+                "deposit": "5257.00",
+                "opt_month": "2020-05/06",
+                "opt_money": "-0",
+                "opt_day": "2020-05/06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "177751.07",
+                "deposit": "5257.00",
+                "opt_month": "2020-04/07",
+                "opt_money": "-0",
+                "opt_day": "2020-04/07",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "172494.07",
+                "deposit": "5257.00",
+                "opt_month": "2020-03/05",
+                "opt_money": "-0",
+                "opt_day": "2020-03/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "167237.07",
+                "deposit": "5257.00",
+                "opt_month": "2020-02/05",
+                "opt_money": "-0",
+                "opt_day": "2020-02/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "161980.07",
+                "deposit": "5257.00",
+                "opt_month": "2020-01/06",
+                "opt_money": "-0",
+                "opt_day": "2020-01/06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "156723.07",
+                "deposit": "5257.00",
+                "opt_month": "2019-12/05",
+                "opt_money": "-0",
+                "opt_day": "2019-12/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "151466.07",
+                "deposit": "5257.00",
+                "opt_month": "2019-11/06",
+                "opt_money": "-0",
+                "opt_day": "2019-11/06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "146209.07",
+                "deposit": "5257.00",
+                "opt_month": "2019-10/09",
+                "opt_money": "-0",
+                "opt_day": "2019-10/09",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "140952.07",
+                "deposit": "5257.00",
+                "opt_month": "2019-09/05",
+                "opt_money": "-0",
+                "opt_day": "2019-09/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "135695.07",
+                "deposit": "5257.00",
+                "opt_month": "2019-08/06",
+                "opt_money": "-0",
+                "opt_day": "2019-08/06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "130438.07",
+                "deposit": "5257.00",
+                "opt_month": "2019-07/05",
+                "opt_money": "-0",
+                "opt_day": "2019-07/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "125181.07",
+                "deposit": "1398.10",
+                "opt_month": "2019-06/30",
+                "opt_money": "-0",
+                "opt_day": "2019-06/30",
+                "opt_type": "年度结息",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "123782.97",
+                "deposit": "4182.00",
+                "opt_month": "2019-06/05",
+                "opt_money": "-0",
+                "opt_day": "2019-06/05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "119600.97",
+                "deposit": "4182.00",
+                "opt_month": "2019-05/06",
+                "opt_money": "-0",
+                "opt_day": "2019-05/06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "115418.97",
+                "deposit": "4182.00",
+                "opt_month": "2019-04/08",
+                "opt_money": "-0",
+                "opt_day": "2019-04/08",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "111236.97",
+                "deposit": "4182.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "107054.97",
+                "deposit": "4182.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "102872.97",
+                "deposit": "4182.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "98690.97",
+                "deposit": "4182.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "94508.97",
+                "deposit": "4182.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "90326.97",
+                "deposit": "4182.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "86144.97",
+                "deposit": "4182.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "81962.97",
+                "deposit": "4182.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "77780.97",
+                "deposit": "4182.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "73598.97",
+                "deposit": "822.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "72776.97",
+                "deposit": "3662.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "69114.97",
+                "deposit": "3662.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "65452.97",
+                "deposit": "3662.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "61790.97",
+                "deposit": "3662.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "58128.97",
+                "deposit": "3662.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "54466.97",
+                "deposit": "3662.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "50804.97",
+                "deposit": "3662.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "47142.97",
+                "deposit": "3662.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "43480.97",
+                "deposit": "3662.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "39818.97",
+                "deposit": "3662.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "36156.97",
+                "deposit": "3662.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "32494.97",
+                "deposit": "3662.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "28832.97",
+                "deposit": "322.02",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "28510.95",
+                "deposit": "2652.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "25858.95",
+                "deposit": "2652.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "23206.95",
+                "deposit": "2652.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "20554.95",
+                "deposit": "2652.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "17902.95",
+                "deposit": "2652.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            },
+            {
+                "balance": "15250.95",
+                "deposit": "2652.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "航天中心医院"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "244157.48 ",
+                "detail": {
+                    "last_settlement": "190391.48 ",
+                    "current_deposit": "53766.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "190391.48 ",
+                "detail": {
+                    "last_settlement": "125181.07 ",
+                    "current_deposit": "63084.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2126.41 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "125181.07 ",
+                "detail": {
+                    "last_settlement": "73598.97 ",
+                    "current_deposit": "50184.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1398.10 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "73598.97 ",
+                "detail": {
+                    "last_settlement": "28832.97 ",
+                    "current_deposit": "43944.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "822.00 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "28832.97 ",
+                "detail": {
+                    "last_settlement": "15250.95 ",
+                    "current_deposit": "15912.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "322.02 "
+                }
+            }
+        ]
+    }
+}
