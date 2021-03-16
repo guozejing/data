@@ -1952,24 +1952,5 @@
                 ]
             }
         ]
-    },
-    "accumulation_fund": {
-        "general": {
-            "account": "GJJ076726114",
-            "company": "中国铁路北京局集团有限公司北京通信段",
-            "register_number": "00020738",
-            "department": "东城管理部",
-            "balance": "148,302.50",
-            "state": "缴存",
-            "current_deposit": "31,554.00",
-            "current_withdraw": "0.00",
-            "last_settlement": "116,748.50",
-            "company_rate": "12%",
-            "personal_rate": "12%",
-            "month_company_deposit": "1,753.00",
-            "month_personal_deposit": "1,753.00",
-            "base": "14,608.00",
-            "month_deposit": "3,506.00"
-        }
     }
 }
