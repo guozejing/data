@@ -1,0 +1,2524 @@
+{
+    "username": "13691045504",
+    "pwd": "123456",
+    "real_name": "巫红",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1969-08-24",
+    "card": "520045172341",
+    "id_card": "5****************5",
+    "social_insurance": {
+        "companies": [
+            "北京市朝阳区人力资源和社会保障局"
+        ],
+        "area": "北京市朝阳区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "16 年 10 个月",
+        "medical_years": "16 年 11 个月",
+        "declare": {
+            "salary": "23458",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "23458"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "23458"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "23458"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "23458"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "23458"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18766.4",
+                        "company_deposit": "3753.28 ",
+                        "personal_deposit": "1487.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18766.4",
+                        "company_deposit": "150.14 ",
+                        "personal_deposit": "37.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18766.4",
+                        "company_deposit": "75.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18766.4",
+                        "company_deposit": "1876.64 ",
+                        "personal_deposit": "381.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18766.4",
+                        "company_deposit": "3753.28 ",
+                        "personal_deposit": "1487.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18766.4",
+                        "company_deposit": "150.14 ",
+                        "personal_deposit": "37.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18766.4",
+                        "company_deposit": "75.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18766.4",
+                        "company_deposit": "1876.64 ",
+                        "personal_deposit": "381.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18766.4",
+                        "company_deposit": "3753.28 ",
+                        "personal_deposit": "1487.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18766.4",
+                        "company_deposit": "150.14 ",
+                        "personal_deposit": "37.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18766.4",
+                        "company_deposit": "75.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18766.4",
+                        "company_deposit": "1876.64 ",
+                        "personal_deposit": "381.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18766.4",
+                        "company_deposit": "3753.28 ",
+                        "personal_deposit": "1487.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18766.4",
+                        "company_deposit": "150.14 ",
+                        "personal_deposit": "37.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18766.4",
+                        "company_deposit": "75.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18766.4",
+                        "company_deposit": "1876.64 ",
+                        "personal_deposit": "381.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18766.4",
+                        "company_deposit": "3753.28 ",
+                        "personal_deposit": "1487.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18766.4",
+                        "company_deposit": "150.14 ",
+                        "personal_deposit": "37.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18766.4",
+                        "company_deposit": "75.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18766.4",
+                        "company_deposit": "1876.64 ",
+                        "personal_deposit": "381.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18766.4",
+                        "company_deposit": "3753.28 ",
+                        "personal_deposit": "1487.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18766.4",
+                        "company_deposit": "150.14 ",
+                        "personal_deposit": "37.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18766.4",
+                        "company_deposit": "75.06 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18766.4",
+                        "company_deposit": "1876.64 ",
+                        "personal_deposit": "381.56 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19704.72",
+                        "company_deposit": "3940.94 ",
+                        "personal_deposit": "1562.18 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19704.72",
+                        "company_deposit": "157.65 ",
+                        "personal_deposit": "39.42 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19704.72",
+                        "company_deposit": "78.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19704.72",
+                        "company_deposit": "1970.47 ",
+                        "personal_deposit": "400.63 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20643.04",
+                        "company_deposit": "4128.61 ",
+                        "personal_deposit": "1636.57 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20643.04",
+                        "company_deposit": "165.16 ",
+                        "personal_deposit": "41.30 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20643.04",
+                        "company_deposit": "82.57 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20643.04",
+                        "company_deposit": "2064.30 ",
+                        "personal_deposit": "419.71 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21581.36",
+                        "company_deposit": "4316.27 ",
+                        "personal_deposit": "1710.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21581.36",
+                        "company_deposit": "172.66 ",
+                        "personal_deposit": "43.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21581.36",
+                        "company_deposit": "86.32 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21581.36",
+                        "company_deposit": "2158.14 ",
+                        "personal_deposit": "438.79 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22519.68",
+                        "company_deposit": "4503.94 ",
+                        "personal_deposit": "1785.35 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22519.68",
+                        "company_deposit": "180.17 ",
+                        "personal_deposit": "45.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22519.68",
+                        "company_deposit": "90.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22519.68",
+                        "company_deposit": "2251.97 ",
+                        "personal_deposit": "457.87 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京市朝阳区人力资源和社会保障局",
+                "area": "北京市朝阳区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23458",
+                        "company_deposit": "4691.60 ",
+                        "personal_deposit": "1859.74 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23458",
+                        "company_deposit": "187.68 ",
+                        "personal_deposit": "46.93 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23458",
+                        "company_deposit": "93.83 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23458",
+                        "company_deposit": "2345.80 ",
+                        "personal_deposit": "476.95 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ048372990",
+            "company": "北京市朝阳区人力资源和社会保障局",
+            "register_number": "00010981",
+            "department": "朝阳管理部",
+            "balance": "234,214.73",
+            "state": "缴存",
+            "current_deposit": "50,670.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "183,544.73",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,815.00",
+            "month_personal_deposit": "2,815.00",
+            "base": "23,458.00",
+            "month_deposit": "5,630.00"
+        },
+        "details": [
+            {
+                "balance": "234214.73",
+                "deposit": "5630.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "228584.73",
+                "deposit": "5630.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "222954.73",
+                "deposit": "5630.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "217324.73",
+                "deposit": "5630.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "211694.73",
+                "deposit": "5630.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "206064.73",
+                "deposit": "5630.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "200434.73",
+                "deposit": "5630.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "194804.73",
+                "deposit": "5630.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "189174.73",
+                "deposit": "5630.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "183544.73",
+                "deposit": "2049.94",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "181494.79",
+                "deposit": "4617.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "176877.79",
+                "deposit": "4617.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "172260.79",
+                "deposit": "4617.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "167643.79",
+                "deposit": "4617.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "163026.79",
+                "deposit": "4617.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "158409.79",
+                "deposit": "4617.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "153792.79",
+                "deposit": "4617.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "149175.79",
+                "deposit": "4617.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "144558.79",
+                "deposit": "4617.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "139941.79",
+                "deposit": "4617.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "135324.79",
+                "deposit": "4617.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "130707.79",
+                "deposit": "4617.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "126090.79",
+                "deposit": "1408.26",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "124682.53",
+                "deposit": "3941.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "120741.53",
+                "deposit": "3941.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "116800.53",
+                "deposit": "3941.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "112859.53",
+                "deposit": "3941.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "108918.53",
+                "deposit": "3941.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "104977.53",
+                "deposit": "3941.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "101036.53",
+                "deposit": "3941.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "97095.53",
+                "deposit": "3941.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "93154.53",
+                "deposit": "3941.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "89213.53",
+                "deposit": "3941.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "85272.53",
+                "deposit": "3941.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "81331.53",
+                "deposit": "3941.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "77390.53",
+                "deposit": "864.35",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "76526.18",
+                "deposit": "3378.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "73148.18",
+                "deposit": "3378.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "69770.18",
+                "deposit": "3378.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "66392.18",
+                "deposit": "3378.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "63014.18",
+                "deposit": "3378.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "59636.18",
+                "deposit": "3378.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "56258.18",
+                "deposit": "3378.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "52880.18",
+                "deposit": "3378.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "49502.18",
+                "deposit": "3378.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "46124.18",
+                "deposit": "3378.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "42746.18",
+                "deposit": "3378.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "39368.18",
+                "deposit": "3378.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "35990.18",
+                "deposit": "401.96",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "35588.22",
+                "deposit": "2933.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "32655.22",
+                "deposit": "2933.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "29722.22",
+                "deposit": "2933.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "26789.22",
+                "deposit": "2933.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "23856.22",
+                "deposit": "2933.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "2933.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市朝阳区人力资源和社会保障局"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "234214.73 ",
+                "detail": {
+                    "last_settlement": "183544.73 ",
+                    "current_deposit": "50670.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "183544.73 ",
+                "detail": {
+                    "last_settlement": "126090.79 ",
+                    "current_deposit": "55404.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2049.94 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "126090.79 ",
+                "detail": {
+                    "last_settlement": "77390.53 ",
+                    "current_deposit": "47292.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1408.26 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "77390.53 ",
+                "detail": {
+                    "last_settlement": "35990.18 ",
+                    "current_deposit": "40536.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "864.35 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "35990.18 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "17598.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "401.96 "
+                }
+            }
+        ]
+    }
+}
