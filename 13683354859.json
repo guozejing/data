@@ -1,0 +1,2524 @@
+{
+    "username": "13683354859",
+    "pwd": "123456",
+    "real_name": "郭立霞",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1974-11-03",
+    "card": "520065623813",
+    "id_card": "132***********5843",
+    "social_insurance": {
+        "companies": [
+            "北京市水利医院"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "13 年 3 个月",
+        "medical_years": "13 年 4 个月",
+        "declare": {
+            "salary": "13416",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "13416"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "13416"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "13416"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "13416"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "13416"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10732.8",
+                        "company_deposit": "2146.56 ",
+                        "personal_deposit": "850.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10732.8",
+                        "company_deposit": "85.87 ",
+                        "personal_deposit": "21.47 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10732.8",
+                        "company_deposit": "42.93 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10732.8",
+                        "company_deposit": "1073.28 ",
+                        "personal_deposit": "218.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10732.8",
+                        "company_deposit": "2146.56 ",
+                        "personal_deposit": "850.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10732.8",
+                        "company_deposit": "85.87 ",
+                        "personal_deposit": "21.47 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10732.8",
+                        "company_deposit": "42.93 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10732.8",
+                        "company_deposit": "1073.28 ",
+                        "personal_deposit": "218.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10732.8",
+                        "company_deposit": "2146.56 ",
+                        "personal_deposit": "850.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10732.8",
+                        "company_deposit": "85.87 ",
+                        "personal_deposit": "21.47 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10732.8",
+                        "company_deposit": "42.93 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10732.8",
+                        "company_deposit": "1073.28 ",
+                        "personal_deposit": "218.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10732.8",
+                        "company_deposit": "2146.56 ",
+                        "personal_deposit": "850.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10732.8",
+                        "company_deposit": "85.87 ",
+                        "personal_deposit": "21.47 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10732.8",
+                        "company_deposit": "42.93 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10732.8",
+                        "company_deposit": "1073.28 ",
+                        "personal_deposit": "218.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10732.8",
+                        "company_deposit": "2146.56 ",
+                        "personal_deposit": "850.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10732.8",
+                        "company_deposit": "85.87 ",
+                        "personal_deposit": "21.47 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10732.8",
+                        "company_deposit": "42.93 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10732.8",
+                        "company_deposit": "1073.28 ",
+                        "personal_deposit": "218.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "10732.8",
+                        "company_deposit": "2146.56 ",
+                        "personal_deposit": "850.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "10732.8",
+                        "company_deposit": "85.87 ",
+                        "personal_deposit": "21.47 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "10732.8",
+                        "company_deposit": "42.93 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "10732.8",
+                        "company_deposit": "1073.28 ",
+                        "personal_deposit": "218.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11269.44",
+                        "company_deposit": "2253.89 ",
+                        "personal_deposit": "893.44 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11269.44",
+                        "company_deposit": "90.16 ",
+                        "personal_deposit": "22.54 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11269.44",
+                        "company_deposit": "45.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11269.44",
+                        "company_deposit": "1126.94 ",
+                        "personal_deposit": "229.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11806.08",
+                        "company_deposit": "2361.22 ",
+                        "personal_deposit": "935.98 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11806.08",
+                        "company_deposit": "94.46 ",
+                        "personal_deposit": "23.62 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11806.08",
+                        "company_deposit": "47.22 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11806.08",
+                        "company_deposit": "1180.61 ",
+                        "personal_deposit": "240.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12342.72",
+                        "company_deposit": "2468.54 ",
+                        "personal_deposit": "978.52 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12342.72",
+                        "company_deposit": "98.75 ",
+                        "personal_deposit": "24.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12342.72",
+                        "company_deposit": "49.37 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12342.72",
+                        "company_deposit": "1234.27 ",
+                        "personal_deposit": "250.95 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12879.36",
+                        "company_deposit": "2575.87 ",
+                        "personal_deposit": "1021.07 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12879.36",
+                        "company_deposit": "103.04 ",
+                        "personal_deposit": "25.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12879.36",
+                        "company_deposit": "51.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12879.36",
+                        "company_deposit": "1287.94 ",
+                        "personal_deposit": "261.86 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京市水利医院",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416",
+                        "company_deposit": "2683.20 ",
+                        "personal_deposit": "1063.61 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416",
+                        "company_deposit": "1341.60 ",
+                        "personal_deposit": "272.77 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ068376761",
+            "company": "北京市水利医院",
+            "register_number": "00010938",
+            "department": "海淀管理部",
+            "balance": "138,175.13",
+            "state": "缴存",
+            "current_deposit": "28,980.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "109,195.13",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "1,610.00",
+            "month_personal_deposit": "1,610.00",
+            "base": "13,416.00",
+            "month_deposit": "3,220.00"
+        },
+        "details": [
+            {
+                "balance": "138175.13",
+                "deposit": "3220.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "134955.13",
+                "deposit": "3220.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "131735.13",
+                "deposit": "3220.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "128515.13",
+                "deposit": "3220.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "125295.13",
+                "deposit": "3220.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "122075.13",
+                "deposit": "3220.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "118855.13",
+                "deposit": "3220.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "115635.13",
+                "deposit": "3220.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "112415.13",
+                "deposit": "3220.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "109195.13",
+                "deposit": "1219.56",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "107975.57",
+                "deposit": "2769.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "105206.57",
+                "deposit": "2769.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "102437.57",
+                "deposit": "2769.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "99668.57",
+                "deposit": "2769.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "96899.57",
+                "deposit": "2769.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "94130.57",
+                "deposit": "2769.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "91361.57",
+                "deposit": "2769.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "88592.57",
+                "deposit": "2769.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "85823.57",
+                "deposit": "2769.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "83054.57",
+                "deposit": "2769.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "80285.57",
+                "deposit": "2769.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "77516.57",
+                "deposit": "2769.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "74747.57",
+                "deposit": "834.83",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "73912.74",
+                "deposit": "2264.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "71648.74",
+                "deposit": "2264.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "69384.74",
+                "deposit": "2264.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "67120.74",
+                "deposit": "2264.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "64856.74",
+                "deposit": "2264.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "62592.74",
+                "deposit": "2264.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "60328.74",
+                "deposit": "2264.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "58064.74",
+                "deposit": "2264.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "55800.74",
+                "deposit": "2264.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "53536.74",
+                "deposit": "2264.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-17",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "51272.74",
+                "deposit": "2264.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "49008.74",
+                "deposit": "2264.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "46744.74",
+                "deposit": "522.07",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "46222.67",
+                "deposit": "1356.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "44866.67",
+                "deposit": "1356.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "43510.67",
+                "deposit": "1356.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "42154.67",
+                "deposit": "1356.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "40798.67",
+                "deposit": "1356.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-14",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "39442.67",
+                "deposit": "1356.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "38086.67",
+                "deposit": "1356.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "36730.67",
+                "deposit": "1356.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "35374.67",
+                "deposit": "1356.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-16",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "34018.67",
+                "deposit": "1356.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "32662.67",
+                "deposit": "1356.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "31306.67",
+                "deposit": "1356.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-14",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "29950.67",
+                "deposit": "334.51",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "29616.16",
+                "deposit": "1327.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "28289.16",
+                "deposit": "1327.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "26962.16",
+                "deposit": "1327.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-14",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "25635.16",
+                "deposit": "1327.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "24308.16",
+                "deposit": "1327.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-13",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            },
+            {
+                "balance": "22981.16",
+                "deposit": "1327.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-15",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市水利医院"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "138175.13 ",
+                "detail": {
+                    "last_settlement": "109195.13 ",
+                    "current_deposit": "28980.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "109195.13 ",
+                "detail": {
+                    "last_settlement": "74747.57 ",
+                    "current_deposit": "33228.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1219.56 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "74747.57 ",
+                "detail": {
+                    "last_settlement": "46744.74 ",
+                    "current_deposit": "27168.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "834.83 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "46744.74 ",
+                "detail": {
+                    "last_settlement": "29950.67 ",
+                    "current_deposit": "16272.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "522.07 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "29950.67 ",
+                "detail": {
+                    "last_settlement": "22981.16 ",
+                    "current_deposit": "7962.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "334.51 "
+                }
+            }
+        ]
+    }
+}
