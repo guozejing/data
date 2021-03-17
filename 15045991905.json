@@ -1,0 +1,2524 @@
+{
+    "username": "15045991905",
+    "pwd": "123456",
+    "real_name": "丛园园",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1992-04-26",
+    "card": "520076186621",
+    "id_card": "231***********7322",
+    "social_insurance": {
+        "companies": [
+            "首都医科大学附属北京天坛医院"
+        ],
+        "area": "北京市丰台区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "8 年 8 个月",
+        "medical_years": "8 年 9 个月",
+        "declare": {
+            "salary": "14583",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "14583"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "14583"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "14583"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "14583"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "14583"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2020",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11666.4",
+                        "company_deposit": "2333.28 ",
+                        "personal_deposit": "924.91 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11666.4",
+                        "company_deposit": "93.34 ",
+                        "personal_deposit": "23.34 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11666.4",
+                        "company_deposit": "46.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11666.4",
+                        "company_deposit": "1166.64 ",
+                        "personal_deposit": "237.20 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11666.4",
+                        "company_deposit": "2333.28 ",
+                        "personal_deposit": "924.91 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11666.4",
+                        "company_deposit": "93.34 ",
+                        "personal_deposit": "23.34 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11666.4",
+                        "company_deposit": "46.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11666.4",
+                        "company_deposit": "1166.64 ",
+                        "personal_deposit": "237.20 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11666.4",
+                        "company_deposit": "2333.28 ",
+                        "personal_deposit": "924.91 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11666.4",
+                        "company_deposit": "93.34 ",
+                        "personal_deposit": "23.34 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11666.4",
+                        "company_deposit": "46.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11666.4",
+                        "company_deposit": "1166.64 ",
+                        "personal_deposit": "237.20 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11666.4",
+                        "company_deposit": "2333.28 ",
+                        "personal_deposit": "924.91 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11666.4",
+                        "company_deposit": "93.34 ",
+                        "personal_deposit": "23.34 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11666.4",
+                        "company_deposit": "46.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11666.4",
+                        "company_deposit": "1166.64 ",
+                        "personal_deposit": "237.20 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11666.4",
+                        "company_deposit": "2333.28 ",
+                        "personal_deposit": "924.91 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11666.4",
+                        "company_deposit": "93.34 ",
+                        "personal_deposit": "23.34 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11666.4",
+                        "company_deposit": "46.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11666.4",
+                        "company_deposit": "1166.64 ",
+                        "personal_deposit": "237.20 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "11666.4",
+                        "company_deposit": "2333.28 ",
+                        "personal_deposit": "924.91 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "11666.4",
+                        "company_deposit": "93.34 ",
+                        "personal_deposit": "23.34 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "11666.4",
+                        "company_deposit": "46.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "11666.4",
+                        "company_deposit": "1166.64 ",
+                        "personal_deposit": "237.20 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12249.72",
+                        "company_deposit": "2449.94 ",
+                        "personal_deposit": "971.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12249.72",
+                        "company_deposit": "98.00 ",
+                        "personal_deposit": "24.50 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12249.72",
+                        "company_deposit": "49.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12249.72",
+                        "company_deposit": "1224.97 ",
+                        "personal_deposit": "249.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "12833.04",
+                        "company_deposit": "2566.61 ",
+                        "personal_deposit": "1017.40 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "12833.04",
+                        "company_deposit": "102.67 ",
+                        "personal_deposit": "25.67 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "12833.04",
+                        "company_deposit": "51.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "12833.04",
+                        "company_deposit": "1283.30 ",
+                        "personal_deposit": "260.92 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13416.36",
+                        "company_deposit": "2683.27 ",
+                        "personal_deposit": "1063.64 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13416.36",
+                        "company_deposit": "107.34 ",
+                        "personal_deposit": "26.84 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13416.36",
+                        "company_deposit": "53.66 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13416.36",
+                        "company_deposit": "1341.64 ",
+                        "personal_deposit": "272.78 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13999.68",
+                        "company_deposit": "2799.94 ",
+                        "personal_deposit": "1109.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13999.68",
+                        "company_deposit": "112.01 ",
+                        "personal_deposit": "28.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13999.68",
+                        "company_deposit": "56.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13999.68",
+                        "company_deposit": "1399.97 ",
+                        "personal_deposit": "284.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "首都医科大学附属北京天坛医院",
+                "area": "北京市丰台区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14583",
+                        "company_deposit": "2916.60 ",
+                        "personal_deposit": "1156.13 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14583",
+                        "company_deposit": "116.67 ",
+                        "personal_deposit": "29.17 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14583",
+                        "company_deposit": "58.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14583",
+                        "company_deposit": "1458.30 ",
+                        "personal_deposit": "296.50 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ078327183",
+            "company": "首都医科大学附属北京天坛医院",
+            "register_number": "00007018",
+            "department": "丰台管理部",
+            "balance": "153,884.15",
+            "state": "缴存",
+            "current_deposit": "31,500.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "122,384.15",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "1,750.00",
+            "month_personal_deposit": "1,750.00",
+            "base": "14,583.00",
+            "month_deposit": "3,500.00"
+        },
+        "details": [
+            {
+                "balance": "153884.15",
+                "deposit": "3500.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "150384.15",
+                "deposit": "3500.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "146884.15",
+                "deposit": "3500.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "143384.15",
+                "deposit": "3500.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "139884.15",
+                "deposit": "3500.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "136384.15",
+                "deposit": "3500.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "132884.15",
+                "deposit": "3500.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "129384.15",
+                "deposit": "3500.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "125884.15",
+                "deposit": "3500.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "122384.15",
+                "deposit": "1366.86",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "121017.29",
+                "deposit": "2870.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "118147.29",
+                "deposit": "2870.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "115277.29",
+                "deposit": "2870.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "112407.29",
+                "deposit": "2870.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "109537.29",
+                "deposit": "2870.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "106667.29",
+                "deposit": "2870.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "103797.29",
+                "deposit": "2870.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "100927.29",
+                "deposit": "2870.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "98057.29",
+                "deposit": "2870.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "95187.29",
+                "deposit": "2870.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "92317.29",
+                "deposit": "2870.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "89447.29",
+                "deposit": "2870.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "86577.29",
+                "deposit": "966.95",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "85610.34",
+                "deposit": "2450.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "83160.34",
+                "deposit": "2450.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "80710.34",
+                "deposit": "2450.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "78260.34",
+                "deposit": "2450.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "75810.34",
+                "deposit": "2450.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "73360.34",
+                "deposit": "2450.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "70910.34",
+                "deposit": "2450.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "68460.34",
+                "deposit": "2450.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "66010.34",
+                "deposit": "2450.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "63560.34",
+                "deposit": "2450.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "61110.34",
+                "deposit": "2450.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "58660.34",
+                "deposit": "2450.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "56210.34",
+                "deposit": "627.79",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "55582.55",
+                "deposit": "2100.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "53482.55",
+                "deposit": "2100.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "51382.55",
+                "deposit": "2100.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "49282.55",
+                "deposit": "2100.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "47182.55",
+                "deposit": "2100.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "45082.55",
+                "deposit": "2100.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "42982.55",
+                "deposit": "2100.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "40882.55",
+                "deposit": "2100.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "38782.55",
+                "deposit": "2100.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "36682.55",
+                "deposit": "2100.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "34582.55",
+                "deposit": "2100.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "32482.55",
+                "deposit": "2100.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "30382.55",
+                "deposit": "339.33",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "30043.22",
+                "deposit": "1824.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "28219.22",
+                "deposit": "1824.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "26395.22",
+                "deposit": "1824.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "24571.22",
+                "deposit": "1824.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "22747.22",
+                "deposit": "1824.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "1824.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京天坛医院"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "153884.15 ",
+                "detail": {
+                    "last_settlement": "122384.15 ",
+                    "current_deposit": "31500.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "122384.15 ",
+                "detail": {
+                    "last_settlement": "86577.29 ",
+                    "current_deposit": "34440.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1366.86 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "86577.29 ",
+                "detail": {
+                    "last_settlement": "56210.34 ",
+                    "current_deposit": "29400.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "966.95 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "56210.34 ",
+                "detail": {
+                    "last_settlement": "30382.55 ",
+                    "current_deposit": "25200.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "627.79 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "30382.55 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "10944.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "339.33 "
+                }
+            }
+        ]
+    }
+}
