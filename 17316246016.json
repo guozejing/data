@@ -1,0 +1,1975 @@
+{
+    "username": "17316246016",
+    "pwd": "123456",
+    "real_name": "高振刚",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1974-02-20",
+    "card": "520048398102",
+    "id_card": "110***********6517",
+    "social_insurance": {
+        "companies": [
+            "首都医科大学附属北京潞河医院"
+        ],
+        "area": "北京市通州区社会保险基金管理中心",
+        "payer_category": "本市城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "18 年 2 个月",
+        "medical_years": "18 年 3 个月",
+        "declare": {
+            "salary": "18100",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "18100"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "18100"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "18100"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "18100"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "18100"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14480",
+                        "company_deposit": "2896.00 ",
+                        "personal_deposit": "1147.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14480",
+                        "company_deposit": "115.85 ",
+                        "personal_deposit": "28.97 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14480",
+                        "company_deposit": "57.92 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14480",
+                        "company_deposit": "1448.00 ",
+                        "personal_deposit": "294.41 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14480",
+                        "company_deposit": "2896.00 ",
+                        "personal_deposit": "1147.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14480",
+                        "company_deposit": "115.85 ",
+                        "personal_deposit": "28.97 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14480",
+                        "company_deposit": "57.92 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14480",
+                        "company_deposit": "1448.00 ",
+                        "personal_deposit": "294.41 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14480",
+                        "company_deposit": "2896.00 ",
+                        "personal_deposit": "1147.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14480",
+                        "company_deposit": "115.85 ",
+                        "personal_deposit": "28.97 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14480",
+                        "company_deposit": "57.92 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14480",
+                        "company_deposit": "1448.00 ",
+                        "personal_deposit": "294.41 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14480",
+                        "company_deposit": "2896.00 ",
+                        "personal_deposit": "1147.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14480",
+                        "company_deposit": "115.85 ",
+                        "personal_deposit": "28.97 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14480",
+                        "company_deposit": "57.92 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14480",
+                        "company_deposit": "1448.00 ",
+                        "personal_deposit": "294.41 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14480",
+                        "company_deposit": "2896.00 ",
+                        "personal_deposit": "1147.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14480",
+                        "company_deposit": "115.85 ",
+                        "personal_deposit": "28.97 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14480",
+                        "company_deposit": "57.92 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14480",
+                        "company_deposit": "1448.00 ",
+                        "personal_deposit": "294.41 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14480",
+                        "company_deposit": "2896.00 ",
+                        "personal_deposit": "1147.97 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14480",
+                        "company_deposit": "115.85 ",
+                        "personal_deposit": "28.97 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14480",
+                        "company_deposit": "57.92 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14480",
+                        "company_deposit": "1448.00 ",
+                        "personal_deposit": "294.41 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15204",
+                        "company_deposit": "3040.80 ",
+                        "personal_deposit": "1205.37 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15204",
+                        "company_deposit": "121.64 ",
+                        "personal_deposit": "30.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15204",
+                        "company_deposit": "60.81 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15204",
+                        "company_deposit": "1520.40 ",
+                        "personal_deposit": "309.13 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15928",
+                        "company_deposit": "3185.60 ",
+                        "personal_deposit": "1262.76 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15928",
+                        "company_deposit": "127.43 ",
+                        "personal_deposit": "31.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15928",
+                        "company_deposit": "63.71 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15928",
+                        "company_deposit": "1592.80 ",
+                        "personal_deposit": "323.85 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16652",
+                        "company_deposit": "3330.40 ",
+                        "personal_deposit": "1320.16 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16652",
+                        "company_deposit": "133.23 ",
+                        "personal_deposit": "33.31 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16652",
+                        "company_deposit": "66.60 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16652",
+                        "company_deposit": "1665.20 ",
+                        "personal_deposit": "338.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "17376",
+                        "company_deposit": "3475.20 ",
+                        "personal_deposit": "1377.56 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "17376",
+                        "company_deposit": "139.02 ",
+                        "personal_deposit": "34.76 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "17376",
+                        "company_deposit": "69.50 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "17376",
+                        "company_deposit": "1737.60 ",
+                        "personal_deposit": "353.29 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "首都医科大学附属北京潞河医院",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "18100",
+                        "company_deposit": "3620.00 ",
+                        "personal_deposit": "1434.96 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "18100",
+                        "company_deposit": "144.81 ",
+                        "personal_deposit": "36.21 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "18100",
+                        "company_deposit": "72.40 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "18100",
+                        "company_deposit": "1810.00 ",
+                        "personal_deposit": "368.01 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ047367614",
+            "company": "首都医科大学附属北京潞河医院",
+            "register_number": "00010872",
+            "department": "通州管理部",
+            "balance": "181,902.16",
+            "state": "缴存",
+            "current_deposit": "39,096.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "142,806.16",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,172.00",
+            "month_personal_deposit": "2,172.00",
+            "base": "18,100.00",
+            "month_deposit": "4,344.00"
+        }
+    }
+}
