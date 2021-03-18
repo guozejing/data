@@ -6,7 +6,7 @@
     "ethnic_group": "汉",
     "birthday": "1974-02-20",
     "card": "520048398102",
-    "id_card": "110***********6517",
+    "id_card": "1****************7",
     "social_insurance": {
         "companies": [
             "首都医科大学附属北京潞河医院"
@@ -1970,6 +1970,555 @@
             "month_personal_deposit": "2,172.00",
             "base": "18,100.00",
             "month_deposit": "4,344.00"
-        }
+        },
+        "details": [
+            {
+                "balance": "181902.16",
+                "deposit": "4344.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "177558.16",
+                "deposit": "4344.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "173214.16",
+                "deposit": "4344.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "168870.16",
+                "deposit": "4344.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "164526.16",
+                "deposit": "4344.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "160182.16",
+                "deposit": "4344.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "155838.16",
+                "deposit": "4344.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "151494.16",
+                "deposit": "4344.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "147150.16",
+                "deposit": "4344.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "142806.16",
+                "deposit": "1594.95",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "141211.21",
+                "deposit": "3823.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "137388.21",
+                "deposit": "3823.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "133565.21",
+                "deposit": "3823.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "129742.21",
+                "deposit": "3823.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "125919.21",
+                "deposit": "3823.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "122096.21",
+                "deposit": "3823.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "118273.21",
+                "deposit": "3823.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "114450.21",
+                "deposit": "3823.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "110627.21",
+                "deposit": "3823.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "106804.21",
+                "deposit": "3823.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "102981.21",
+                "deposit": "3823.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "99158.21",
+                "deposit": "3823.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "95335.21",
+                "deposit": "1064.76",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "94270.45",
+                "deposit": "3041.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "91229.45",
+                "deposit": "3041.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "88188.45",
+                "deposit": "3041.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "85147.45",
+                "deposit": "3041.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "82106.45",
+                "deposit": "3041.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "79065.45",
+                "deposit": "3041.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "76024.45",
+                "deposit": "3041.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "72983.45",
+                "deposit": "3041.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "69942.45",
+                "deposit": "3041.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "66901.45",
+                "deposit": "3041.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "63860.45",
+                "deposit": "3041.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "60819.45",
+                "deposit": "3041.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "57778.45",
+                "deposit": "645.31",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "57133.14",
+                "deposit": "2663.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "54470.14",
+                "deposit": "2663.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "51807.14",
+                "deposit": "2663.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "49144.14",
+                "deposit": "2663.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "46481.14",
+                "deposit": "2663.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "43818.14",
+                "deposit": "2663.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "41155.14",
+                "deposit": "2663.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "38492.14",
+                "deposit": "2663.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "35829.14",
+                "deposit": "2663.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "33166.14",
+                "deposit": "2663.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "30503.14",
+                "deposit": "2663.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-04",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "27840.14",
+                "deposit": "2663.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "25177.14",
+                "deposit": "281.19",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "24895.95",
+                "deposit": "1929.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "22966.95",
+                "deposit": "1929.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "21037.95",
+                "deposit": "1929.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "19108.95",
+                "deposit": "1929.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "17179.95",
+                "deposit": "1929.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            },
+            {
+                "balance": "15250.95",
+                "deposit": "1929.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-05",
+                "opt_type": "汇缴分配",
+                "opt_company": "首都医科大学附属北京潞河医院"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "181902.16 ",
+                "detail": {
+                    "last_settlement": "142806.16 ",
+                    "current_deposit": "39096.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "142806.16 ",
+                "detail": {
+                    "last_settlement": "95335.21 ",
+                    "current_deposit": "45876.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1594.95 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "95335.21 ",
+                "detail": {
+                    "last_settlement": "57778.45 ",
+                    "current_deposit": "36492.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1064.76 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "57778.45 ",
+                "detail": {
+                    "last_settlement": "25177.14 ",
+                    "current_deposit": "31956.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "645.31 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "25177.14 ",
+                "detail": {
+                    "last_settlement": "15250.95 ",
+                    "current_deposit": "11574.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "281.19 "
+                }
+            }
+        ]
     }
 }
