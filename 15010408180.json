@@ -1,0 +1,2515 @@
+{
+    "username": "15010408180",
+    "pwd": "123456",
+    "real_name": "殷明",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1982-11-26",
+    "card": "520076283770",
+    "id_card": "1****************7",
+    "social_insurance": {
+        "companies": [
+            "红帆海威（北京）信息技术有限公司"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "本市城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "12 年 8 个月",
+        "medical_years": "12 年 9 个月",
+        "declare": {
+            "salary": "16500",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "16500"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "16500"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "16500"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "16500"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "16500"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13200",
+                        "company_deposit": "2640.00 ",
+                        "personal_deposit": "1046.49 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13200",
+                        "company_deposit": "105.61 ",
+                        "personal_deposit": "26.41 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13200",
+                        "company_deposit": "52.80 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13200",
+                        "company_deposit": "1320.00 ",
+                        "personal_deposit": "268.38 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "13860",
+                        "company_deposit": "2772.00 ",
+                        "personal_deposit": "1098.81 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "13860",
+                        "company_deposit": "110.89 ",
+                        "personal_deposit": "27.73 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "13860",
+                        "company_deposit": "55.44 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "13860",
+                        "company_deposit": "1386.00 ",
+                        "personal_deposit": "281.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "14520",
+                        "company_deposit": "2904.00 ",
+                        "personal_deposit": "1151.14 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "14520",
+                        "company_deposit": "116.17 ",
+                        "personal_deposit": "29.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "14520",
+                        "company_deposit": "58.08 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "14520",
+                        "company_deposit": "1452.00 ",
+                        "personal_deposit": "295.22 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15180",
+                        "company_deposit": "3036.00 ",
+                        "personal_deposit": "1203.46 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15180",
+                        "company_deposit": "121.45 ",
+                        "personal_deposit": "30.37 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15180",
+                        "company_deposit": "60.72 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15180",
+                        "company_deposit": "1518.00 ",
+                        "personal_deposit": "308.64 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "15840",
+                        "company_deposit": "3168.00 ",
+                        "personal_deposit": "1255.79 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "15840",
+                        "company_deposit": "126.73 ",
+                        "personal_deposit": "31.69 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "15840",
+                        "company_deposit": "63.36 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "15840",
+                        "company_deposit": "1584.00 ",
+                        "personal_deposit": "322.06 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "红帆海威（北京）信息技术有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "16500",
+                        "company_deposit": "3300.00 ",
+                        "personal_deposit": "1308.11 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "16500",
+                        "company_deposit": "132.01 ",
+                        "personal_deposit": "33.01 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "16500",
+                        "company_deposit": "66.00 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "16500",
+                        "company_deposit": "1650.00 ",
+                        "personal_deposit": "335.48 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ076372844",
+            "company": "红帆海威（北京）信息技术有限公司",
+            "register_number": "00018727",
+            "department": "海淀管理部",
+            "balance": "167,266.44",
+            "state": "缴存",
+            "current_deposit": "31,680.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "135,586.44",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "1,980.00",
+            "month_personal_deposit": "1,980.00",
+            "base": "16,500.00",
+            "month_deposit": "3,960.00"
+        },
+        "details": [
+            {
+                "balance": "167266.44",
+                "deposit": "3960.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "163306.44",
+                "deposit": "3960.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "159346.44",
+                "deposit": "3960.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "155386.44",
+                "deposit": "3960.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "151426.44",
+                "deposit": "3960.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "147466.44",
+                "deposit": "3960.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "143506.44",
+                "deposit": "3960.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "139546.44",
+                "deposit": "3960.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "135586.44",
+                "deposit": "1514.31",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "134072.13",
+                "deposit": "3247.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "130825.13",
+                "deposit": "3247.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "127578.13",
+                "deposit": "3247.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "124331.13",
+                "deposit": "3247.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "121084.13",
+                "deposit": "3247.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "117837.13",
+                "deposit": "3247.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "114590.13",
+                "deposit": "3247.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "111343.13",
+                "deposit": "3247.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "108096.13",
+                "deposit": "3247.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "104849.13",
+                "deposit": "3247.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-23",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "101602.13",
+                "deposit": "3247.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "98355.13",
+                "deposit": "3247.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "95108.13",
+                "deposit": "1062.23",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "94045.90",
+                "deposit": "2772.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "91273.90",
+                "deposit": "2772.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "88501.90",
+                "deposit": "2772.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "85729.90",
+                "deposit": "2772.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "82957.90",
+                "deposit": "2772.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "80185.90",
+                "deposit": "2772.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "77413.90",
+                "deposit": "2772.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "74641.90",
+                "deposit": "2772.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "71869.90",
+                "deposit": "2772.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "69097.90",
+                "deposit": "2772.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "66325.90",
+                "deposit": "2772.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "63553.90",
+                "deposit": "2772.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-23",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "60781.90",
+                "deposit": "678.85",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "60103.05",
+                "deposit": "2376.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "57727.05",
+                "deposit": "2376.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "55351.05",
+                "deposit": "2376.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "52975.05",
+                "deposit": "2376.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "50599.05",
+                "deposit": "2376.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-28",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "48223.05",
+                "deposit": "2376.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-23",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "45847.05",
+                "deposit": "2376.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "43471.05",
+                "deposit": "2376.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "41095.05",
+                "deposit": "2376.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "38719.05",
+                "deposit": "2376.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "36343.05",
+                "deposit": "2376.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "33967.05",
+                "deposit": "2376.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "31591.05",
+                "deposit": "352.83",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "31238.22",
+                "deposit": "2063.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "29175.22",
+                "deposit": "2063.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-19",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "27112.22",
+                "deposit": "2063.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-21",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "25049.22",
+                "deposit": "2063.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-22",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "22986.22",
+                "deposit": "2063.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "2063.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-20",
+                "opt_type": "汇缴分配",
+                "opt_company": "红帆海威（北京）信息技术有限公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "167266.44 ",
+                "detail": {
+                    "last_settlement": "135586.44 ",
+                    "current_deposit": "31680.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "135586.44 ",
+                "detail": {
+                    "last_settlement": "95108.13 ",
+                    "current_deposit": "38964.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1514.31 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "95108.13 ",
+                "detail": {
+                    "last_settlement": "60781.90 ",
+                    "current_deposit": "33264.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1062.23 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "60781.90 ",
+                "detail": {
+                    "last_settlement": "31591.05 ",
+                    "current_deposit": "28512.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "678.85 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "31591.05 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "12378.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "352.83 "
+                }
+            }
+        ]
+    }
+}
