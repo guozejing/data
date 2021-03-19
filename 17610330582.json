@@ -1,0 +1,2524 @@
+{
+    "username": "17610330582",
+    "pwd": "123456",
+    "real_name": "杨小兵",
+    "sex": "男",
+    "ethnic_group": "汉",
+    "birthday": "1978-10-04",
+    "card": "520054298142",
+    "id_card": "410***********3011",
+    "social_insurance": {
+        "companies": [
+            "北京世纪鸿达机械设备租赁有限公司"
+        ],
+        "area": "北京市海淀区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "16 年 8 个月",
+        "medical_years": "16 年 9 个月",
+        "declare": {
+            "salary": "24750",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "24750"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "24750"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "24750"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "24750"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "24750"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19800",
+                        "company_deposit": "3960.00 ",
+                        "personal_deposit": "1569.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19800",
+                        "company_deposit": "158.41 ",
+                        "personal_deposit": "39.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19800",
+                        "company_deposit": "79.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19800",
+                        "company_deposit": "1980.00 ",
+                        "personal_deposit": "402.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19800",
+                        "company_deposit": "3960.00 ",
+                        "personal_deposit": "1569.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19800",
+                        "company_deposit": "158.41 ",
+                        "personal_deposit": "39.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19800",
+                        "company_deposit": "79.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19800",
+                        "company_deposit": "1980.00 ",
+                        "personal_deposit": "402.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19800",
+                        "company_deposit": "3960.00 ",
+                        "personal_deposit": "1569.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19800",
+                        "company_deposit": "158.41 ",
+                        "personal_deposit": "39.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19800",
+                        "company_deposit": "79.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19800",
+                        "company_deposit": "1980.00 ",
+                        "personal_deposit": "402.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19800",
+                        "company_deposit": "3960.00 ",
+                        "personal_deposit": "1569.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19800",
+                        "company_deposit": "158.41 ",
+                        "personal_deposit": "39.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19800",
+                        "company_deposit": "79.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19800",
+                        "company_deposit": "1980.00 ",
+                        "personal_deposit": "402.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19800",
+                        "company_deposit": "3960.00 ",
+                        "personal_deposit": "1569.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19800",
+                        "company_deposit": "158.41 ",
+                        "personal_deposit": "39.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19800",
+                        "company_deposit": "79.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19800",
+                        "company_deposit": "1980.00 ",
+                        "personal_deposit": "402.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19800",
+                        "company_deposit": "3960.00 ",
+                        "personal_deposit": "1569.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19800",
+                        "company_deposit": "158.41 ",
+                        "personal_deposit": "39.61 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19800",
+                        "company_deposit": "79.20 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19800",
+                        "company_deposit": "1980.00 ",
+                        "personal_deposit": "402.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20790",
+                        "company_deposit": "4158.00 ",
+                        "personal_deposit": "1648.22 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20790",
+                        "company_deposit": "166.33 ",
+                        "personal_deposit": "41.59 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20790",
+                        "company_deposit": "83.16 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20790",
+                        "company_deposit": "2079.00 ",
+                        "personal_deposit": "422.70 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21780",
+                        "company_deposit": "4356.00 ",
+                        "personal_deposit": "1726.71 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21780",
+                        "company_deposit": "174.25 ",
+                        "personal_deposit": "43.57 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21780",
+                        "company_deposit": "87.12 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21780",
+                        "company_deposit": "2178.00 ",
+                        "personal_deposit": "442.83 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22770",
+                        "company_deposit": "4554.00 ",
+                        "personal_deposit": "1805.19 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22770",
+                        "company_deposit": "182.17 ",
+                        "personal_deposit": "45.55 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22770",
+                        "company_deposit": "91.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22770",
+                        "company_deposit": "2277.00 ",
+                        "personal_deposit": "462.96 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23760",
+                        "company_deposit": "4752.00 ",
+                        "personal_deposit": "1883.68 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23760",
+                        "company_deposit": "190.09 ",
+                        "personal_deposit": "47.53 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23760",
+                        "company_deposit": "95.03 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23760",
+                        "company_deposit": "2376.00 ",
+                        "personal_deposit": "483.09 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京世纪鸿达机械设备租赁有限公司",
+                "area": "北京市海淀区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "24750",
+                        "company_deposit": "4950.00 ",
+                        "personal_deposit": "1962.17 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "24750",
+                        "company_deposit": "198.01 ",
+                        "personal_deposit": "49.51 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "24750",
+                        "company_deposit": "98.99 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "24750",
+                        "company_deposit": "2475.00 ",
+                        "personal_deposit": "503.21 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ057483289",
+            "company": "北京世纪鸿达机械设备租赁有限公司",
+            "register_number": "00027871",
+            "department": "海淀管理部",
+            "balance": "245,906.02",
+            "state": "缴存",
+            "current_deposit": "53,460.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "192,446.02",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,970.00",
+            "month_personal_deposit": "2,970.00",
+            "base": "24,750.00",
+            "month_deposit": "5,940.00"
+        },
+        "details": [
+            {
+                "balance": "245906.02",
+                "deposit": "5940.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "239966.02",
+                "deposit": "5940.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "234026.02",
+                "deposit": "5940.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "228086.02",
+                "deposit": "5940.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "222146.02",
+                "deposit": "5940.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "216206.02",
+                "deposit": "5940.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-12",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "210266.02",
+                "deposit": "5940.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "204326.02",
+                "deposit": "5940.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "198386.02",
+                "deposit": "5940.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "192446.02",
+                "deposit": "2149.36",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "190296.66",
+                "deposit": "4871.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "185425.66",
+                "deposit": "4871.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "180554.66",
+                "deposit": "4871.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "175683.66",
+                "deposit": "4871.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "170812.66",
+                "deposit": "4871.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "165941.66",
+                "deposit": "4871.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "161070.66",
+                "deposit": "4871.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "156199.66",
+                "deposit": "4871.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "151328.66",
+                "deposit": "4871.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "146457.66",
+                "deposit": "4871.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "141586.66",
+                "deposit": "4871.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "136715.66",
+                "deposit": "4871.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "131844.66",
+                "deposit": "1472.52",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "130372.14",
+                "deposit": "4158.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "126214.14",
+                "deposit": "4158.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "122056.14",
+                "deposit": "4158.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "117898.14",
+                "deposit": "4158.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "113740.14",
+                "deposit": "4158.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "109582.14",
+                "deposit": "4158.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "105424.14",
+                "deposit": "4158.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "101266.14",
+                "deposit": "4158.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "97108.14",
+                "deposit": "4158.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "92950.14",
+                "deposit": "4158.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "88792.14",
+                "deposit": "4158.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "84634.14",
+                "deposit": "4158.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "80476.14",
+                "deposit": "898.81",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "79577.33",
+                "deposit": "3564.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "76013.33",
+                "deposit": "3564.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "72449.33",
+                "deposit": "3564.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "68885.33",
+                "deposit": "3564.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "65321.33",
+                "deposit": "3564.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "61757.33",
+                "deposit": "3564.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "58193.33",
+                "deposit": "3564.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "54629.33",
+                "deposit": "3564.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "51065.33",
+                "deposit": "3564.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "47501.33",
+                "deposit": "3564.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "43937.33",
+                "deposit": "3564.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "40373.33",
+                "deposit": "3564.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "36809.33",
+                "deposit": "411.11",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "36398.22",
+                "deposit": "3095.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "33303.22",
+                "deposit": "3095.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "30208.22",
+                "deposit": "3095.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "27113.22",
+                "deposit": "3095.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "24018.22",
+                "deposit": "3095.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "3095.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京世纪鸿达机械设备租赁有限公司"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "245906.02 ",
+                "detail": {
+                    "last_settlement": "192446.02 ",
+                    "current_deposit": "53460.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "192446.02 ",
+                "detail": {
+                    "last_settlement": "131844.66 ",
+                    "current_deposit": "58452.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2149.36 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "131844.66 ",
+                "detail": {
+                    "last_settlement": "80476.14 ",
+                    "current_deposit": "49896.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1472.52 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "80476.14 ",
+                "detail": {
+                    "last_settlement": "36809.33 ",
+                    "current_deposit": "42768.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "898.81 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "36809.33 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "18570.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "411.11 "
+                }
+            }
+        ]
+    }
+}
