@@ -1,0 +1,2524 @@
+{
+    "username": "13520144515",
+    "pwd": "123456",
+    "real_name": "郑满芳",
+    "sex": "女",
+    "ethnic_group": "汉",
+    "birthday": "1978-11-11",
+    "card": "520068392144",
+    "id_card": "4****************0",
+    "social_insurance": {
+        "companies": [
+            "北京市通州区中心血站"
+        ],
+        "area": "北京市通州区社会保险基金管理中心",
+        "payer_category": "外阜城镇职工",
+        "insurer_category": "在职职工",
+        "pension_years": "16 年 10 个月",
+        "medical_years": "16 年 11 个月",
+        "declare": {
+            "salary": "23833",
+            "insurances": [
+                {
+                    "type": "养老",
+                    "state": "正常(缴费)",
+                    "base": "23833"
+                },
+                {
+                    "type": "失业",
+                    "state": "正常(缴费)",
+                    "base": "23833"
+                },
+                {
+                    "type": "工伤",
+                    "state": "正常(缴费)",
+                    "base": "23833"
+                },
+                {
+                    "type": "生育",
+                    "state": "正常(缴费)",
+                    "base": "23833"
+                },
+                {
+                    "type": "医疗",
+                    "state": "正常(缴费)",
+                    "base": "23833"
+                }
+            ]
+        },
+        "treatment": "享受实时结算",
+        "count": {
+            "year": "2021",
+            "clinic": {
+                "big": "0",
+                "medical": "0"
+            },
+            "hospitalized": {
+                "whole": "0",
+                "big": "0",
+                "medical": "0"
+            }
+        },
+        "records": [
+            {
+                "year_month": "2016-01",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19066.4",
+                        "company_deposit": "3813.28 ",
+                        "personal_deposit": "1511.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19066.4",
+                        "company_deposit": "152.54 ",
+                        "personal_deposit": "38.14 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19066.4",
+                        "company_deposit": "76.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19066.4",
+                        "company_deposit": "1906.64 ",
+                        "personal_deposit": "387.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-02",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19066.4",
+                        "company_deposit": "3813.28 ",
+                        "personal_deposit": "1511.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19066.4",
+                        "company_deposit": "152.54 ",
+                        "personal_deposit": "38.14 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19066.4",
+                        "company_deposit": "76.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19066.4",
+                        "company_deposit": "1906.64 ",
+                        "personal_deposit": "387.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-03",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19066.4",
+                        "company_deposit": "3813.28 ",
+                        "personal_deposit": "1511.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19066.4",
+                        "company_deposit": "152.54 ",
+                        "personal_deposit": "38.14 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19066.4",
+                        "company_deposit": "76.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19066.4",
+                        "company_deposit": "1906.64 ",
+                        "personal_deposit": "387.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-04",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19066.4",
+                        "company_deposit": "3813.28 ",
+                        "personal_deposit": "1511.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19066.4",
+                        "company_deposit": "152.54 ",
+                        "personal_deposit": "38.14 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19066.4",
+                        "company_deposit": "76.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19066.4",
+                        "company_deposit": "1906.64 ",
+                        "personal_deposit": "387.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-05",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19066.4",
+                        "company_deposit": "3813.28 ",
+                        "personal_deposit": "1511.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19066.4",
+                        "company_deposit": "152.54 ",
+                        "personal_deposit": "38.14 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19066.4",
+                        "company_deposit": "76.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19066.4",
+                        "company_deposit": "1906.64 ",
+                        "personal_deposit": "387.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-06",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "19066.4",
+                        "company_deposit": "3813.28 ",
+                        "personal_deposit": "1511.58 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "19066.4",
+                        "company_deposit": "152.54 ",
+                        "personal_deposit": "38.14 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "19066.4",
+                        "company_deposit": "76.26 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "19066.4",
+                        "company_deposit": "1906.64 ",
+                        "personal_deposit": "387.66 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-07",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-08",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-09",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-10",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-11",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2016-12",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-01",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-02",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-03",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-04",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-05",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-06",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20019.72",
+                        "company_deposit": "4003.94 ",
+                        "personal_deposit": "1587.15 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20019.72",
+                        "company_deposit": "160.17 ",
+                        "personal_deposit": "40.05 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20019.72",
+                        "company_deposit": "80.07 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20019.72",
+                        "company_deposit": "2001.97 ",
+                        "personal_deposit": "407.04 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-07",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-08",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-09",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-10",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-11",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2017-12",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-01",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-02",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-03",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-04",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-05",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-06",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "20973.04",
+                        "company_deposit": "4194.61 ",
+                        "personal_deposit": "1662.73 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "20973.04",
+                        "company_deposit": "167.80 ",
+                        "personal_deposit": "41.96 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "20973.04",
+                        "company_deposit": "83.89 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "20973.04",
+                        "company_deposit": "2097.30 ",
+                        "personal_deposit": "426.42 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-07",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-08",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-09",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-10",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-11",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2018-12",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-01",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-02",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-03",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-04",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-05",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-06",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "21926.36",
+                        "company_deposit": "4385.27 ",
+                        "personal_deposit": "1738.31 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "21926.36",
+                        "company_deposit": "175.42 ",
+                        "personal_deposit": "43.86 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "21926.36",
+                        "company_deposit": "87.70 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "21926.36",
+                        "company_deposit": "2192.64 ",
+                        "personal_deposit": "445.80 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-07",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-08",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-09",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-10",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-11",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2019-12",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-01",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-02",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-03",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-04",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-05",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-06",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "22879.68",
+                        "company_deposit": "4575.94 ",
+                        "personal_deposit": "1813.89 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "22879.68",
+                        "company_deposit": "183.05 ",
+                        "personal_deposit": "45.77 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "22879.68",
+                        "company_deposit": "91.51 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "22879.68",
+                        "company_deposit": "2287.97 ",
+                        "personal_deposit": "465.19 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-07",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-08",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-09",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-10",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-11",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2020-12",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            },
+            {
+                "year_month": "2021-01",
+                "company": "北京市通州区中心血站",
+                "area": "北京市通州区社会保险基金管理中心",
+                "insurances": [
+                    {
+                        "type": "养老",
+                        "base": "23833",
+                        "company_deposit": "4766.60 ",
+                        "personal_deposit": "1889.47 "
+                    },
+                    {
+                        "type": "失业",
+                        "base": "23833",
+                        "company_deposit": "190.68 ",
+                        "personal_deposit": "47.68 "
+                    },
+                    {
+                        "type": "工伤",
+                        "base": "23833",
+                        "company_deposit": "95.33 ",
+                        "personal_deposit": "0.00 "
+                    },
+                    {
+                        "type": "医疗",
+                        "base": "23833",
+                        "company_deposit": "2383.30 ",
+                        "personal_deposit": "484.57 "
+                    }
+                ]
+            }
+        ]
+    },
+    "accumulation_fund": {
+        "general": {
+            "account": "GJJ067829914",
+            "company": "北京市通州区中心血站",
+            "register_number": "00010093",
+            "department": "通州管理部",
+            "balance": "237,599.81",
+            "state": "缴存",
+            "current_deposit": "51,480.00",
+            "current_withdraw": "0.00",
+            "last_settlement": "186,119.81",
+            "company_rate": "12%",
+            "personal_rate": "12%",
+            "month_company_deposit": "2,860.00",
+            "month_personal_deposit": "2,860.00",
+            "base": "23,833.00",
+            "month_deposit": "5,720.00"
+        },
+        "details": [
+            {
+                "balance": "237599.81",
+                "deposit": "5720.00",
+                "opt_month": "2021-03",
+                "opt_money": "-0",
+                "opt_day": "2021-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "231879.81",
+                "deposit": "5720.00",
+                "opt_month": "2021-02",
+                "opt_money": "-0",
+                "opt_day": "2021-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "226159.81",
+                "deposit": "5720.00",
+                "opt_month": "2021-01",
+                "opt_money": "-0",
+                "opt_day": "2021-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "220439.81",
+                "deposit": "5720.00",
+                "opt_month": "2020-12",
+                "opt_money": "-0",
+                "opt_day": "2020-12-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "214719.81",
+                "deposit": "5720.00",
+                "opt_month": "2020-11",
+                "opt_money": "-0",
+                "opt_day": "2020-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "208999.81",
+                "deposit": "5720.00",
+                "opt_month": "2020-10",
+                "opt_money": "-0",
+                "opt_day": "2020-10-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "203279.81",
+                "deposit": "5720.00",
+                "opt_month": "2020-09",
+                "opt_money": "-0",
+                "opt_day": "2020-09-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "197559.81",
+                "deposit": "5720.00",
+                "opt_month": "2020-08",
+                "opt_money": "-0",
+                "opt_day": "2020-08-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "191839.81",
+                "deposit": "5720.00",
+                "opt_month": "2020-07",
+                "opt_money": "-0",
+                "opt_day": "2020-07-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "186119.81",
+                "deposit": "2078.70",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "184041.11",
+                "deposit": "4690.00",
+                "opt_month": "2020-06",
+                "opt_money": "-0",
+                "opt_day": "2020-06-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "179351.11",
+                "deposit": "4690.00",
+                "opt_month": "2020-05",
+                "opt_money": "-0",
+                "opt_day": "2020-05-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "174661.11",
+                "deposit": "4690.00",
+                "opt_month": "2020-04",
+                "opt_money": "-0",
+                "opt_day": "2020-04-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "169971.11",
+                "deposit": "4690.00",
+                "opt_month": "2020-03",
+                "opt_money": "-0",
+                "opt_day": "2020-03-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "165281.11",
+                "deposit": "4690.00",
+                "opt_month": "2020-02",
+                "opt_money": "-0",
+                "opt_day": "2020-02-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "160591.11",
+                "deposit": "4690.00",
+                "opt_month": "2020-01",
+                "opt_money": "-0",
+                "opt_day": "2020-01-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "155901.11",
+                "deposit": "4690.00",
+                "opt_month": "2019-12",
+                "opt_money": "-0",
+                "opt_day": "2019-12-06",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "151211.11",
+                "deposit": "4690.00",
+                "opt_month": "2019-11",
+                "opt_money": "-0",
+                "opt_day": "2019-11-07",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "146521.11",
+                "deposit": "4690.00",
+                "opt_month": "2019-10",
+                "opt_money": "-0",
+                "opt_day": "2019-10-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "141831.11",
+                "deposit": "4690.00",
+                "opt_month": "2019-09",
+                "opt_money": "-0",
+                "opt_day": "2019-09-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "137141.11",
+                "deposit": "4690.00",
+                "opt_month": "2019-08",
+                "opt_money": "-0",
+                "opt_day": "2019-08-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "132451.11",
+                "deposit": "4690.00",
+                "opt_month": "2019-07",
+                "opt_money": "-0",
+                "opt_day": "2019-07-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "127761.11",
+                "deposit": "1426.92",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "126334.19",
+                "deposit": "4004.00",
+                "opt_month": "2019-06",
+                "opt_money": "-0",
+                "opt_day": "2019-06-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "122330.19",
+                "deposit": "4004.00",
+                "opt_month": "2019-05",
+                "opt_money": "-0",
+                "opt_day": "2019-05-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "118326.19",
+                "deposit": "4004.00",
+                "opt_month": "2019-04",
+                "opt_money": "-0",
+                "opt_day": "2019-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "114322.19",
+                "deposit": "4004.00",
+                "opt_month": "2019-03",
+                "opt_money": "-0",
+                "opt_day": "2019-03-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "110318.19",
+                "deposit": "4004.00",
+                "opt_month": "2019-02",
+                "opt_money": "-0",
+                "opt_day": "2019-02-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "106314.19",
+                "deposit": "4004.00",
+                "opt_month": "2019-01",
+                "opt_money": "-0",
+                "opt_day": "2019-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "102310.19",
+                "deposit": "4004.00",
+                "opt_month": "2018-12",
+                "opt_money": "-0",
+                "opt_day": "2018-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "98306.19",
+                "deposit": "4004.00",
+                "opt_month": "2018-11",
+                "opt_money": "-0",
+                "opt_day": "2018-11-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "94302.19",
+                "deposit": "4004.00",
+                "opt_month": "2018-10",
+                "opt_money": "-0",
+                "opt_day": "2018-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "90298.19",
+                "deposit": "4004.00",
+                "opt_month": "2018-09",
+                "opt_money": "-0",
+                "opt_day": "2018-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "86294.19",
+                "deposit": "4004.00",
+                "opt_month": "2018-08",
+                "opt_money": "-0",
+                "opt_day": "2018-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "82290.19",
+                "deposit": "4004.00",
+                "opt_month": "2018-07",
+                "opt_money": "-0",
+                "opt_day": "2018-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "78286.19",
+                "deposit": "874.35",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "77411.84",
+                "deposit": "3432.00",
+                "opt_month": "2018-06",
+                "opt_money": "-0",
+                "opt_day": "2018-06-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "73979.84",
+                "deposit": "3432.00",
+                "opt_month": "2018-05",
+                "opt_money": "-0",
+                "opt_day": "2018-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "70547.84",
+                "deposit": "3432.00",
+                "opt_month": "2018-04",
+                "opt_money": "-0",
+                "opt_day": "2018-04-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "67115.84",
+                "deposit": "3432.00",
+                "opt_month": "2018-03",
+                "opt_money": "-0",
+                "opt_day": "2018-03-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "63683.84",
+                "deposit": "3432.00",
+                "opt_month": "2018-02",
+                "opt_money": "-0",
+                "opt_day": "2018-02-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "60251.84",
+                "deposit": "3432.00",
+                "opt_month": "2018-01",
+                "opt_money": "-0",
+                "opt_day": "2018-01-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "56819.84",
+                "deposit": "3432.00",
+                "opt_month": "2017-12",
+                "opt_money": "-0",
+                "opt_day": "2017-12-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "53387.84",
+                "deposit": "3432.00",
+                "opt_month": "2017-11",
+                "opt_money": "-0",
+                "opt_day": "2017-11-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "49955.84",
+                "deposit": "3432.00",
+                "opt_month": "2017-10",
+                "opt_money": "-0",
+                "opt_day": "2017-10-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "46523.84",
+                "deposit": "3432.00",
+                "opt_month": "2017-09",
+                "opt_money": "-0",
+                "opt_day": "2017-09-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "43091.84",
+                "deposit": "3432.00",
+                "opt_month": "2017-08",
+                "opt_money": "-0",
+                "opt_day": "2017-08-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "39659.84",
+                "deposit": "3432.00",
+                "opt_month": "2017-07",
+                "opt_money": "-0",
+                "opt_day": "2017-07-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "36227.84",
+                "deposit": "404.62",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-30",
+                "opt_type": "年度结息",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "35823.22",
+                "deposit": "2980.00",
+                "opt_month": "2017-06",
+                "opt_money": "-0",
+                "opt_day": "2017-06-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "32843.22",
+                "deposit": "2980.00",
+                "opt_month": "2017-05",
+                "opt_money": "-0",
+                "opt_day": "2017-05-09",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "29863.22",
+                "deposit": "2980.00",
+                "opt_month": "2017-04",
+                "opt_money": "-0",
+                "opt_day": "2017-04-11",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "26883.22",
+                "deposit": "2980.00",
+                "opt_month": "2017-03",
+                "opt_money": "-0",
+                "opt_day": "2017-03-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "23903.22",
+                "deposit": "2980.00",
+                "opt_month": "2017-02",
+                "opt_money": "-0",
+                "opt_day": "2017-02-08",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            },
+            {
+                "balance": "20923.22",
+                "deposit": "2980.00",
+                "opt_month": "2017-01",
+                "opt_money": "-0",
+                "opt_day": "2017-01-10",
+                "opt_type": "汇缴分配",
+                "opt_company": "北京市通州区中心血站"
+            }
+        ],
+        "bills": [
+            {
+                "year_range": "2020-2021",
+                "amount": "237599.81 ",
+                "detail": {
+                    "last_settlement": "186119.81 ",
+                    "current_deposit": "51480.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "0.00 "
+                }
+            },
+            {
+                "year_range": "2019-2020",
+                "amount": "186119.81 ",
+                "detail": {
+                    "last_settlement": "127761.11 ",
+                    "current_deposit": "56280.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "2078.70 "
+                }
+            },
+            {
+                "year_range": "2018-2019",
+                "amount": "127761.11 ",
+                "detail": {
+                    "last_settlement": "78286.19 ",
+                    "current_deposit": "48048.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "1426.92 "
+                }
+            },
+            {
+                "year_range": "2017-2018",
+                "amount": "78286.19 ",
+                "detail": {
+                    "last_settlement": "36227.84 ",
+                    "current_deposit": "41184.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "874.35 "
+                }
+            },
+            {
+                "year_range": "2016-2017",
+                "amount": "36227.84 ",
+                "detail": {
+                    "last_settlement": "20923.22 ",
+                    "current_deposit": "17880.00 ",
+                    "current_withdraw": "0.00 ",
+                    "interest": "404.62 "
+                }
+            }
+        ]
+    }
+}
